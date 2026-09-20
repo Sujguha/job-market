@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 131
+    "count": 143
   },
   {
     "company": "Synsel Techniek",
-    "count": 55
+    "count": 52
   },
   {
     "company": "mycareernow GmbH",
@@ -24,19 +24,31 @@
     "count": 14
   },
   {
+    "company": "We ARE Recruitment Group",
+    "count": 14
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 13
+  },
+  {
     "company": "FERCHAU GmbH",
     "count": 13
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 12
-  },
-  {
     "company": "PricewaterhouseCoopers",
+    "count": 13
+  },
+  {
+    "company": "Bright Professionals",
+    "count": 13
+  },
+  {
+    "company": "Unknown",
     "count": 12
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "Ministerie van Defensie",
     "count": 12
   },
   {
@@ -44,7 +56,7 @@
     "count": 12
   },
   {
-    "company": "Lam Research",
+    "company": "Witron Service GmbH & Co. KG",
     "count": 11
   },
   {
@@ -52,11 +64,7 @@
     "count": 11
   },
   {
-    "company": "PLATH GmbH & Co. KG",
-    "count": 10
-  },
-  {
-    "company": "Unknown",
+    "company": "Lam Research",
     "count": 10
   },
   {
@@ -64,7 +72,7 @@
     "count": 10
   },
   {
-    "company": "Ministerie van Defensie",
+    "company": "Richemont",
     "count": 10
   },
   {
@@ -76,16 +84,8 @@
     "count": 9
   },
   {
-    "company": "Richemont",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "NLwerkt",
-    "count": 9
+    "company": "Accenture",
+    "count": 8
   },
   {
     "company": "Gi Group Outsourcing Deutschland GmbH",
@@ -96,7 +96,7 @@
     "count": 8
   },
   {
-    "company": "Witron Service GmbH & Co. KG",
+    "company": "Roche",
     "count": 8
   }
 ]
