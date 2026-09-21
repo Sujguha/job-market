@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 143
+    "count": 149
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
+    "count": 51
   },
   {
     "company": "mycareernow GmbH",
@@ -17,26 +17,14 @@
   },
   {
     "company": "ASML",
-    "count": 19
+    "count": 20
   },
   {
     "company": "Jobgether",
-    "count": 14
+    "count": 15
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 14
-  },
-  {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 13
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 13
-  },
-  {
-    "company": "PricewaterhouseCoopers",
     "count": 13
   },
   {
@@ -44,7 +32,23 @@
     "count": 13
   },
   {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 12
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 12
+  },
+  {
+    "company": "Witron Service GmbH & Co. KG",
+    "count": 12
+  },
+  {
     "company": "Unknown",
+    "count": 12
+  },
+  {
+    "company": "PricewaterhouseCoopers",
     "count": 12
   },
   {
@@ -54,10 +58,6 @@
   {
     "company": "Talent&Pro",
     "count": 12
-  },
-  {
-    "company": "Witron Service GmbH & Co. KG",
-    "count": 11
   },
   {
     "company": "CGI",
@@ -84,19 +84,19 @@
     "count": 9
   },
   {
-    "company": "Accenture",
-    "count": 8
-  },
-  {
-    "company": "Gi Group Outsourcing Deutschland GmbH",
-    "count": 8
-  },
-  {
-    "company": "SThree Germany",
-    "count": 8
-  },
-  {
     "company": "Roche",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "NLwerkt",
+    "count": 9
+  },
+  {
+    "company": "Accenture",
     "count": 8
   }
 ]

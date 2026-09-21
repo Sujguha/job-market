@@ -4,608 +4,643 @@
     "country": "Germany",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 10.8
+    "avg_days_open": 11.6
   },
   {
     "city": "Hameln",
     "country": "Germany",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 89.2
+    "avg_days_open": 90.0
   },
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "role": "Program Manager",
     "count": 3,
-    "avg_days_open": 29.4
-  },
-  {
-    "city": "Grünenplan",
-    "country": "Germany",
-    "role": "Program Manager",
-    "count": 1,
-    "avg_days_open": 22.2
+    "avg_days_open": 30.2
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Program Manager",
-    "count": 16,
-    "avg_days_open": 21.7
+    "count": 15,
+    "avg_days_open": 22.6
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Program Manager",
     "count": 6,
-    "avg_days_open": 11.2
+    "avg_days_open": 12.1
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Program Manager",
-    "count": 2,
-    "avg_days_open": 39.2
+    "count": 3,
+    "avg_days_open": 21.7
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Program Manager",
-    "count": 4,
-    "avg_days_open": 40.8
+    "count": 3,
+    "avg_days_open": 36.3
   },
   {
     "city": "Ludwigsburg",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 3.0
+    "avg_days_open": 3.8
   },
   {
     "city": "Wissen",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 37.8
+    "avg_days_open": 38.7
   },
   {
     "city": "Lindenberg im Allgäu",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 12.0
+    "avg_days_open": 12.8
   },
   {
     "city": "Dortmund",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 12.6
+    "avg_days_open": 13.4
+  },
+  {
+    "city": "Münster",
+    "country": "Germany",
+    "role": "Program Manager",
+    "count": 1,
+    "avg_days_open": 2.4
+  },
+  {
+    "city": "Verl",
+    "country": "Germany",
+    "role": "Program Manager",
+    "count": 1,
+    "avg_days_open": 2.4
   },
   {
     "city": "Darmstadt",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 537.6
+    "avg_days_open": 538.4
+  },
+  {
+    "city": "Herne",
+    "country": "Germany",
+    "role": "Program Manager",
+    "count": 1,
+    "avg_days_open": 0.5
   },
   {
     "city": "Unterschleißheim",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 30.7
+    "avg_days_open": 31.5
   },
   {
     "city": "Gerlingen",
     "country": "Germany",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 22.1
+    "avg_days_open": 22.9
   },
   {
     "city": "Wiesbaden",
     "country": "Germany",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 16.3
+    "avg_days_open": 17.1
   },
   {
     "city": "Feldkirchen",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 93.1
+    "avg_days_open": 93.9
   },
   {
     "city": "Weeze",
     "country": "Germany",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 58.1
+    "avg_days_open": 58.9
   },
   {
     "city": "Neuwied",
     "country": "Germany",
     "role": "Program Manager",
-    "count": 2,
-    "avg_days_open": 9.9
+    "count": 1,
+    "avg_days_open": 9.0
   },
   {
     "city": "Friedrichstadt",
     "country": "Germany",
     "role": "Release Manager",
     "count": 3,
-    "avg_days_open": 20.3
+    "avg_days_open": 21.1
   },
   {
     "city": "Eicken",
     "country": "Germany",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 19.8
+    "avg_days_open": 20.6
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Release Manager",
-    "count": 13,
-    "avg_days_open": 19.0
+    "count": 12,
+    "avg_days_open": 20.9
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 25.7
+    "avg_days_open": 26.6
   },
   {
     "city": "Ulm",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 3.0
+    "avg_days_open": 3.8
   },
   {
     "city": "Burgkunstadt",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 1.9
+    "avg_days_open": 2.7
   },
   {
     "city": "Gütersloh",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 1.6
+    "avg_days_open": 2.5
   },
   {
     "city": "Oelde",
     "country": "Germany",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 11.7
+    "avg_days_open": 12.6
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 43.9
+    "avg_days_open": 44.7
   },
   {
     "city": "Region Hannover (Kreis)",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 99.4
+    "avg_days_open": 100.3
   },
   {
     "city": "Altstadt",
     "country": "Germany",
     "role": "Release Manager",
     "count": 6,
-    "avg_days_open": 27.6
+    "avg_days_open": 28.4
   },
   {
     "city": "Kiel",
     "country": "Germany",
     "role": "Release Manager",
     "count": 3,
-    "avg_days_open": 32.7
+    "avg_days_open": 33.6
   },
   {
     "city": "Burgwedel",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 79.5
+    "avg_days_open": 80.3
   },
   {
     "city": "Randersacker",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 180.5
+    "avg_days_open": 181.4
   },
   {
     "city": "Salzgitter",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 103.4
+    "avg_days_open": 104.2
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 9.7
+    "avg_days_open": 10.6
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 9.2
+    "avg_days_open": 10.1
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 9.7
-  },
-  {
-    "city": "Wasseralfingen",
-    "country": "Germany",
-    "role": "Release Manager",
-    "count": 1,
-    "avg_days_open": 40.3
+    "avg_days_open": 10.6
   },
   {
     "city": "Geneicken",
     "country": "Germany",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 23.7
+    "avg_days_open": 24.5
+  },
+  {
+    "city": "Wasseralfingen",
+    "country": "Germany",
+    "role": "Release Manager",
+    "count": 1,
+    "avg_days_open": 41.1
   },
   {
     "city": "Mitte",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 1102.1
+    "avg_days_open": 1102.9
   },
   {
     "city": "Friedrichshain",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 33.2
+    "avg_days_open": 34.1
   },
   {
     "city": "West",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 2.1
+    "avg_days_open": 2.9
   },
   {
     "city": "Altbrand",
     "country": "Germany",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 3.2
+    "avg_days_open": 4.1
+  },
+  {
+    "city": "Feudenheim",
+    "country": "Germany",
+    "role": "Release Manager",
+    "count": 1,
+    "avg_days_open": 9.1
   },
   {
     "city": "Fürstenfeldbruck",
     "country": "Germany",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 23.4
+    "avg_days_open": 24.2
   },
   {
     "city": "Rotenburg (Wümme)",
     "country": "Germany",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 31.1
+    "avg_days_open": 31.8
   },
   {
     "city": "Leverkusen",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 19.6
+    "avg_days_open": 20.4
   },
   {
     "city": "Stuttgart",
     "country": "Germany",
     "role": "PMO",
     "count": 3,
-    "avg_days_open": 7.8
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "role": "PMO",
-    "count": 4,
-    "avg_days_open": 17.4
+    "avg_days_open": 5.2
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "PMO",
     "count": 6,
-    "avg_days_open": 13.6
+    "avg_days_open": 11.0
   },
   {
     "city": "Tuttlingen",
     "country": "Germany",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 32.8
+    "avg_days_open": 33.5
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "role": "PMO",
+    "count": 2,
+    "avg_days_open": 35.2
   },
   {
     "city": "Heidelberg",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 18.7
+    "avg_days_open": 19.5
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 16.6
+    "avg_days_open": 17.4
   },
   {
     "city": "Nürnberg",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 0.1
+    "avg_days_open": 0.9
   },
   {
     "city": "Oberkochen",
     "country": "Germany",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 1.2
+    "avg_days_open": 1.9
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 18.6
+    "avg_days_open": 19.4
   },
   {
     "city": "Lübeck",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 18.6
+    "avg_days_open": 19.4
   },
   {
     "city": "Cuxhaven",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 18.6
+    "avg_days_open": 19.4
   },
   {
     "city": "Bonn",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 4.6
+    "avg_days_open": 5.4
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "PMO",
     "count": 3,
-    "avg_days_open": 11.6
+    "avg_days_open": 12.4
   },
   {
     "city": "Metzingen",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 17.6
+    "avg_days_open": 18.4
   },
   {
     "city": "Weingartshof",
     "country": "Germany",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 32.3
+    "avg_days_open": 33.2
   },
   {
     "city": "Bergheim",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 16.7
+    "avg_days_open": 17.5
   },
   {
     "city": "Altstadt-Lehel",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 16.7
+    "avg_days_open": 17.5
+  },
+  {
+    "city": "Mitte",
+    "country": "Germany",
+    "role": "PMO",
+    "count": 1,
+    "avg_days_open": 0.6
   },
   {
     "city": "Düsseldorf",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 38.6
+    "avg_days_open": 39.5
+  },
+  {
+    "city": "Springe",
+    "country": "Germany",
+    "role": "PMO",
+    "count": 1,
+    "avg_days_open": 10.4
   },
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "role": "PMO",
     "count": 3,
-    "avg_days_open": 8.7
+    "avg_days_open": 7.7
   },
   {
     "city": "Lehrte",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 36.0
+    "avg_days_open": 36.8
   },
   {
     "city": "Höchst",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 66.6
+    "avg_days_open": 67.4
   },
   {
     "city": "Tübingen",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 6.1
+    "avg_days_open": 6.9
   },
   {
     "city": "Essen",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 17.7
+    "avg_days_open": 18.5
   },
   {
     "city": "Troisdorf",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 21.0
+    "avg_days_open": 21.8
   },
   {
     "city": "Lindenberg im Allgäu",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 16.6
+    "avg_days_open": 17.4
   },
   {
     "city": "Erfurt",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 3.7
+    "avg_days_open": 4.6
   },
   {
     "city": "Kiel",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 9.1
+    "avg_days_open": 10.0
   },
   {
     "city": "Fohren-Linden",
     "country": "Germany",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 1.1
+    "avg_days_open": 1.9
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Project Manager",
-    "count": 4,
-    "avg_days_open": 4.3
+    "count": 3,
+    "avg_days_open": 6.5
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Project Manager",
     "count": 3,
-    "avg_days_open": 3.2
+    "avg_days_open": 4.0
   },
   {
     "city": "Kempten (Allgäu)",
     "country": "Germany",
     "role": "Project Manager",
     "count": 8,
-    "avg_days_open": 15.0
+    "avg_days_open": 15.8
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "role": "Project Manager",
     "count": 3,
-    "avg_days_open": 7.0
+    "avg_days_open": 7.9
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 21.5
+    "avg_days_open": 22.3
   },
   {
     "city": "Kiel",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 6.0
+    "avg_days_open": 6.8
   },
   {
     "city": "Lahr/Schwarzwald",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 16.3
+    "avg_days_open": 17.1
   },
   {
     "city": "Weilburg",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 21.5
+    "avg_days_open": 22.3
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "role": "Project Manager",
+    "count": 1,
+    "avg_days_open": 7.8
   },
   {
     "city": "Düsseldorf",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 89.2
-  },
-  {
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "role": "Project Manager",
-    "count": 2,
-    "avg_days_open": 6.5
+    "avg_days_open": 90.0
   },
   {
     "city": "Aalen",
     "country": "Germany",
     "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 0.1
+    "count": 2,
+    "avg_days_open": 0.9
   },
   {
     "city": "Herzogenrath",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 0.1
+    "avg_days_open": 0.9
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Project Manager",
-    "count": 2,
+    "count": 4,
     "avg_days_open": 3.5
   },
   {
@@ -613,6733 +648,6656 @@
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 18.7
+    "avg_days_open": 19.5
   },
   {
     "city": "Leipzig",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 3.0
-  },
-  {
-    "city": "Essen",
-    "country": "Germany",
-    "role": "Project Manager",
-    "count": 3,
-    "avg_days_open": 2.0
+    "avg_days_open": 3.8
   },
   {
     "city": "Bergisch Gladbach",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 18.7
+    "avg_days_open": 19.5
+  },
+  {
+    "city": "Essen",
+    "country": "Germany",
+    "role": "Project Manager",
+    "count": 3,
+    "avg_days_open": 2.8
   },
   {
     "city": "Stuttgart",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 3.0
+    "avg_days_open": 3.8
   },
   {
     "city": "Bocholt",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 0.1
+    "avg_days_open": 0.9
   },
   {
     "city": "Einbeck",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 1.6
+    "avg_days_open": 2.4
   },
   {
     "city": "Koblenz",
     "country": "Germany",
     "role": "Project Manager",
     "count": 3,
-    "avg_days_open": 10.2
+    "avg_days_open": 11.0
   },
   {
     "city": "Aachen",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 7.1
+    "avg_days_open": 7.9
   },
   {
     "city": "Schwäbisch Gmünd",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 27.5
+    "avg_days_open": 28.3
   },
   {
     "city": "Singen (Hohentwiel)",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 1.1
+    "avg_days_open": 1.9
   },
   {
     "city": "Ettlingen",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 4.2
+    "avg_days_open": 5.1
   },
   {
     "city": "Heidenheim (Kreis)",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 16.7
+    "avg_days_open": 17.6
   },
   {
     "city": "Bochum",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 7.6
+    "avg_days_open": 8.4
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 12.6
+    "avg_days_open": 13.4
   },
   {
-    "city": "Herzogenaurach",
+    "city": "Köln",
     "country": "Germany",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 32.6
-  },
-  {
-    "city": "Garching bei München",
-    "country": "Germany",
-    "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 0.1
+    "avg_days_open": 26.4
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 19.4
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "role": "Delivery Manager",
-    "count": 4,
-    "avg_days_open": 182.0
+    "avg_days_open": 20.2
   },
   {
     "city": "Bonn",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 14.9
-  },
-  {
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "role": "Delivery Manager",
-    "count": 5,
-    "avg_days_open": 59.8
+    "avg_days_open": 21.2
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 13,
-    "avg_days_open": 34.6
+    "avg_days_open": 28.7
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "role": "Delivery Manager",
+    "count": 4,
+    "avg_days_open": 182.8
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "role": "Delivery Manager",
+    "count": 5,
+    "avg_days_open": 60.6
   },
   {
     "city": "Lübbenau/Spreewald",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 8,
-    "avg_days_open": 24.3
+    "avg_days_open": 25.1
   },
   {
     "city": "Ulm",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 20.5
-  },
-  {
-    "city": "Aachen",
-    "country": "Germany",
-    "role": "Delivery Manager",
-    "count": 1,
-    "avg_days_open": 9.0
+    "avg_days_open": 21.2
   },
   {
     "city": "Wiesbaden",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 192.6
+    "avg_days_open": 193.4
+  },
+  {
+    "city": "Aachen",
+    "country": "Germany",
+    "role": "Delivery Manager",
+    "count": 1,
+    "avg_days_open": 9.8
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 23.6
+    "avg_days_open": 24.4
+  },
+  {
+    "city": "Mitte",
+    "country": "Germany",
+    "role": "Delivery Manager",
+    "count": 1,
+    "avg_days_open": 9.1
   },
   {
     "city": "Altstadt-Lehel",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 105.8
+    "avg_days_open": 106.5
   },
   {
     "city": "Bad Nauheim",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 1302.8
+    "avg_days_open": 1303.7
   },
   {
     "city": "Stuttgart",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 42.6
+    "avg_days_open": 43.4
+  },
+  {
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "role": "Delivery Manager",
+    "count": 1,
+    "avg_days_open": 24.1
   },
   {
     "city": "Saarlouis",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 23.3
+    "avg_days_open": 24.1
   },
   {
     "city": "Borken",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 23.3
-  },
-  {
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "role": "Delivery Manager",
-    "count": 1,
-    "avg_days_open": 23.3
+    "avg_days_open": 24.1
   },
   {
     "city": "Leipzig",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 22.6
+    "avg_days_open": 23.4
   },
   {
     "city": "Charlottenburg",
     "country": "Germany",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 10.2
+    "avg_days_open": 11.1
   },
   {
-    "city": "Hubbelrath",
+    "city": "Salzgitter",
     "country": "Germany",
-    "role": "Delivery Manager",
-    "count": 1,
-    "avg_days_open": 55.9
+    "role": "Change Manager",
+    "count": 2,
+    "avg_days_open": 61.1
   },
   {
     "city": "Parkstein",
     "country": "Germany",
     "role": "Change Manager",
     "count": 5,
-    "avg_days_open": 12.1
+    "avg_days_open": 9.9
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Change Manager",
-    "count": 16,
-    "avg_days_open": 16.5
+    "count": 19,
+    "avg_days_open": 14.8
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Change Manager",
-    "count": 3,
-    "avg_days_open": 8.5
+    "count": 4,
+    "avg_days_open": 8.1
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Change Manager",
     "count": 3,
-    "avg_days_open": 11.3
+    "avg_days_open": 12.1
+  },
+  {
+    "city": "Mainz",
+    "country": "Germany",
+    "role": "Change Manager",
+    "count": 1,
+    "avg_days_open": 1.9
   },
   {
     "city": "Ober-Ramstadt",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 29.3
-  },
-  {
-    "city": "Salzgitter",
-    "country": "Germany",
-    "role": "Change Manager",
-    "count": 1,
-    "avg_days_open": 108.1
+    "avg_days_open": 30.1
   },
   {
     "city": "Lebenstedt",
     "country": "Germany",
     "role": "Change Manager",
-    "count": 1,
-    "avg_days_open": 4.9
+    "count": 2,
+    "avg_days_open": 3.0
   },
   {
     "city": "Dresden",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 2.3
+    "avg_days_open": 3.1
   },
   {
     "city": "Freising",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 66.6
+    "avg_days_open": 67.5
+  },
+  {
+    "city": "Neubrandenburg",
+    "country": "Germany",
+    "role": "Change Manager",
+    "count": 1,
+    "avg_days_open": 0.8
   },
   {
     "city": "Erlangen-Höchstadt (Kreis)",
     "country": "Germany",
     "role": "Change Manager",
     "count": 2,
-    "avg_days_open": 20.9
+    "avg_days_open": 21.7
   },
   {
     "city": "Bonn",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 10.7
+    "avg_days_open": 11.6
   },
   {
     "city": "Altstadt",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 1041.0
+    "avg_days_open": 1041.8
   },
   {
     "city": "Handelshäfen",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 65.8
+    "avg_days_open": 66.6
   },
   {
     "city": "Feilitzsch",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 450.9
+    "avg_days_open": 451.7
   },
   {
-    "city": "Alsterdorf",
-    "country": "Germany",
-    "role": "Change Manager",
-    "count": 4,
-    "avg_days_open": 18.1
-  },
-  {
-    "city": "Düsseldorf",
+    "city": "Ermingen",
     "country": "Germany",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 100.3
-  },
-  {
-    "city": "Altenwerder",
-    "country": "Germany",
-    "role": "Change Manager",
-    "count": 1,
-    "avg_days_open": 29.7
-  },
-  {
-    "city": "Hörde",
-    "country": "Germany",
-    "role": "Change Manager",
-    "count": 1,
-    "avg_days_open": 9.7
-  },
-  {
-    "city": "Buntekuh",
-    "country": "Germany",
-    "role": "Change Manager",
-    "count": 1,
-    "avg_days_open": 33.1
-  },
-  {
-    "city": "Wedding",
-    "country": "Germany",
-    "role": "Change Manager",
-    "count": 1,
-    "avg_days_open": 4.8
+    "avg_days_open": 0.1
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 8,
-    "avg_days_open": 131.5
+    "avg_days_open": 132.1
   },
   {
     "city": "Osnabrück",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 10.3
+    "avg_days_open": 11.1
+  },
+  {
+    "city": "Mannheim",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 2,
+    "avg_days_open": 48.1
   },
   {
     "city": "Bonn",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 17.8
+    "avg_days_open": 18.5
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 58.0
+    "avg_days_open": 58.8
   },
   {
     "city": "Freiburg im Breisgau",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 22.2
-  },
-  {
-    "city": "Mannheim",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 60.0
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 4,
-    "avg_days_open": 100.9
+    "avg_days_open": 23.1
   },
   {
     "city": "Freiburg (Elbe)",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 20.8
+    "avg_days_open": 21.7
   },
   {
     "city": "Hammerbrook",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 548.5
+    "avg_days_open": 549.3
   },
   {
     "city": "Leipzig (Kreis)",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 98.4
+    "avg_days_open": 99.3
   },
   {
     "city": "Leipzig",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 10.2
+    "avg_days_open": 11.1
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 3,
+    "avg_days_open": 123.1
   },
   {
     "city": "Kreuzberg",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 63.4
+    "avg_days_open": 64.3
   },
   {
     "city": "Zell am Main",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 1.3
+    "avg_days_open": 2.1
   },
   {
     "city": "Niedernhall",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 30.8
-  },
-  {
-    "city": "Ahlen",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Bielefeld",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Bad Homburg vor der Höhe",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Emden",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Bayreuth",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Dorsten",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Esslingen am Neckar",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Dortmund",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Brandenburg an der Havel",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Bietigheim-Bissingen",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Albstadt",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Bottrop",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Essen",
-    "country": "Germany",
-    "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 31.7
   },
   {
     "city": "Euskirchen",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Bergisch Gladbach",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Bernau bei Berlin",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Düren",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Dresden",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Bornheim",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Erfurt",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Erlangen",
     "country": "Germany",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Celle",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Dessau-Roßlau",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Duisburg",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Dinslaken",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Bochum",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Aschaffenburg",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Baden-Baden",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Bünde",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Bamberg",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Bruchsal",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Arnsberg",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Darmstadt",
+    "country": "Germany",
+    "role": "Agile Coach",
+    "count": 1,
+    "avg_days_open": 1.1
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Scrum Master",
-    "count": 1,
-    "avg_days_open": 32.6
+    "count": 2,
+    "avg_days_open": 16.9
   },
   {
     "city": "Stuttgart",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 67.6
+    "avg_days_open": 68.5
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 10.6
+    "avg_days_open": 11.4
   },
   {
     "city": "Münster",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 9.2
+    "avg_days_open": 10.0
   },
   {
     "city": "Karlsruhe",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 8.1
+    "avg_days_open": 8.9
   },
   {
     "city": "Potsdam",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 1.1
+    "avg_days_open": 1.9
   },
   {
     "city": "Gummersbach",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 8.2
+    "avg_days_open": 9.0
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 3,
-    "avg_days_open": 15.1
+    "avg_days_open": 15.9
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 4,
-    "avg_days_open": 14.5
+    "avg_days_open": 15.4
   },
   {
     "city": "Sindlingen",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 415.5
+    "avg_days_open": 416.3
+  },
+  {
+    "city": "Rothenturm",
+    "country": "Germany",
+    "role": "Scrum Master",
+    "count": 1,
+    "avg_days_open": 0.2
   },
   {
     "city": "Doos",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 36.5
+    "avg_days_open": 37.3
   },
   {
     "city": "Herzogenrath",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 341.9
+    "avg_days_open": 342.7
   },
   {
     "city": "Mainz",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 1.7
-  },
-  {
-    "city": "Soltau",
-    "country": "Germany",
-    "role": "Scrum Master",
-    "count": 1,
-    "avg_days_open": 26.9
-  },
-  {
-    "city": "Bremen",
-    "country": "Germany",
-    "role": "Scrum Master",
-    "count": 1,
-    "avg_days_open": 2.4
+    "avg_days_open": 2.6
   },
   {
     "city": "Jena",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 16.6
+    "avg_days_open": 17.4
+  },
+  {
+    "city": "Bremen",
+    "country": "Germany",
+    "role": "Scrum Master",
+    "count": 1,
+    "avg_days_open": 3.2
   },
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Hammerbrook",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 627.4
+    "avg_days_open": 628.2
   },
   {
     "city": "Aachen",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 714.8
+    "avg_days_open": 715.6
   },
   {
     "city": "Gallus",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 7.9
+    "avg_days_open": 8.7
   },
   {
     "city": "Mitte",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 20.8
+    "avg_days_open": 21.7
   },
   {
     "city": "Winterhude",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 65.8
+    "avg_days_open": 66.6
   },
   {
     "city": "Schöneberg",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 627.4
+    "avg_days_open": 628.2
   },
   {
     "city": "Eilendorf",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 9.2
+    "avg_days_open": 10.0
   },
   {
     "city": "Osnabrück",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 22.7
+    "avg_days_open": 23.5
   },
   {
     "city": "Schoppershof",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.7
+  },
+  {
+    "city": "Hamburg-Altstadt",
+    "country": "Germany",
+    "role": "Scrum Master",
+    "count": 1,
+    "avg_days_open": 0.2
   },
   {
     "city": "Baumheide",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 1041.0
+    "avg_days_open": 1041.8
   },
   {
     "city": "Bothfeld",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 962.5
+    "avg_days_open": 963.3
   },
   {
     "city": "Bockenheim",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 216.6
+    "avg_days_open": 217.4
   },
   {
     "city": "Gartenstadt/Stadtweide",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 1041.0
+    "avg_days_open": 1041.8
   },
   {
     "city": "Beiertheim-Bulach",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 627.4
+    "avg_days_open": 628.2
   },
   {
     "city": "Betzenhausen",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 1041.0
+    "avg_days_open": 1041.8
   },
   {
     "city": "Au-Haidhausen",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 28.7
+    "avg_days_open": 29.5
   },
   {
     "city": "Flugfeld",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 130.5
+    "avg_days_open": 131.3
   },
   {
     "city": "Wiesbaden",
     "country": "Germany",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 23.6
-  },
-  {
-    "city": "Leipzig",
-    "country": "Germany",
-    "role": "Scrum Master",
-    "count": 1,
-    "avg_days_open": 21.5
+    "avg_days_open": 24.4
   },
   {
     "city": "Bonn",
     "country": "Germany",
     "role": "Scrum Master",
-    "count": 2,
-    "avg_days_open": 59.5
+    "count": 1,
+    "avg_days_open": 30.5
   },
   {
     "city": "Wiesbaden",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 4,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 7,
-    "avg_days_open": 318.2
+    "avg_days_open": 319.0
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 75.4
+    "avg_days_open": 76.2
   },
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 8.8
+    "avg_days_open": 9.7
   },
   {
     "city": "Altstadt",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 9.7
+    "avg_days_open": 10.5
   },
   {
     "city": "Westend-Süd",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 2,
-    "avg_days_open": 4.5
+    "avg_days_open": 5.2
   },
   {
     "city": "Mitte",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 3,
-    "avg_days_open": 11.2
+    "avg_days_open": 12.1
   },
   {
     "city": "Friedrichstadt",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Gleißbühl",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Wedding",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Hamburg-Altstadt",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Bult",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Altstadt-Nord",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Altstadt-Lehel",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Altona-Altstadt",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 2,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.6
   },
   {
     "city": "Ehmen",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.6
   },
   {
     "city": "Feldmoching-Hasenbergl",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.6
   },
   {
     "city": "Monheim am Rhein",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 27.7
+    "avg_days_open": 28.5
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 8.4
+    "avg_days_open": 9.2
   },
   {
     "city": "Ermingen",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 2,
-    "avg_days_open": 48.3
+    "avg_days_open": 49.1
   },
   {
     "city": "Nürnberg",
     "country": "Germany",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 2.6
+    "avg_days_open": 3.4
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 10.3
+    "avg_days_open": 11.2
   },
   {
     "city": "Wannsee",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 9.2
+    "avg_days_open": 10.0
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 29.4
+    "avg_days_open": 30.2
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 12,
-    "avg_days_open": 30.1
+    "avg_days_open": 26.7
   },
   {
     "city": "Rengsdorf",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 35.1
+    "avg_days_open": 35.9
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 12.4
+    "avg_days_open": 13.2
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 12.5
-  },
-  {
-    "city": "Minden",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 1,
-    "avg_days_open": 23.1
+    "avg_days_open": 13.3
   },
   {
     "city": "Nordrhein-Westfalen",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 5.5
+    "avg_days_open": 6.3
+  },
+  {
+    "city": "Minden",
+    "country": "Germany",
+    "role": "Portfolio Manager",
+    "count": 1,
+    "avg_days_open": 23.9
   },
   {
     "city": "Düsseldorf",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 0.1
-  },
-  {
-    "city": "Sachsenhausen",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 1,
-    "avg_days_open": 0.7
-  },
-  {
-    "city": "Deutschland",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 15,
-    "avg_days_open": 16.9
-  },
-  {
-    "city": "Bensheim",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 1,
-    "avg_days_open": 2.6
-  },
-  {
-    "city": "Wedding",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 1,
-    "avg_days_open": 12.2
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 1,
-    "avg_days_open": 9.6
-  },
-  {
-    "city": "Kreuzberg",
-    "country": "Germany",
-    "role": "Portfolio Manager",
-    "count": 1,
-    "avg_days_open": 0.7
+    "avg_days_open": 0.9
   },
   {
     "city": "Aalen",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 15.9
+    "avg_days_open": 4.8
   },
   {
-    "city": "Bochum",
+    "city": "Deutschland",
+    "country": "Germany",
+    "role": "Portfolio Manager",
+    "count": 17,
+    "avg_days_open": 12.7
+  },
+  {
+    "city": "Berlin",
     "country": "Germany",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 5.7
+    "avg_days_open": 10.4
+  },
+  {
+    "city": "Bensheim",
+    "country": "Germany",
+    "role": "Portfolio Manager",
+    "count": 1,
+    "avg_days_open": 3.4
+  },
+  {
+    "city": "Wedding",
+    "country": "Germany",
+    "role": "Portfolio Manager",
+    "count": 1,
+    "avg_days_open": 13.0
+  },
+  {
+    "city": "Kreuzberg",
+    "country": "Germany",
+    "role": "Portfolio Manager",
+    "count": 1,
+    "avg_days_open": 1.6
   },
   {
     "city": "Stuttgart",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 17.8
+    "avg_days_open": 18.6
   },
   {
     "city": "Paderborn",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 10.2
+    "avg_days_open": 11.0
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Transformation Manager",
-    "count": 13,
-    "avg_days_open": 20.1
+    "count": 14,
+    "avg_days_open": 22.6
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 6.3
+    "avg_days_open": 7.1
   },
   {
     "city": "Peine",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 4.2
+    "avg_days_open": 5.0
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 2.6
+    "avg_days_open": 3.4
   },
   {
     "city": "Eckernförde",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 18.5
-  },
-  {
-    "city": "Gütersloh",
-    "country": "Germany",
-    "role": "Transformation Manager",
-    "count": 3,
-    "avg_days_open": 27.7
+    "avg_days_open": 19.3
   },
   {
     "city": "Gifhorn",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 22.0
+    "avg_days_open": 22.8
   },
   {
     "city": "Biberach an der Riß",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 1.3
-  },
-  {
-    "city": "Lengerich",
-    "country": "Germany",
-    "role": "Transformation Manager",
-    "count": 1,
-    "avg_days_open": 13.0
+    "avg_days_open": 2.1
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 3,
-    "avg_days_open": 43.2
+    "avg_days_open": 44.0
   },
   {
     "city": "Ehingen (Donau)",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 5.0
+    "avg_days_open": 5.8
   },
   {
     "city": "Duisburg",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 39.6
+    "avg_days_open": 40.4
   },
   {
     "city": "Ober-Ramstadt",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 17.3
-  },
-  {
-    "city": "Weinheim",
-    "country": "Germany",
-    "role": "Transformation Manager",
-    "count": 1,
-    "avg_days_open": 11.1
+    "avg_days_open": 18.1
   },
   {
     "city": "Innenstadt",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 16.7
+    "avg_days_open": 17.5
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 10.0
+    "avg_days_open": 10.8
   },
   {
     "city": "Wedding",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 0.2
+    "avg_days_open": 1.0
   },
   {
     "city": "Nürnberg",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 36.4
+    "avg_days_open": 37.2
   },
   {
     "city": "Mainz",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 23.1
+    "avg_days_open": 23.9
   },
   {
     "city": "Doos",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 36.7
+    "avg_days_open": 37.6
   },
   {
     "city": "Freiburg im Breisgau",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 13.0
+    "avg_days_open": 13.8
   },
   {
     "city": "Bockenheim",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 24.8
+    "avg_days_open": 25.6
+  },
+  {
+    "city": "Gütersloh",
+    "country": "Germany",
+    "role": "Transformation Manager",
+    "count": 2,
+    "avg_days_open": 28.6
   },
   {
     "city": "Saarland",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 5.9
+    "avg_days_open": 6.7
   },
   {
     "city": "Velau-Steinfurt",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 18.3
+    "avg_days_open": 19.1
   },
   {
     "city": "Oberkochen",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 40.3
+    "avg_days_open": 41.1
   },
   {
     "city": "Papenburg",
     "country": "Germany",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 5.1
+    "avg_days_open": 5.9
+  },
+  {
+    "city": "Lochmühle",
+    "country": "Germany",
+    "role": "Transformation Manager",
+    "count": 1,
+    "avg_days_open": 31.5
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Product Owner",
-    "count": 7,
-    "avg_days_open": 12.3
+    "count": 6,
+    "avg_days_open": 13.0
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Product Owner",
     "count": 7,
-    "avg_days_open": 43.2
+    "avg_days_open": 44.0
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 25.7
+    "avg_days_open": 26.5
   },
   {
     "city": "Baden-Baden",
     "country": "Germany",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 6.8
+    "avg_days_open": 7.7
+  },
+  {
+    "city": "Dortmund",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 2,
+    "avg_days_open": 1.3
   },
   {
     "city": "Münster",
     "country": "Germany",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 2.4
+    "avg_days_open": 3.2
   },
   {
     "city": "Neuss",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.2
+    "avg_days_open": 2.1
   },
   {
     "city": "Reutlingen",
     "country": "Germany",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 16.2
+    "avg_days_open": 17.0
   },
   {
     "city": "Aachen",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 0.1
+    "avg_days_open": 0.9
   },
   {
     "city": "Bochum",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 39.7
+    "avg_days_open": 40.5
   },
   {
     "city": "Nürnberg",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 6.0
+    "avg_days_open": 6.8
   },
   {
-    "city": "Dortmund",
+    "city": "Planegg",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.0
+    "avg_days_open": 26.4
   },
   {
     "city": "Stuttgart",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 0.0
-  },
-  {
-    "city": "Sindelfingen",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 2,
-    "avg_days_open": 9.9
-  },
-  {
-    "city": "Freiburg im Breisgau",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 0.0
-  },
-  {
-    "city": "Schleswig-Holstein",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 24.1
-  },
-  {
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 11.3
+    "avg_days_open": 0.8
   },
   {
     "city": "Hattersheim am Main",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 33.6
+    "avg_days_open": 2.4
   },
   {
-    "city": "Berlin",
+    "city": "Sindelfingen",
     "country": "Germany",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 2.1
+    "avg_days_open": 10.8
+  },
+  {
+    "city": "Freiburg im Breisgau",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 0.8
+  },
+  {
+    "city": "Schleswig-Holstein",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 24.9
+  },
+  {
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 12.2
+  },
+  {
+    "city": "Wiesbaden",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 19.4
+  },
+  {
+    "city": "Quickborn",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 2,
+    "avg_days_open": 3.0
   },
   {
     "city": "Ennepetal",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 18.6
+    "avg_days_open": 19.4
   },
   {
     "city": "Mannheim",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.6
+    "avg_days_open": 2.4
   },
   {
     "city": "Osnabrück",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 11.6
+    "avg_days_open": 12.4
   },
   {
     "city": "Krefeld",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 12.1
+    "avg_days_open": 12.9
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 10.1
+    "avg_days_open": 10.9
   },
   {
     "city": "Unna",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.8
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 2.4
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 23.1
+    "avg_days_open": 23.9
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 23.6
+    "avg_days_open": 24.4
   },
   {
     "city": "Offenburg",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 8.6
-  },
-  {
-    "city": "Quickborn",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 9.4
   },
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 19.6
+    "avg_days_open": 20.4
   },
   {
     "city": "Lichtenau",
     "country": "Germany",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 8.1
-  },
-  {
-    "city": "Damme",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 23.6
-  },
-  {
-    "city": "Rain",
-    "country": "Germany",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 17.6
+    "avg_days_open": 8.9
   },
   {
     "city": "Neumünster",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
+  },
+  {
+    "city": "Deutschland",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 4,
+    "avg_days_open": 11.6
   },
   {
     "city": "Düsseldorf",
     "country": "Germany",
     "role": "Product Manager",
     "count": 3,
-    "avg_days_open": 15.0
+    "avg_days_open": 15.8
+  },
+  {
+    "city": "Cloppenburg",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 0.8
   },
   {
     "city": "Frankfurt am Main",
     "country": "Germany",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 5.3
-  },
-  {
-    "city": "Deutschland",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 3,
-    "avg_days_open": 13.0
+    "avg_days_open": 6.2
   },
   {
     "city": "Dortmund",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 51.0
+    "avg_days_open": 51.9
   },
   {
     "city": "Trier",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 6.5
+    "avg_days_open": 7.3
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Product Manager",
     "count": 3,
-    "avg_days_open": 16.6
+    "avg_days_open": 16.8
   },
   {
     "city": "Kiel",
     "country": "Germany",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 37.5
+    "avg_days_open": 38.3
   },
   {
     "city": "Weinstadt",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 6.0
+    "avg_days_open": 6.8
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 11.0
+    "avg_days_open": 11.8
   },
   {
     "city": "Stephanskirchen",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 4.0
+    "avg_days_open": 4.8
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Product Manager",
     "count": 9,
-    "avg_days_open": 15.1
-  },
-  {
-    "city": "Klingenberg",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 8.1
-  },
-  {
-    "city": "Heidenheim (Kreis)",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 12.0
-  },
-  {
-    "city": "Tuttlingen",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 3.3
-  },
-  {
-    "city": "Kaiserslautern",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 3.3
-  },
-  {
-    "city": "Neuss",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 8.1
-  },
-  {
-    "city": "Ennepetal",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 15.6
-  },
-  {
-    "city": "Oberkochen",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 3.1
-  },
-  {
-    "city": "Bielefeld",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 1.6
-  },
-  {
-    "city": "Laatzen",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 1.0
-  },
-  {
-    "city": "Detmold",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 13.6
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 9.1
-  },
-  {
-    "city": "Karlsruhe",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 8.6
-  },
-  {
-    "city": "Schorndorf",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 9.1
+    "avg_days_open": 16.0
   },
   {
     "city": "Alzenau",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 13.1
+    "avg_days_open": -0.1
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 2,
+    "avg_days_open": 5.0
+  },
+  {
+    "city": "Heidenheim (Kreis)",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 12.8
+  },
+  {
+    "city": "Tuttlingen",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 4.1
+  },
+  {
+    "city": "Kaiserslautern",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 4.1
+  },
+  {
+    "city": "Neuss",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 8.9
+  },
+  {
+    "city": "Ennepetal",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 16.4
+  },
+  {
+    "city": "Oberkochen",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 3.9
+  },
+  {
+    "city": "Bielefeld",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 2.4
+  },
+  {
+    "city": "Laatzen",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 1.8
+  },
+  {
+    "city": "Detmold",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 14.4
+  },
+  {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 9.4
+  },
+  {
+    "city": "Schorndorf",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 9.9
   },
   {
     "city": "Bremen",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 18.6
+    "avg_days_open": 19.4
+  },
+  {
+    "city": "Hannover",
+    "country": "Germany",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 44.4
   },
   {
     "city": "Weingarten",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 3.1
-  },
-  {
-    "city": "Hannover",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 43.6
+    "avg_days_open": 3.9
   },
   {
     "city": "Wermelskirchen",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 5.6
+    "avg_days_open": 6.4
   },
   {
     "city": "Remscheid",
     "country": "Germany",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 16.6
-  },
-  {
-    "city": "Bensheim",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 8.6
-  },
-  {
-    "city": "Albstadt",
-    "country": "Germany",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 12.1
+    "avg_days_open": 17.4
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Quality Manager",
-    "count": 17,
-    "avg_days_open": 15.1
+    "count": 15,
+    "avg_days_open": 13.6
   },
   {
     "city": "Halberstadt",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 16.5
-  },
-  {
-    "city": "Eggenfelden",
-    "country": "Germany",
-    "role": "Quality Manager",
-    "count": 2,
-    "avg_days_open": 4.5
-  },
-  {
-    "city": "Leipheim",
-    "country": "Germany",
-    "role": "Quality Manager",
-    "count": 2,
-    "avg_days_open": 35.8
+    "avg_days_open": 17.3
   },
   {
     "city": "Bubesheim",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 30.6
+    "avg_days_open": 30.5
+  },
+  {
+    "city": "Eggenfelden",
+    "country": "Germany",
+    "role": "Quality Manager",
+    "count": 2,
+    "avg_days_open": 5.2
+  },
+  {
+    "city": "Leipheim",
+    "country": "Germany",
+    "role": "Quality Manager",
+    "count": 2,
+    "avg_days_open": 36.5
   },
   {
     "city": "Köln",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 3,
-    "avg_days_open": 34.0
+    "avg_days_open": 34.8
   },
   {
     "city": "Hamburg",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 5,
-    "avg_days_open": 12.2
+    "avg_days_open": 13.0
   },
   {
     "city": "Dresden",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.6
   },
   {
     "city": "Lenzen (Elbe)",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 53.5
+    "avg_days_open": 54.3
   },
   {
     "city": "Berlin",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 16.2
+    "avg_days_open": 17.0
   },
   {
     "city": "Hiddenhausen",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 8.5
+    "avg_days_open": 9.3
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 0.1
+    "avg_days_open": 0.9
   },
   {
     "city": "Bergneustadt",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 6.2
+    "avg_days_open": 7.1
   },
   {
     "city": "Barleben",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 11.7
+    "avg_days_open": 12.5
   },
   {
     "city": "Oberkochen",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 14.9
+    "avg_days_open": 15.7
   },
   {
     "city": "Ingelheim am Rhein",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 16.7
+    "avg_days_open": 17.5
   },
   {
     "city": "Forchheim",
     "country": "Germany",
     "role": "Quality Manager",
-    "count": 1,
-    "avg_days_open": 1.6
+    "count": 3,
+    "avg_days_open": 5.4
   },
   {
     "city": "Erlangen",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 43.5
+    "avg_days_open": 58.4
   },
   {
     "city": "Essen",
     "country": "Germany",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 23.6
+    "avg_days_open": 17.4
   },
   {
     "city": "Schweinfurt",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 32.5
+    "avg_days_open": 33.3
   },
   {
     "city": "Rudersdorf",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 71.1
+    "avg_days_open": 71.9
   },
   {
     "city": "Lengerich",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 16.5
+    "avg_days_open": 17.3
   },
   {
     "city": "Jülich",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 3,
-    "avg_days_open": 11.8
+    "avg_days_open": 12.6
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 18.5
+    "avg_days_open": 19.3
   },
   {
     "city": "Freilassing",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 10.1
+    "avg_days_open": 10.9
   },
   {
     "city": "Monheim",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 22.2
+    "avg_days_open": 23.0
   },
   {
     "city": "Deutschland",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 14,
-    "avg_days_open": 17.7
+    "avg_days_open": 18.5
+  },
+  {
+    "city": "Hamburg",
+    "country": "Germany",
+    "role": "Quality Engineer",
+    "count": 3,
+    "avg_days_open": 6.0
   },
   {
     "city": "Mannheim",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 33.8
-  },
-  {
-    "city": "Hamburg",
-    "country": "Germany",
-    "role": "Quality Engineer",
-    "count": 2,
-    "avg_days_open": 0.2
+    "avg_days_open": 34.5
   },
   {
     "city": "Bad Oldesloe",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 16.7
+    "avg_days_open": 17.5
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "role": "Quality Engineer",
+    "count": 2,
+    "avg_days_open": 18.2
   },
   {
     "city": "Aachen",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 32.6
+    "avg_days_open": 33.4
   },
   {
     "city": "Künzelsau",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 5.6
+    "avg_days_open": 6.4
   },
   {
     "city": "Bitterfeld-Wolfen",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 17.9
+    "avg_days_open": 18.7
   },
   {
     "city": "Eschweiler",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 32.6
+    "avg_days_open": 33.4
+  },
+  {
+    "city": "Altstadt-Lehel",
+    "country": "Germany",
+    "role": "Quality Engineer",
+    "count": 2,
+    "avg_days_open": 3.1
   },
   {
     "city": "München",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 3,
-    "avg_days_open": 88.1
-  },
-  {
-    "city": "Altstadt-Lehel",
-    "country": "Germany",
-    "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 5.5
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 35.7
+    "avg_days_open": 88.9
   },
   {
     "city": "Geesthacht",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 293.6
+    "avg_days_open": 294.5
   },
   {
     "city": "Ricklingen",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 15.7
+    "avg_days_open": 16.5
   },
   {
     "city": "Barum",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 41.7
+    "avg_days_open": 42.5
   },
   {
     "city": "Dreieich",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 37.1
+    "avg_days_open": 37.9
   },
   {
     "city": "Sendling",
     "country": "Germany",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 47.3
-  },
-  {
-    "city": "Nordenham",
-    "country": "Germany",
-    "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 27.7
-  },
-  {
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 7.5
-  },
-  {
-    "city": "Kaiserslautern",
-    "country": "Germany",
-    "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 26.5
+    "avg_days_open": 48.2
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Program Manager",
     "count": 6,
-    "avg_days_open": 33.4
+    "avg_days_open": 34.2
   },
   {
     "city": "Villach",
     "country": "Austria",
     "role": "Program Manager",
     "count": 3,
-    "avg_days_open": 7.0
+    "avg_days_open": 7.8
   },
   {
     "city": "Neubau",
     "country": "Austria",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 8.8
+    "avg_days_open": 9.6
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Program Manager",
-    "count": 17,
-    "avg_days_open": 30.6
+    "count": 18,
+    "avg_days_open": 29.7
   },
   {
     "city": "Bludenz",
     "country": "Austria",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 15.4
+    "avg_days_open": 16.2
   },
   {
     "city": "Gramastetten",
     "country": "Austria",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 0.7
+    "avg_days_open": 1.5
   },
   {
     "city": "Leopoldstadt",
     "country": "Austria",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 26.2
+    "avg_days_open": 27.1
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 212.5
+    "avg_days_open": 213.3
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 76.4
+    "avg_days_open": 77.2
   },
   {
     "city": "Villach",
     "country": "Austria",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 237.5
+    "avg_days_open": 238.3
   },
   {
     "city": "Leopoldstadt",
     "country": "Austria",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 4.7
+    "avg_days_open": 5.5
   },
   {
     "city": "Brunn am Gebirge",
     "country": "Austria",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 50.7
+    "avg_days_open": 51.6
   },
   {
     "city": "Landstraße",
     "country": "Austria",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 9.7
+    "avg_days_open": 10.5
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "PMO",
-    "count": 6,
-    "avg_days_open": 42.6
+    "count": 5,
+    "avg_days_open": 46.2
+  },
+  {
+    "city": "Österreich",
+    "country": "Austria",
+    "role": "PMO",
+    "count": 4,
+    "avg_days_open": 27.4
   },
   {
     "city": "Klagenfurt",
     "country": "Austria",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 0.7
-  },
-  {
-    "city": "Österreich",
-    "country": "Austria",
-    "role": "PMO",
-    "count": 4,
-    "avg_days_open": 26.9
+    "avg_days_open": -0.1
   },
   {
     "city": "Leoben",
     "country": "Austria",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 32.6
+    "avg_days_open": 34.1
   },
   {
     "city": "Graz",
     "country": "Austria",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 9.1
+    "avg_days_open": 10.0
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 9.2
+    "avg_days_open": 10.0
   },
   {
     "city": "Schwertberg",
     "country": "Austria",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 42.7
+    "avg_days_open": 43.6
   },
   {
     "city": "Leoben",
     "country": "Austria",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 1.8
+    "avg_days_open": 2.6
   },
   {
     "city": "Rankweil",
     "country": "Austria",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Project Manager",
-    "count": 13,
-    "avg_days_open": 12.3
-  },
-  {
-    "city": "Wolkersdorf im Weinviertel",
-    "country": "Austria",
-    "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 9.7
+    "count": 12,
+    "avg_days_open": 12.1
   },
   {
     "city": "Sulz im Weinviertel",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 10.7
+    "avg_days_open": 11.5
   },
   {
-    "city": "Österreich",
+    "city": "Wolkersdorf im Weinviertel",
     "country": "Austria",
     "role": "Project Manager",
-    "count": 11,
-    "avg_days_open": 138.3
+    "count": 1,
+    "avg_days_open": 10.5
   },
   {
     "city": "St. Margarethen an der Sierning",
     "country": "Austria",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 1.5
+    "avg_days_open": 2.3
+  },
+  {
+    "city": "Linz",
+    "country": "Austria",
+    "role": "Project Manager",
+    "count": 2,
+    "avg_days_open": 1.2
   },
   {
     "city": "Graz",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 1.1
+    "avg_days_open": 1.9
   },
   {
     "city": "Baden",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Schwechat",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "Laterns",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 2.3
+    "avg_days_open": 3.1
   },
   {
     "city": "Wieden",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 10.3
+    "avg_days_open": 11.1
   },
   {
     "city": "Rauchenwarth",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 7.8
-  },
-  {
-    "city": "Linz",
-    "country": "Austria",
-    "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 0.8
+    "avg_days_open": 8.6
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Project Manager",
     "count": 6,
-    "avg_days_open": 5.0
+    "avg_days_open": 4.1
+  },
+  {
+    "city": "Österreich",
+    "country": "Austria",
+    "role": "Project Manager",
+    "count": 11,
+    "avg_days_open": 138.7
   },
   {
     "city": "Fünfhaus",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 2.2
+    "avg_days_open": 3.0
   },
   {
     "city": "Leopoldstadt",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 15.7
+    "avg_days_open": 16.5
   },
   {
     "city": "Amstetten",
     "country": "Austria",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 4.5
+    "avg_days_open": 5.3
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 12,
-    "avg_days_open": 100.7
+    "avg_days_open": 101.5
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 18,
-    "avg_days_open": 47.5
+    "avg_days_open": 45.1
   },
   {
     "city": "Jenbach",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 18.5
+    "avg_days_open": 19.4
   },
   {
     "city": "Enns",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 85.0
+    "avg_days_open": 85.8
   },
   {
     "city": "Graz",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 4.1
+    "avg_days_open": 5.0
   },
   {
     "city": "Alsergrund",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 283.4
+    "avg_days_open": 284.2
   },
   {
     "city": "Salzburg",
     "country": "Austria",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 113.0
+    "avg_days_open": 113.9
   },
   {
     "city": "Graz",
     "country": "Austria",
     "role": "Change Manager",
     "count": 5,
-    "avg_days_open": 18.8
+    "avg_days_open": 19.7
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Change Manager",
     "count": 5,
-    "avg_days_open": 21.4
+    "avg_days_open": 22.2
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Change Manager",
-    "count": 4,
-    "avg_days_open": 29.3
-  },
-  {
-    "city": "Innere Stadt",
-    "country": "Austria",
-    "role": "Change Manager",
-    "count": 2,
-    "avg_days_open": 15.4
+    "count": 5,
+    "avg_days_open": 24.3
   },
   {
     "city": "Nenzing",
     "country": "Austria",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 5.1
+    "avg_days_open": 6.0
   },
   {
     "city": "Kalsdorf bei Graz",
     "country": "Austria",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 11.1
+    "avg_days_open": 12.0
   },
   {
     "city": "Wiener Neudorf",
     "country": "Austria",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 2.7
+    "avg_days_open": 3.5
   },
   {
     "city": "Floridsdorf",
     "country": "Austria",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.6
   },
   {
     "city": "Penzing",
     "country": "Austria",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 0.7
+    "avg_days_open": 1.5
+  },
+  {
+    "city": "Innere Stadt",
+    "country": "Austria",
+    "role": "Change Manager",
+    "count": 1,
+    "avg_days_open": 16.7
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 218.7
+    "avg_days_open": 219.5
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 10.8
+    "avg_days_open": 11.7
   },
   {
     "city": "Mariahilf",
     "country": "Austria",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 7.9
+    "avg_days_open": 8.7
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 38.6
+    "avg_days_open": 39.4
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Scrum Master",
     "count": 4,
-    "avg_days_open": 33.6
+    "avg_days_open": 34.5
   },
   {
     "city": "Hennersdorf",
     "country": "Austria",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 1.8
+    "avg_days_open": 2.6
   },
   {
     "city": "Wiener Neudorf",
     "country": "Austria",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 5.2
+    "avg_days_open": 6.0
   },
   {
     "city": "Simmering",
     "country": "Austria",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 556.0
+    "avg_days_open": 556.8
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 9.7
+    "avg_days_open": 10.5
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 172.1
+    "avg_days_open": 173.0
   },
   {
     "city": "Salzburg",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 114.7
+    "avg_days_open": 115.5
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Portfolio Manager",
-    "count": 18,
-    "avg_days_open": 69.9
+    "count": 17,
+    "avg_days_open": 73.5
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Portfolio Manager",
-    "count": 11,
-    "avg_days_open": 71.7
+    "count": 9,
+    "avg_days_open": 76.3
   },
   {
     "city": "Innsbruck",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 225.2
+    "avg_days_open": 226.0
   },
   {
     "city": "Liesing",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 54.5
+    "avg_days_open": 55.4
   },
   {
     "city": "Gratkorn",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 15.7
+    "avg_days_open": 16.5
   },
   {
     "city": "Simmering",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 5.7
+    "avg_days_open": 6.5
   },
   {
     "city": "Leoben",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 26.1
+    "avg_days_open": 27.0
   },
   {
     "city": "Wieden",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 73.6
+    "avg_days_open": 74.4
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 29.5
+    "avg_days_open": 30.4
   },
   {
     "city": "Rankweil",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 37.7
+    "avg_days_open": 38.6
   },
   {
     "city": "Alsergrund",
     "country": "Austria",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 93.6
+    "avg_days_open": 94.4
   },
   {
     "city": "Leoben",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 5,
-    "avg_days_open": 14.5
+    "avg_days_open": 15.3
   },
   {
     "city": "Wiener Neudorf",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "Laxenburg",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.6
   },
   {
     "city": "Wels",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 9.0
+    "avg_days_open": 9.8
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 79.8
+    "avg_days_open": 80.6
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 2.1
+    "avg_days_open": 2.9
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 4.3
+    "avg_days_open": 5.1
   },
   {
     "city": "Vöcklabruck",
     "country": "Austria",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 71.4
+    "avg_days_open": 72.2
   },
   {
     "city": "Wolfurt",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.5
+    "avg_days_open": 2.3
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Product Owner",
     "count": 14,
-    "avg_days_open": 24.1
+    "avg_days_open": 25.0
   },
   {
     "city": "Buch",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.3
+    "avg_days_open": 2.1
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Product Owner",
-    "count": 14,
-    "avg_days_open": 21.0
+    "count": 15,
+    "avg_days_open": 20.5
   },
   {
     "city": "Linz",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 4.7
+    "avg_days_open": 5.5
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Product Owner",
     "count": 3,
-    "avg_days_open": 6.3
+    "avg_days_open": 7.1
   },
   {
     "city": "Salzburg",
     "country": "Austria",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 46.0
+    "avg_days_open": 46.8
   },
   {
     "city": "Landstraße",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 32.5
+    "avg_days_open": 33.4
   },
   {
     "city": "Leopoldstadt",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 57.4
+    "avg_days_open": 58.2
   },
   {
     "city": "Sieghartskirchen",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 66.9
+    "avg_days_open": 67.8
   },
   {
     "city": "Mitterdorf an der Raab",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 3.7
-  },
-  {
-    "city": "Kalsdorf bei Graz",
-    "country": "Austria",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 17.7
+    "avg_days_open": 4.5
   },
   {
     "city": "Wernberg",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 9.1
+    "avg_days_open": 9.9
+  },
+  {
+    "city": "Kalsdorf bei Graz",
+    "country": "Austria",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 18.5
   },
   {
     "city": "Wieden",
     "country": "Austria",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 57.4
+    "avg_days_open": 58.2
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Product Manager",
     "count": 25,
-    "avg_days_open": 23.8
+    "avg_days_open": 24.2
   },
   {
     "city": "Wals-Siezenheim",
     "country": "Austria",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 5.4
+    "avg_days_open": 6.2
   },
   {
     "city": "Wels",
     "country": "Austria",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 13.7
+    "avg_days_open": 14.5
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Product Manager",
     "count": 11,
-    "avg_days_open": 17.3
-  },
-  {
-    "city": "Salzburg",
-    "country": "Austria",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 14.1
+    "avg_days_open": 18.3
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 11.6
+    "avg_days_open": 4.8
+  },
+  {
+    "city": "Villach",
+    "country": "Austria",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 3.0
   },
   {
     "city": "Premstätten",
     "country": "Austria",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 1.8
-  },
-  {
-    "city": "Villach",
-    "country": "Austria",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 2.2
+    "avg_days_open": 2.6
   },
   {
     "city": "Innsbruck",
     "country": "Austria",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 164.2
+    "avg_days_open": 165.0
+  },
+  {
+    "city": "Steinhaus",
+    "country": "Austria",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 0.5
   },
   {
     "city": "Leopoldstadt",
     "country": "Austria",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 57.4
+    "avg_days_open": 58.2
   },
   {
     "city": "Lebring-Sankt Margarethen",
     "country": "Austria",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 3.7
+    "avg_days_open": 4.5
   },
   {
     "city": "Margareten",
     "country": "Austria",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 91.4
+    "avg_days_open": 92.2
   },
   {
     "city": "Wien",
     "country": "Austria",
     "role": "Quality Manager",
-    "count": 16,
-    "avg_days_open": 163.6
+    "count": 15,
+    "avg_days_open": 174.8
   },
   {
     "city": "Innere Stadt",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 11.3
+    "avg_days_open": 12.1
   },
   {
     "city": "Salzburg",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 2.1
+    "avg_days_open": 2.9
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 8,
-    "avg_days_open": 66.5
+    "avg_days_open": 67.3
   },
   {
     "city": "Landstraße",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 10.2
+    "avg_days_open": 11.0
   },
   {
     "city": "Haag am Hausruck",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 115.1
+    "avg_days_open": 115.9
   },
   {
     "city": "Donaustadt",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 31.9
+    "avg_days_open": 32.7
   },
   {
     "city": "Rauchenwarth",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 52.7
+    "avg_days_open": 53.6
   },
   {
     "city": "Graz",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 22.6
+    "avg_days_open": 23.4
   },
   {
     "city": "Thal",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 193.4
+    "avg_days_open": 194.3
   },
   {
     "city": "Linz",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 22.9
+    "avg_days_open": 23.7
   },
   {
     "city": "Leopoldstadt",
     "country": "Austria",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 58.4
+    "avg_days_open": 59.2
   },
   {
     "city": "Leoben",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 6,
-    "avg_days_open": 18.1
+    "avg_days_open": 18.9
   },
   {
     "city": "Kirchdorf an der Krems",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 2.4
+    "avg_days_open": 3.2
+  },
+  {
+    "city": "Wien",
+    "country": "Austria",
+    "role": "Quality Engineer",
+    "count": 7,
+    "avg_days_open": 121.6
   },
   {
     "city": "Österreich",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 12,
-    "avg_days_open": 33.4
-  },
-  {
-    "city": "Wien",
-    "country": "Austria",
-    "role": "Quality Engineer",
-    "count": 6,
-    "avg_days_open": 29.9
+    "avg_days_open": 34.3
   },
   {
     "city": "Villach",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 42.9
+    "avg_days_open": 43.8
   },
   {
     "city": "Hall in Tirol",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 24.1
+    "avg_days_open": 25.0
   },
   {
     "city": "Graz",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 33.1
+    "avg_days_open": 34.0
   },
   {
     "city": "Brunn am Gebirge",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 5.5
+    "avg_days_open": 6.3
   },
   {
     "city": "Innsbruck",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 165.3
+    "avg_days_open": 166.2
   },
   {
     "city": "Jenbach",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 6,
-    "avg_days_open": 69.7
+    "avg_days_open": 70.5
   },
   {
     "city": "Althofen",
     "country": "Austria",
     "role": "Quality Engineer",
-    "count": 2,
-    "avg_days_open": 20.7
+    "count": 1,
+    "avg_days_open": 5.5
   },
   {
     "city": "Braunau am Inn",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 63.4
+    "avg_days_open": 64.2
   },
   {
     "city": "Naas",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 1.8
+    "avg_days_open": 2.6
   },
   {
     "city": "Weiz",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 1.1
+    "avg_days_open": 1.9
   },
   {
     "city": "Schrems",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 3.9
+    "avg_days_open": 4.7
   },
   {
     "city": "Klaus",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 3.7
+    "avg_days_open": 4.5
   },
   {
     "city": "Donaustadt",
     "country": "Austria",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 12.8
+    "avg_days_open": 13.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Program Manager",
-    "count": 22,
-    "avg_days_open": 26.5
+    "count": 23,
+    "avg_days_open": 23.6
   },
   {
     "city": "Tägerwilen",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 0.9
+    "avg_days_open": 1.7
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Program Manager",
-    "count": 7,
-    "avg_days_open": 29.9
+    "count": 6,
+    "avg_days_open": 33.3
   },
   {
     "city": "Bern",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 3.9
-  },
-  {
-    "city": "Olten",
-    "country": "Switzerland",
-    "role": "Program Manager",
-    "count": 1,
-    "avg_days_open": 2.5
+    "avg_days_open": 4.7
   },
   {
     "city": "Hinwil",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 3.8
+    "avg_days_open": 4.7
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 69.0
+    "avg_days_open": 69.8
   },
   {
     "city": "Bremgarten bei Bern",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 1.8
+    "avg_days_open": 2.7
   },
   {
     "city": "Dietikon",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 6.3
+    "avg_days_open": 7.2
   },
   {
     "city": "Kreuzlingen",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 11.5
+    "avg_days_open": 12.4
   },
   {
     "city": "Le Grand-Saconnex",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 11.3
+    "avg_days_open": 12.2
+  },
+  {
+    "city": "Basel",
+    "country": "Switzerland",
+    "role": "Program Manager",
+    "count": 1,
+    "avg_days_open": 0.7
   },
   {
     "city": "Freiburg",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Zug",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 4,
-    "avg_days_open": 8.1
+    "avg_days_open": 8.9
   },
   {
     "city": "Kaiseraugst",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 8.8
+    "avg_days_open": 9.7
   },
   {
     "city": "Risch",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Genf",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Venthône",
     "country": "Switzerland",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 2.9
+    "avg_days_open": 3.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 7,
-    "avg_days_open": 117.9
+    "avg_days_open": 118.7
   },
   {
-    "city": "Zürich",
+    "city": "Winterthur",
     "country": "Switzerland",
     "role": "Release Manager",
-    "count": 8,
-    "avg_days_open": 51.9
+    "count": 1,
+    "avg_days_open": 37.7
   },
   {
     "city": "Lugano",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 318.6
-  },
-  {
-    "city": "Winterthur",
-    "country": "Switzerland",
-    "role": "Release Manager",
-    "count": 1,
-    "avg_days_open": 36.9
+    "avg_days_open": 319.4
   },
   {
     "city": "Brütten",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 4.8
+    "avg_days_open": 5.7
+  },
+  {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "role": "Release Manager",
+    "count": 7,
+    "avg_days_open": 58.2
   },
   {
     "city": "Lausanne",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 64.3
+    "avg_days_open": 65.2
   },
   {
     "city": "Wallisellen",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 130.4
+    "avg_days_open": 131.3
   },
   {
     "city": "Cham",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Chêne-Bougeries",
     "country": "Switzerland",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 56.4
+    "avg_days_open": 57.2
   },
   {
     "city": "Luzern",
     "country": "Switzerland",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 12.4
+    "avg_days_open": 13.2
+  },
+  {
+    "city": "Lugano",
+    "country": "Switzerland",
+    "role": "PMO",
+    "count": 1,
+    "avg_days_open": 178.3
   },
   {
     "city": "Kriens",
     "country": "Switzerland",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 12.3
+    "avg_days_open": 13.2
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "PMO",
     "count": 11,
-    "avg_days_open": 68.4
+    "avg_days_open": 66.5
   },
   {
     "city": "Thun",
     "country": "Switzerland",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 22.4
+    "avg_days_open": 23.2
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "PMO",
-    "count": 17,
-    "avg_days_open": 36.4
+    "count": 14,
+    "avg_days_open": 32.7
   },
   {
     "city": "Kreuzlingen",
     "country": "Switzerland",
     "role": "PMO",
     "count": 3,
-    "avg_days_open": 16.5
+    "avg_days_open": 17.4
+  },
+  {
+    "city": "Bern",
+    "country": "Switzerland",
+    "role": "PMO",
+    "count": 2,
+    "avg_days_open": 0.7
   },
   {
     "city": "Emmen",
     "country": "Switzerland",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 17.4
+    "avg_days_open": 18.2
   },
   {
     "city": "Liestal",
     "country": "Switzerland",
     "role": "PMO",
-    "count": 2,
-    "avg_days_open": 2.9
+    "count": 1,
+    "avg_days_open": 2.7
   },
   {
     "city": "Köniz",
     "country": "Switzerland",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 13.9
+    "avg_days_open": 14.7
   },
   {
     "city": "Yverdon-les-Bains",
     "country": "Switzerland",
     "role": "PMO",
-    "count": 1,
-    "avg_days_open": 1.9
+    "count": 2,
+    "avg_days_open": 1.7
   },
   {
     "city": "Zollikon",
     "country": "Switzerland",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Cheseaux-Noréaz",
     "country": "Switzerland",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 1.3
+    "avg_days_open": 2.2
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 220.5
+    "avg_days_open": 221.3
   },
   {
     "city": "Reinach",
     "country": "Switzerland",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 22.9
+    "avg_days_open": 23.7
   },
   {
     "city": "Horw",
     "country": "Switzerland",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 32.4
+    "avg_days_open": 33.2
   },
   {
     "city": "Solothurn",
     "country": "Switzerland",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 6.8
+    "avg_days_open": 7.7
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 6.9
+    "avg_days_open": 7.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Project Manager",
-    "count": 15,
-    "avg_days_open": 91.4
+    "count": 12,
+    "avg_days_open": 103.3
   },
   {
     "city": "Luzern",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 4.9
+    "avg_days_open": 5.7
   },
   {
     "city": "Delsberg",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 24.9
+    "avg_days_open": 25.8
   },
   {
     "city": "Oberaargau",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 1.9
+    "avg_days_open": 2.7
   },
   {
     "city": "Bern",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 24.9
+    "avg_days_open": 25.7
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Project Manager",
-    "count": 4,
-    "avg_days_open": 97.6
+    "count": 5,
+    "avg_days_open": 82.6
   },
   {
     "city": "Bioggio",
     "country": "Switzerland",
     "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 26.0
+    "count": 2,
+    "avg_days_open": 23.1
   },
   {
     "city": "Chiasso",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 43.9
+    "avg_days_open": 44.7
   },
   {
     "city": "Aarau",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Schaffhausen",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 143.4
+    "avg_days_open": 144.2
   },
   {
     "city": "Langenthal",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 9.9
+    "avg_days_open": 10.7
   },
   {
     "city": "Hochdorf",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 36.9
+    "avg_days_open": 37.7
   },
   {
     "city": "Genf",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 3,
-    "avg_days_open": 7.5
+    "avg_days_open": 8.4
   },
   {
     "city": "Burgdorf",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 16.9
+    "avg_days_open": 17.8
   },
   {
     "city": "Thun",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 0.8
+    "avg_days_open": 1.7
   },
   {
     "city": "Beringen",
     "country": "Switzerland",
     "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 2.8
+    "count": 2,
+    "avg_days_open": 3.7
   },
   {
     "city": "Sennwald",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 9.4
+    "avg_days_open": 10.2
   },
   {
     "city": "Baar",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 9.9
-  },
-  {
-    "city": "Basel",
-    "country": "Switzerland",
-    "role": "Project Manager",
-    "count": 1,
-    "avg_days_open": 13.9
+    "avg_days_open": 10.7
   },
   {
     "city": "Carouge",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 13.4
+    "avg_days_open": 14.2
   },
   {
     "city": "Oberbüren",
     "country": "Switzerland",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 10.8
+    "avg_days_open": 11.7
+  },
+  {
+    "city": "Stabio",
+    "country": "Switzerland",
+    "role": "Project Manager",
+    "count": 1,
+    "avg_days_open": 230.0
   },
   {
     "city": "Solothurn",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Bern",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 26.2
+    "avg_days_open": 27.0
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Delivery Manager",
-    "count": 12,
-    "avg_days_open": 92.3
+    "count": 11,
+    "avg_days_open": 68.9
   },
   {
     "city": "Baden",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Genf",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 77.6
+    "avg_days_open": 78.5
   },
   {
     "city": "Urdorf",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Écublens",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 24.9
+    "avg_days_open": 25.7
   },
   {
     "city": "Basel",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 4,
-    "avg_days_open": 4.8
+    "avg_days_open": 5.7
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 6,
-    "avg_days_open": 103.5
+    "avg_days_open": 104.3
   },
   {
     "city": "La Tour-de-Peilz",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 8.2
+    "avg_days_open": 9.0
   },
   {
     "city": "Cham",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 26.2
+    "avg_days_open": 27.0
   },
   {
     "city": "Vernier",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 3.8
-  },
-  {
-    "city": "Mont-sur-Rolle",
-    "country": "Switzerland",
-    "role": "Delivery Manager",
-    "count": 1,
-    "avg_days_open": 47.5
+    "avg_days_open": 4.7
   },
   {
     "city": "Zug",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 27.4
+    "avg_days_open": 28.2
   },
   {
-    "city": "Nyon",
+    "city": "Mont-sur-Rolle",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 13.9
+    "avg_days_open": 48.4
   },
   {
     "city": "Opfikon",
     "country": "Switzerland",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 11.3
+    "avg_days_open": 12.2
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 27,
-    "avg_days_open": 57.5
+    "avg_days_open": 56.4
   },
   {
     "city": "Basel",
     "country": "Switzerland",
     "role": "Change Manager",
-    "count": 3,
-    "avg_days_open": 40.2
+    "count": 2,
+    "avg_days_open": 32.5
   },
   {
     "city": "Risch",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 2,
-    "avg_days_open": 3.0
+    "avg_days_open": 4.0
   },
   {
     "city": "Lausanne",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 3,
-    "avg_days_open": 13.5
+    "avg_days_open": 14.4
   },
   {
     "city": "Birr",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 2.3
+    "avg_days_open": 3.2
   },
   {
     "city": "Bulle",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 2,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Kanton Neuenburg",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 22.9
+    "avg_days_open": 23.7
   },
   {
     "city": "Zermatt",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 22.3
+    "avg_days_open": 23.1
   },
   {
     "city": "Cressier",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 38.9
+    "avg_days_open": 39.7
   },
   {
     "city": "Bellevue",
     "country": "Switzerland",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 8.4
+    "avg_days_open": 9.2
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 19.8
+    "avg_days_open": 20.6
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Agile Coach",
     "count": 3,
-    "avg_days_open": 40.3
+    "avg_days_open": 41.2
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Agile Coach",
-    "count": 2,
-    "avg_days_open": 41.4
+    "count": 3,
+    "avg_days_open": 28.2
   },
   {
     "city": "Emmen",
     "country": "Switzerland",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 5.9
+    "avg_days_open": 6.7
   },
   {
     "city": "Zug",
     "country": "Switzerland",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 23.9
+    "avg_days_open": 24.8
   },
   {
     "city": "Genf",
     "country": "Switzerland",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 1.8
+    "avg_days_open": 2.7
   },
   {
     "city": "Bern",
     "country": "Switzerland",
     "role": "Scrum Master",
-    "count": 4,
-    "avg_days_open": 87.1
+    "count": 5,
+    "avg_days_open": 67.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 3,
-    "avg_days_open": 94.9
+    "avg_days_open": 95.7
   },
   {
     "city": "Solothurn",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 0.8
-  },
-  {
-    "city": "Zürich",
-    "country": "Switzerland",
-    "role": "Scrum Master",
-    "count": 10,
-    "avg_days_open": 75.0
+    "avg_days_open": 1.7
   },
   {
     "city": "Nyon",
     "country": "Switzerland",
     "role": "Scrum Master",
-    "count": 8,
-    "avg_days_open": 7.2
+    "count": 7,
+    "avg_days_open": 7.0
+  },
+  {
+    "city": "Zürich",
+    "country": "Switzerland",
+    "role": "Scrum Master",
+    "count": 9,
+    "avg_days_open": 82.5
   },
   {
     "city": "Sonceboz-Sombeval",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 5,
-    "avg_days_open": 11.1
+    "avg_days_open": 11.9
   },
   {
     "city": "Servion",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.7
   },
   {
     "city": "Kriens",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 10.8
+    "avg_days_open": 11.7
   },
   {
     "city": "Uster",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Le Mont-sur-Lausanne",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 5.8
+    "avg_days_open": 6.7
   },
   {
     "city": "Lausanne",
     "country": "Switzerland",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 3.9
+    "avg_days_open": 4.7
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Release Train Engineer",
     "count": 3,
-    "avg_days_open": 24.0
+    "avg_days_open": 24.9
   },
   {
     "city": "Cham",
     "country": "Switzerland",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 8.8
+    "avg_days_open": 9.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 15.4
+    "avg_days_open": 16.2
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Portfolio Manager",
-    "count": 5,
-    "avg_days_open": 9.1
+    "count": 4,
+    "avg_days_open": 7.8
   },
   {
     "city": "Genf",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 4,
-    "avg_days_open": 43.5
+    "avg_days_open": 44.4
   },
   {
     "city": "Emmen",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 3,
-    "avg_days_open": 3.8
+    "avg_days_open": 4.7
   },
   {
     "city": "Baar",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 24.9
+    "avg_days_open": 25.8
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 15,
-    "avg_days_open": 127.2
+    "avg_days_open": 128.0
   },
   {
     "city": "Buchs",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 3.3
+    "avg_days_open": 4.2
   },
   {
     "city": "Kanton Luzern",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 57.9
+    "avg_days_open": 58.7
   },
   {
     "city": "Bern",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 21.9
+    "avg_days_open": 22.7
   },
   {
     "city": "Ostermundigen",
     "country": "Switzerland",
     "role": "Portfolio Manager",
-    "count": 2,
-    "avg_days_open": 17.9
+    "count": 1,
+    "avg_days_open": 18.7
   },
   {
     "city": "Basel",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 3.9
+    "avg_days_open": 4.7
   },
   {
     "city": "Freienbach",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 314.8
+    "avg_days_open": 315.6
   },
   {
     "city": "Neuhausen am Rheinfall",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 73.6
+    "avg_days_open": 74.4
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Portfolio Manager",
-    "count": 7,
-    "avg_days_open": 14.6
+    "count": 8,
+    "avg_days_open": 31.6
   },
   {
     "city": "Schönenwerd",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 0.8
+    "avg_days_open": 1.7
   },
   {
     "city": "Birsfelden",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 1.8
+    "avg_days_open": 2.7
   },
   {
     "city": "Oftringen",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 28.9
+    "avg_days_open": 29.8
   },
   {
     "city": "Uzwil",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 1.9
+    "avg_days_open": 2.7
+  },
+  {
+    "city": "Zug",
+    "country": "Switzerland",
+    "role": "Portfolio Manager",
+    "count": 1,
+    "avg_days_open": 0.7
   },
   {
     "city": "Chur",
     "country": "Switzerland",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 2.8
+    "avg_days_open": 3.7
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 3,
-    "avg_days_open": 14.0
+    "avg_days_open": 14.8
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 11,
-    "avg_days_open": 22.7
-  },
-  {
-    "city": "Köniz",
-    "country": "Switzerland",
-    "role": "Transformation Manager",
-    "count": 1,
-    "avg_days_open": 13.9
+    "avg_days_open": 21.8
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 20,
-    "avg_days_open": 85.8
+    "avg_days_open": 86.7
   },
   {
     "city": "Meyrin",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 2.8
+    "avg_days_open": 3.7
   },
   {
     "city": "Baden",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 11.3
+    "avg_days_open": 12.1
   },
   {
     "city": "Wil",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 22.4
+    "avg_days_open": 23.2
+  },
+  {
+    "city": "Bern",
+    "country": "Switzerland",
+    "role": "Transformation Manager",
+    "count": 1,
+    "avg_days_open": 0.7
   },
   {
     "city": "Vernier",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Lausanne",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 6.9
+    "avg_days_open": 7.7
   },
   {
     "city": "Basel",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 3.8
+    "avg_days_open": 4.7
   },
   {
     "city": "Winterthur",
     "country": "Switzerland",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 6.3
+    "avg_days_open": 7.2
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 12,
-    "avg_days_open": 29.5
+    "avg_days_open": 30.4
   },
   {
     "city": "Oberengstringen",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 4.8
+    "avg_days_open": 5.7
   },
   {
     "city": "Bern",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 6,
-    "avg_days_open": 97.7
+    "avg_days_open": 98.6
   },
   {
     "city": "Mont-sur-Rolle",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Lenzburg",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 11.9
+    "avg_days_open": 12.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Product Owner",
-    "count": 8,
-    "avg_days_open": 74.2
+    "count": 9,
+    "avg_days_open": 66.7
   },
   {
     "city": "Baar",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 50.9
+    "avg_days_open": 51.7
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 4.1
+    "avg_days_open": 4.9
   },
   {
     "city": "Luzern",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 3.3
+    "avg_days_open": 4.2
   },
   {
     "city": "Dällikon",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 123.5
+    "avg_days_open": 124.3
   },
   {
     "city": "Reinach",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 4.9
+    "avg_days_open": 5.7
   },
   {
     "city": "Dornach",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 4.8
+    "avg_days_open": 5.7
   },
   {
     "city": "Ittigen",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 8.9
+    "avg_days_open": 9.7
   },
   {
     "city": "Glarus",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Horw",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 3.8
+    "avg_days_open": 4.7
   },
   {
     "city": "Olten",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 9.9
+    "avg_days_open": 10.7
   },
   {
     "city": "Ammerswil",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 11.8
+    "avg_days_open": 12.7
   },
   {
     "city": "Hochdorf",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 12.8
+    "avg_days_open": 13.7
   },
   {
     "city": "Basel",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 10.8
+    "avg_days_open": 11.7
   },
   {
     "city": "Opfikon",
     "country": "Switzerland",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 108.4
-  },
-  {
-    "city": "Aarau",
-    "country": "Switzerland",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 2.8
+    "avg_days_open": 109.2
   },
   {
     "city": "Sarnen",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 23.9
+    "avg_days_open": 24.8
   },
   {
     "city": "Burgdorf",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 15.9
+    "avg_days_open": 16.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Product Manager",
-    "count": 11,
-    "avg_days_open": 31.8
+    "count": 10,
+    "avg_days_open": 31.4
   },
   {
     "city": "Kirchlindach",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Product Manager",
-    "count": 7,
-    "avg_days_open": 6.0
+    "count": 8,
+    "avg_days_open": 7.2
   },
   {
     "city": "Basel",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 1.9
+    "avg_days_open": 2.7
   },
   {
     "city": "Böckten",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Bülach",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 25.9
+    "avg_days_open": 26.8
   },
   {
     "city": "Uzwil",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 17.9
+    "avg_days_open": 18.7
   },
   {
     "city": "Neuhausen am Rheinfall",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 24.9
+    "avg_days_open": 25.8
   },
   {
     "city": "Sankt Gallen",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 19.9
+    "avg_days_open": 20.8
   },
   {
     "city": "Zizers",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 6.8
+    "avg_days_open": 7.7
   },
   {
     "city": "Lausanne",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 13.7
+    "avg_days_open": 14.5
   },
   {
     "city": "Villars-sur-Glâne",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 31.9
+    "avg_days_open": 32.8
   },
   {
     "city": "Volketswil",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 18.5
+    "avg_days_open": 19.3
   },
   {
     "city": "Langenthal",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 3,
-    "avg_days_open": 5.9
+    "avg_days_open": 6.7
   },
   {
     "city": "Bassersdorf",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 15.9
+    "avg_days_open": 16.8
   },
   {
     "city": "Luzern",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 17.9
+    "avg_days_open": 18.7
   },
   {
     "city": "Mägenwil",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 7.9
+    "avg_days_open": 8.7
   },
   {
     "city": "Grenchen",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 3,
-    "avg_days_open": 10.7
+    "avg_days_open": 11.5
   },
   {
     "city": "Oberkirch",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 11.9
+    "avg_days_open": 12.8
   },
   {
     "city": "Hünenberg",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 11.9
+    "avg_days_open": 12.7
   },
   {
     "city": "Kanton Bern",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 13.9
+    "avg_days_open": 14.7
   },
   {
     "city": "Zug",
     "country": "Switzerland",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Ittigen",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 5,
-    "avg_days_open": 8.1
+    "avg_days_open": 8.9
   },
   {
     "city": "Leukerbad",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 4,
-    "avg_days_open": 1.4
+    "avg_days_open": 2.2
   },
   {
     "city": "Muttenz",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 15.3
+    "avg_days_open": 16.1
   },
   {
     "city": "Sulgen",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 13.9
+    "avg_days_open": 14.8
   },
   {
     "city": "Bulle",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 6.8
+    "avg_days_open": 7.7
   },
   {
     "city": "Lausen",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 1.3
+    "avg_days_open": 2.2
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 14,
-    "avg_days_open": 45.7
+    "avg_days_open": 38.8
   },
   {
     "city": "Kanton Neuenburg",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 0.9
+    "avg_days_open": 1.7
   },
   {
     "city": "Wohlen",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 0.8
+    "avg_days_open": 1.7
   },
   {
     "city": "Luzern",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 79.7
+    "avg_days_open": 80.6
   },
   {
     "city": "La Tène",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 11.8
+    "avg_days_open": 12.7
   },
   {
     "city": "Neuenburg",
     "country": "Switzerland",
     "role": "Quality Manager",
-    "count": 2,
-    "avg_days_open": 1.4
+    "count": 1,
+    "avg_days_open": 1.7
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 4,
-    "avg_days_open": 8.7
+    "avg_days_open": 9.6
   },
   {
     "city": "Stans",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 32.4
+    "avg_days_open": 33.2
+  },
+  {
+    "city": "Burgdorf",
+    "country": "Switzerland",
+    "role": "Quality Manager",
+    "count": 1,
+    "avg_days_open": 0.7
   },
   {
     "city": "Pratteln",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 269.6
+    "avg_days_open": 270.4
   },
   {
     "city": "Baden",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 5.8
-  },
-  {
-    "city": "Zug",
-    "country": "Switzerland",
-    "role": "Quality Manager",
-    "count": 1,
-    "avg_days_open": 198.7
+    "avg_days_open": 6.7
   },
   {
     "city": "Lausanne",
     "country": "Switzerland",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 9.8
+    "avg_days_open": 10.7
   },
   {
     "city": "Altdorf",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.7
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
     "role": "Quality Engineer",
-    "count": 18,
-    "avg_days_open": 31.0
+    "count": 17,
+    "avg_days_open": 32.9
   },
   {
     "city": "Domat/Ems",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 32.1
+    "avg_days_open": 33.0
   },
   {
     "city": "Neuenburg",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Lengwil",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 23.9
+    "avg_days_open": 24.8
   },
   {
     "city": "Greifensee",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 3.8
+    "avg_days_open": 4.7
   },
   {
     "city": "Tévenon",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Mendrisio",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Develier",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 130.4
+    "avg_days_open": 131.3
   },
   {
     "city": "Altendorf",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 3,
-    "avg_days_open": 3.1
+    "avg_days_open": 4.0
   },
   {
     "city": "Winterthur",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 3.3
+    "avg_days_open": 4.2
   },
   {
     "city": "Wohlen",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 25.9
+    "avg_days_open": 26.8
   },
   {
     "city": "Sennwald",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 9.9
+    "avg_days_open": 10.7
   },
   {
     "city": "Horw",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 13.9
+    "avg_days_open": 14.7
   },
   {
     "city": "Romanshorn",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 8.5
+    "avg_days_open": 9.3
   },
   {
     "city": "Seewis im Prättigau",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 45.4
+    "avg_days_open": 46.2
   },
   {
     "city": "Mont-sur-Rolle",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 2.8
+    "avg_days_open": 3.7
   },
   {
     "city": "Stäfa",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 9.9
+    "avg_days_open": 10.7
   },
   {
     "city": "Bubikon",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 3,
-    "avg_days_open": 99.8
+    "avg_days_open": 100.6
   },
   {
     "city": "Bonaduz",
     "country": "Switzerland",
     "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 0.3
+    "count": 2,
+    "avg_days_open": 0.9
   },
   {
     "city": "Nidau",
     "country": "Switzerland",
     "role": "Quality Engineer",
     "count": 3,
-    "avg_days_open": 14.2
+    "avg_days_open": 15.1
   },
   {
     "city": "Hengelo",
     "country": "Netherlands",
     "role": "Program Manager",
-    "count": 2,
-    "avg_days_open": 62.6
+    "count": 3,
+    "avg_days_open": 76.6
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 22,
-    "avg_days_open": 72.1
+    "avg_days_open": 75.8
   },
   {
     "city": "Katwijk aan Zee",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 62.6
+    "avg_days_open": 63.4
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 5,
-    "avg_days_open": 642.0
+    "avg_days_open": 642.8
   },
   {
     "city": "Amstelveen",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 119.3
-  },
-  {
-    "city": "Veghel",
-    "country": "Netherlands",
-    "role": "Program Manager",
-    "count": 1,
-    "avg_days_open": 35.7
+    "avg_days_open": 120.1
   },
   {
     "city": "Eindhoven",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 6.0
+    "avg_days_open": 6.8
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 6,
-    "avg_days_open": 78.4
+    "avg_days_open": 79.2
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 7.9
+    "avg_days_open": 8.7
   },
   {
     "city": "Wervershoof",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 18.1
+    "avg_days_open": 18.9
   },
   {
     "city": "Laakkwartier",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 357.1
-  },
-  {
-    "city": "Sittard-Geleen",
-    "country": "Netherlands",
-    "role": "Program Manager",
-    "count": 1,
-    "avg_days_open": 6.7
+    "avg_days_open": 357.9
   },
   {
     "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 2,
-    "avg_days_open": 4.8
+    "avg_days_open": 5.6
   },
   {
     "city": "Centrum",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 29.7
+    "avg_days_open": 30.5
   },
   {
     "city": "Arnhem",
     "country": "Netherlands",
     "role": "Program Manager",
     "count": 1,
-    "avg_days_open": 537.9
+    "avg_days_open": 538.7
+  },
+  {
+    "city": "Binnenstad",
+    "country": "Netherlands",
+    "role": "Program Manager",
+    "count": 1,
+    "avg_days_open": 41.3
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Release Manager",
     "count": 3,
-    "avg_days_open": 51.6
+    "avg_days_open": 52.5
   },
   {
     "city": "Sevenum",
     "country": "Netherlands",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 9.7
+    "avg_days_open": 10.6
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Release Manager",
     "count": 2,
-    "avg_days_open": 523.8
+    "avg_days_open": 524.6
   },
   {
     "city": "IJmuiden",
     "country": "Netherlands",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 18.9
+    "avg_days_open": 19.7
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 12.0
+    "avg_days_open": 12.9
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Release Manager",
     "count": 1,
-    "avg_days_open": 79.5
+    "avg_days_open": 80.4
   },
   {
     "city": "Diemen",
     "country": "Netherlands",
     "role": "PMO",
     "count": 3,
-    "avg_days_open": 30.7
+    "avg_days_open": 31.5
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "PMO",
-    "count": 16,
-    "avg_days_open": 117.8
+    "count": 13,
+    "avg_days_open": 140.4
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "PMO",
     "count": 4,
-    "avg_days_open": 698.6
+    "avg_days_open": 699.4
   },
   {
     "city": "Papendrecht",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 26.5
-  },
-  {
-    "city": "Oosterpoortwijk",
-    "country": "Netherlands",
-    "role": "PMO",
-    "count": 2,
-    "avg_days_open": 0.3
-  },
-  {
-    "city": "Bezuidenhout",
-    "country": "Netherlands",
-    "role": "PMO",
-    "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 27.3
   },
   {
     "city": "Schollevaar-Noord",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 227.4
+    "avg_days_open": 228.2
   },
   {
     "city": "Stationsbuurt",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 35.7
+    "avg_days_open": 36.5
   },
   {
     "city": "Heerenveen",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 30.9
+    "avg_days_open": 31.7
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "PMO",
-    "count": 2,
-    "avg_days_open": 2.0
+    "count": 3,
+    "avg_days_open": 20.1
   },
   {
     "city": "Wanssum",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 59.5
+    "avg_days_open": 60.4
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "PMO",
     "count": 6,
-    "avg_days_open": 116.3
+    "avg_days_open": 117.1
   },
   {
     "city": "Hoofddorp",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 10.2
+    "avg_days_open": 11.1
   },
   {
     "city": "Paddepoel",
     "country": "Netherlands",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 4.2
+    "avg_days_open": 5.1
+  },
+  {
+    "city": "Oud West",
+    "country": "Netherlands",
+    "role": "PMO",
+    "count": 2,
+    "avg_days_open": 0.5
   },
   {
     "city": "Kattenbroek",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 38.5
+    "avg_days_open": 39.3
   },
   {
     "city": "Oosterbeek",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 134.3
+    "avg_days_open": 135.1
+  },
+  {
+    "city": "Groningen",
+    "country": "Netherlands",
+    "role": "PMO",
+    "count": 2,
+    "avg_days_open": 3.3
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "PMO",
     "count": 2,
-    "avg_days_open": 1.5
+    "avg_days_open": 2.3
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "PMO",
-    "count": 1,
-    "avg_days_open": 1.0
+    "count": 2,
+    "avg_days_open": 2.6
   },
   {
     "city": "Agniesebuurt",
     "country": "Netherlands",
     "role": "PMO",
     "count": 1,
-    "avg_days_open": 2.7
+    "avg_days_open": 3.6
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 6,
-    "avg_days_open": 102.4
+    "avg_days_open": 103.2
   },
   {
     "city": "Nijmegen",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 68.8
+    "avg_days_open": 69.7
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 4,
-    "avg_days_open": 70.8
+    "avg_days_open": 70.6
   },
   {
     "city": "Nieuw West",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 24.4
+    "avg_days_open": 25.2
   },
   {
     "city": "Botlek",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 3,
-    "avg_days_open": 7.8
+    "avg_days_open": 8.6
   },
   {
     "city": "Venlo",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 2,
-    "avg_days_open": 71.8
+    "avg_days_open": 72.6
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Project Manager",
-    "count": 6,
-    "avg_days_open": 3.3
+    "count": 4,
+    "avg_days_open": 3.8
   },
   {
     "city": "Aalsmeerderbrug",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 60.9
+    "avg_days_open": 61.7
   },
   {
     "city": "Idsegahuizum",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 37.4
+    "avg_days_open": 38.2
   },
   {
     "city": "Enschede",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 10.3
+    "avg_days_open": 11.2
   },
   {
     "city": "Borne",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 2.0
+    "avg_days_open": 2.8
   },
   {
     "city": "Leiden",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 60.9
+    "avg_days_open": 61.7
   },
   {
     "city": "Zielhorst",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 50.7
+    "avg_days_open": 51.5
   },
   {
     "city": "Alkmaar",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 60.4
+    "avg_days_open": 61.2
   },
   {
     "city": "Vianen",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 3.9
+    "avg_days_open": 0.7
   },
   {
     "city": "Makkum",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 2.9
+    "avg_days_open": 3.7
   },
   {
     "city": "Beverwijk",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 3.9
+    "avg_days_open": 0.7
   },
   {
     "city": "Veenendaal",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 3.9
+    "avg_days_open": 0.7
   },
   {
     "city": "Delft",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 5.5
+    "avg_days_open": 6.3
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 25.1
+    "avg_days_open": 25.9
   },
   {
     "city": "Wijk aan Zee",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 8.7
+    "avg_days_open": 9.6
   },
   {
     "city": "Venray",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 1.1
   },
   {
     "city": "Luinjeberd",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 4.4
+    "avg_days_open": 5.2
   },
   {
     "city": "Oosteind",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 542.6
+    "avg_days_open": 543.4
   },
   {
     "city": "Duiven",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Heemskerk",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "Paddepoel",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 2.7
+    "avg_days_open": 3.5
   },
   {
     "city": "Oosterpoortwijk",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 19.3
+    "avg_days_open": 20.2
   },
   {
     "city": "Hardinxveld-Giessendam",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Almere",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Eindhoven",
     "country": "Netherlands",
     "role": "Project Manager",
-    "count": 2,
-    "avg_days_open": 69.1
+    "count": 3,
+    "avg_days_open": 92.2
   },
   {
     "city": "Noord west",
     "country": "Netherlands",
     "role": "Project Manager",
     "count": 1,
-    "avg_days_open": 2.7
+    "avg_days_open": 3.5
+  },
+  {
+    "city": "Zoetermeer",
+    "country": "Netherlands",
+    "role": "Project Manager",
+    "count": 1,
+    "avg_days_open": 70.1
   },
   {
     "city": "Hilversum",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 4,
-    "avg_days_open": 54.5
+    "avg_days_open": 55.3
   },
   {
     "city": "Rijswijk",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 4,
-    "avg_days_open": 22.3
+    "avg_days_open": 23.1
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 35.2
+    "avg_days_open": 36.0
   },
   {
     "city": "Voorthuizen",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 51.5
+    "avg_days_open": 52.3
   },
   {
     "city": "Provincie Groningen",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 13.7
+    "avg_days_open": 14.5
   },
   {
     "city": "Stadskern",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 7.7
+    "avg_days_open": 8.5
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Delivery Manager",
-    "count": 13,
-    "avg_days_open": 34.1
+    "count": 12,
+    "avg_days_open": 36.5
   },
   {
     "city": "Spoorwijk",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 74.3
+    "avg_days_open": 75.1
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Delivery Manager",
-    "count": 5,
-    "avg_days_open": 24.9
+    "count": 4,
+    "avg_days_open": 17.9
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 3.7
+    "avg_days_open": 4.5
   },
   {
     "city": "Duiven",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 10.9
+    "avg_days_open": 11.7
   },
   {
     "city": "Haarlem",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 10.7
+    "avg_days_open": 11.5
   },
   {
     "city": "Nijkerk",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 4.7
+    "avg_days_open": 5.5
   },
   {
     "city": "Schiphol",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 2,
-    "avg_days_open": 124.4
+    "avg_days_open": 125.3
   },
   {
     "city": "Zuid-Holland",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 468.9
+    "avg_days_open": 469.8
   },
   {
     "city": "'s-Gravendeel",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 14.7
+    "avg_days_open": 15.5
   },
   {
     "city": "Prinsenbeek",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 84.3
+    "avg_days_open": 85.1
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 3,
-    "avg_days_open": 60.0
+    "avg_days_open": 60.8
   },
   {
     "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 29.1
+    "avg_days_open": 29.9
   },
   {
     "city": "Spangen",
     "country": "Netherlands",
     "role": "Delivery Manager",
     "count": 1,
-    "avg_days_open": 45.7
+    "avg_days_open": 46.5
+  },
+  {
+    "city": "Wervershoof",
+    "country": "Netherlands",
+    "role": "Delivery Manager",
+    "count": 1,
+    "avg_days_open": 143.0
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 4,
-    "avg_days_open": 1021.6
+    "avg_days_open": 1022.5
   },
   {
     "city": "Bergschenhoek",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 1.3
+    "avg_days_open": 2.1
   },
   {
     "city": "Arnhem",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 25.3
+    "avg_days_open": 26.1
   },
   {
     "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 25.3
+    "avg_days_open": 26.1
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 2,
-    "avg_days_open": 29.2
+    "avg_days_open": 30.0
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Change Manager",
-    "count": 8,
-    "avg_days_open": 149.1
+    "count": 7,
+    "avg_days_open": 25.1
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Change Manager",
-    "count": 12,
-    "avg_days_open": 63.2
+    "count": 13,
+    "avg_days_open": 58.9
   },
   {
     "city": "Hoofddorp",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 270.4
+    "avg_days_open": 271.2
   },
   {
     "city": "Amersfoort",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 3,
-    "avg_days_open": 12.0
+    "avg_days_open": 12.8
   },
   {
     "city": "Binnenstad",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 49.7
+    "avg_days_open": 50.5
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 6,
-    "avg_days_open": 87.4
+    "avg_days_open": 88.3
   },
   {
     "city": "Zielhorst",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 1.1
+    "avg_days_open": 1.9
   },
   {
     "city": "Groningen",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 250.0
+    "avg_days_open": 250.8
   },
   {
     "city": "Amstelveen",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 23.3
+    "avg_days_open": 24.1
   },
   {
     "city": "Kinderdijk",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 2.7
+    "avg_days_open": 3.5
   },
   {
     "city": "Delft",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 8.5
+    "avg_days_open": 9.3
   },
   {
     "city": "Nijkerk",
     "country": "Netherlands",
     "role": "Change Manager",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Agile Coach",
-    "count": 9,
-    "avg_days_open": 143.6
+    "count": 10,
+    "avg_days_open": 131.4
   },
   {
     "city": "Vught",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 393.7
+    "avg_days_open": 394.5
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 36.9
+    "avg_days_open": 37.7
   },
   {
     "city": "Oosterpoortwijk",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 18.5
+    "avg_days_open": 19.3
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 4,
-    "avg_days_open": 19.7
+    "avg_days_open": 20.6
   },
   {
     "city": "Dichterswijk",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 52.7
+    "avg_days_open": 53.5
   },
   {
     "city": "Literatuurwijk",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 556.8
+    "avg_days_open": 557.7
   },
   {
     "city": "Maassluis",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 24.9
+    "avg_days_open": 25.7
   },
   {
     "city": "Zwolle",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 4.0
+    "avg_days_open": 4.8
   },
   {
     "city": "Weert",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 2.9
+    "avg_days_open": 3.7
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 101.0
+    "avg_days_open": 101.8
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 949.9
+    "avg_days_open": 950.7
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Agile Coach",
-    "count": 1,
-    "avg_days_open": 99.2
+    "count": 2,
+    "avg_days_open": 50.4
   },
   {
     "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 1,
-    "avg_days_open": 1.0
+    "avg_days_open": 1.9
   },
   {
     "city": "Veenendaal",
     "country": "Netherlands",
     "role": "Agile Coach",
     "count": 2,
-    "avg_days_open": 598.3
+    "avg_days_open": 599.2
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 4,
-    "avg_days_open": 95.2
+    "avg_days_open": 96.0
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 6,
-    "avg_days_open": 73.4
+    "avg_days_open": 74.2
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 11,
-    "avg_days_open": 107.7
+    "avg_days_open": 107.9
   },
   {
     "city": "Oude Westen",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 99.2
+    "avg_days_open": 100.0
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Scrum Master",
-    "count": 4,
-    "avg_days_open": 126.0
+    "count": 5,
+    "avg_days_open": 102.9
   },
   {
     "city": "Hoofddorp",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 59.3
+    "avg_days_open": 60.1
   },
   {
     "city": "Zoetermeer",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 11.7
+    "avg_days_open": 12.6
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 285.6
+    "avg_days_open": 286.5
   },
   {
     "city": "Oosterpoortwijk",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 18.5
+    "avg_days_open": 19.3
   },
   {
     "city": "Groningen",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 4.7
+    "avg_days_open": 5.5
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 2,
-    "avg_days_open": 37.0
+    "avg_days_open": 37.8
   },
   {
     "city": "Literatuurwijk",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 21.7
+    "avg_days_open": 22.5
   },
   {
     "city": "Oostduinen",
     "country": "Netherlands",
     "role": "Scrum Master",
     "count": 1,
-    "avg_days_open": 254.1
-  },
-  {
-    "city": "Dichterswijk",
-    "country": "Netherlands",
-    "role": "Scrum Master",
-    "count": 1,
-    "avg_days_open": 17.3
+    "avg_days_open": 254.9
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Release Train Engineer",
     "count": 2,
-    "avg_days_open": 11.0
+    "avg_days_open": 11.8
   },
   {
     "city": "Arnhem",
     "country": "Netherlands",
     "role": "Release Train Engineer",
     "count": 2,
-    "avg_days_open": 39.8
+    "avg_days_open": 40.6
   },
   {
     "city": "Bezuidenhout",
     "country": "Netherlands",
     "role": "Release Train Engineer",
     "count": 1,
-    "avg_days_open": 6.3
+    "avg_days_open": 7.1
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Portfolio Manager",
-    "count": 23,
-    "avg_days_open": 119.3
+    "count": 21,
+    "avg_days_open": 128.7
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 3,
-    "avg_days_open": 39.8
+    "avg_days_open": 40.7
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 3,
-    "avg_days_open": 6.8
+    "avg_days_open": 7.6
   },
   {
     "city": "Eindhoven",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 59.1
+    "avg_days_open": 60.0
   },
   {
     "city": "Binnenstad",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 3.7
+    "avg_days_open": 4.5
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 4,
-    "avg_days_open": 522.8
+    "avg_days_open": 523.6
   },
   {
     "city": "Bilthoven",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 254.1
+    "avg_days_open": 254.9
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 5,
-    "avg_days_open": 42.7
+    "avg_days_open": 43.5
+  },
+  {
+    "city": "Delfzijl",
+    "country": "Netherlands",
+    "role": "Portfolio Manager",
+    "count": 2,
+    "avg_days_open": 3.7
   },
   {
     "city": "Majellapark",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 8.7
+    "avg_days_open": 9.5
   },
   {
     "city": "Oud Zuid",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 2,
-    "avg_days_open": 131.3
+    "avg_days_open": 132.1
   },
   {
     "city": "Leiden",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 537.9
+    "avg_days_open": 538.7
   },
   {
     "city": "Zeeland",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 14.2
+    "avg_days_open": 15.0
   },
   {
     "city": "Laakkwartier",
     "country": "Netherlands",
     "role": "Portfolio Manager",
     "count": 1,
-    "avg_days_open": 357.1
+    "avg_days_open": 357.9
   },
   {
     "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 80.1
+    "avg_days_open": 81.0
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 5,
-    "avg_days_open": 25.0
+    "avg_days_open": 25.8
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Transformation Manager",
-    "count": 13,
-    "avg_days_open": 52.1
+    "count": 14,
+    "avg_days_open": 49.4
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 34.2
+    "avg_days_open": 35.0
   },
   {
     "city": "Amstelveen",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 3,
-    "avg_days_open": 17.8
+    "avg_days_open": 18.6
   },
   {
     "city": "Valkenburg",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 9.0
+    "avg_days_open": 9.8
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 18.5
+    "avg_days_open": 19.3
   },
   {
     "city": "Hilversum",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 2,
-    "avg_days_open": 26.3
+    "avg_days_open": 27.1
   },
   {
     "city": "Wijnbergen",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 3.4
+    "avg_days_open": 4.2
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 3.7
+    "avg_days_open": 4.5
   },
   {
     "city": "Diemen",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 8.7
+    "avg_days_open": 9.5
   },
   {
     "city": "Driebergen-Rijsenburg",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 9.1
+    "avg_days_open": 9.9
   },
   {
     "city": "Oud West",
     "country": "Netherlands",
     "role": "Transformation Manager",
     "count": 1,
-    "avg_days_open": 10.4
+    "avg_days_open": 11.2
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Product Owner",
-    "count": 11,
-    "avg_days_open": 136.8
+    "count": 13,
+    "avg_days_open": 145.1
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 3.9
+    "avg_days_open": 4.7
   },
   {
     "city": "Zoetermeer",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 4.0
+    "avg_days_open": 4.9
   },
   {
     "city": "Hoevelaken",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 36.9
+    "avg_days_open": 37.7
   },
   {
     "city": "Provincie Utrecht",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 69.3
+    "avg_days_open": 70.1
   },
   {
     "city": "Voorburg",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 44.7
+    "avg_days_open": 45.5
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 10.4
+    "avg_days_open": 11.3
   },
   {
     "city": "Raalte",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Rosmalen",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 69.3
+    "avg_days_open": 70.1
   },
   {
     "city": "Erp",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Breda",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 124.7
+    "avg_days_open": 125.5
   },
   {
     "city": "Den Haag",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 1.0
-  },
-  {
-    "city": "Maassluis",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 2,
-    "avg_days_open": 2.1
-  },
-  {
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 2,
-    "avg_days_open": 28.2
-  },
-  {
-    "city": "Bezuidenhout",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 56.3
-  },
-  {
-    "city": "Dichterswijk",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 2,
-    "avg_days_open": 36.3
-  },
-  {
-    "city": "Tilburg",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 58.3
-  },
-  {
-    "city": "Cromvoirt",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 9.1
-  },
-  {
-    "city": "Veldhoven",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 3,
-    "avg_days_open": 344.7
-  },
-  {
-    "city": "Zwolle",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
     "avg_days_open": 1.9
   },
   {
-    "city": "Rijsenhout",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 9.4
-  },
-  {
-    "city": "Houten",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 4.9
-  },
-  {
-    "city": "Eindhoven",
+    "city": "Maassluis",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 2,
-    "avg_days_open": 44.6
+    "avg_days_open": 2.9
   },
   {
-    "city": "Rijswijk",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 2,
+    "avg_days_open": 29.1
+  },
+  {
+    "city": "Bezuidenhout",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
-    "avg_days_open": 2.3
+    "avg_days_open": 57.1
   },
   {
-    "city": "Majellapark",
+    "city": "Dichterswijk",
     "country": "Netherlands",
     "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 44.7
+    "count": 2,
+    "avg_days_open": 37.1
   },
   {
-    "city": "Arnhem",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 3,
-    "avg_days_open": 15.8
-  },
-  {
-    "city": "Oud West",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 14.7
-  },
-  {
-    "city": "Groningen",
-    "country": "Netherlands",
-    "role": "Product Owner",
-    "count": 1,
-    "avg_days_open": 8.7
-  },
-  {
-    "city": "Noord west",
+    "city": "Tilburg",
     "country": "Netherlands",
     "role": "Product Owner",
     "count": 1,
     "avg_days_open": 59.1
   },
   {
+    "city": "Cromvoirt",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 9.9
+  },
+  {
+    "city": "Veldhoven",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 3,
+    "avg_days_open": 345.5
+  },
+  {
+    "city": "Zwolle",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 2.7
+  },
+  {
+    "city": "Rijsenhout",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 10.2
+  },
+  {
+    "city": "Houten",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 5.7
+  },
+  {
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 2,
+    "avg_days_open": 45.4
+  },
+  {
+    "city": "Rijswijk",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 3.1
+  },
+  {
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 3,
+    "avg_days_open": 16.6
+  },
+  {
+    "city": "Oud West",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 15.5
+  },
+  {
+    "city": "Groningen",
+    "country": "Netherlands",
+    "role": "Product Owner",
+    "count": 1,
+    "avg_days_open": 9.5
+  },
+  {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 141.2
+    "avg_days_open": 142.1
+  },
+  {
+    "city": "Riel",
+    "country": "Netherlands",
+    "role": "Product Manager",
+    "count": 1,
+    "avg_days_open": 11.6
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Product Manager",
-    "count": 21,
-    "avg_days_open": 57.0
+    "count": 20,
+    "avg_days_open": 57.5
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 3,
-    "avg_days_open": 39.5
+    "avg_days_open": 40.3
   },
   {
     "city": "Hummelo",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 15.1
-  },
-  {
-    "city": "Noordwijk aan Zee",
-    "country": "Netherlands",
-    "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 0.3
+    "avg_days_open": 15.9
   },
   {
     "city": "Oosterpoortwijk",
     "country": "Netherlands",
     "role": "Product Manager",
-    "count": 1,
-    "avg_days_open": 35.7
+    "count": 2,
+    "avg_days_open": 36.5
   },
   {
     "city": "Kinderdijk",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 287.9
+    "avg_days_open": 288.8
   },
   {
     "city": "Maarssen",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 233.1
+    "avg_days_open": 233.9
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 16.6
+    "avg_days_open": 17.4
   },
   {
     "city": "Swalmen",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 2.6
+    "avg_days_open": 3.4
   },
   {
     "city": "Hoogvliet",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 309.7
+    "avg_days_open": 310.5
   },
   {
     "city": "Oud Zuid",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 44.4
+    "avg_days_open": 45.3
   },
   {
     "city": "Velden",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 10.4
+    "avg_days_open": 11.2
   },
   {
     "city": "Roermond",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 1.7
+    "avg_days_open": 2.5
   },
   {
     "city": "Stramproy",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 19.8
+    "avg_days_open": 20.6
   },
   {
     "city": "Zaandam",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 2.7
+    "avg_days_open": 3.5
   },
   {
     "city": "'s-Graveland",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 20.1
+    "avg_days_open": 21.0
   },
   {
     "city": "Weert",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 51.2
+    "avg_days_open": 52.0
   },
   {
     "city": "Binnenstad",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 9.1
+    "avg_days_open": 9.9
   },
   {
     "city": "Oud West",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 51.7
+    "avg_days_open": 52.5
   },
   {
     "city": "Voorburg",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 2,
-    "avg_days_open": 30.7
+    "avg_days_open": 31.5
   },
   {
     "city": "Den Dungen",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 29.7
+    "avg_days_open": 30.5
   },
   {
     "city": "Capelle aan den IJssel",
     "country": "Netherlands",
     "role": "Product Manager",
     "count": 1,
-    "avg_days_open": 81.1
+    "avg_days_open": 82.0
   },
   {
     "city": "Numansdorp",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 26.8
+    "avg_days_open": 27.6
   },
   {
     "city": "Zoeterwoude",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 3,
-    "avg_days_open": 34.1
+    "avg_days_open": 34.9
   },
   {
     "city": "Arnhem",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 82.4
+    "avg_days_open": 83.1
   },
   {
     "city": "Nederland",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 13,
-    "avg_days_open": 108.9
+    "avg_days_open": 114.9
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 10.0
+    "avg_days_open": 10.9
   },
   {
     "city": "Almere",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Eindhoven",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 61.1
+    "avg_days_open": 62.0
   },
   {
     "city": "Amstelveen",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 108.8
+    "avg_days_open": 109.7
   },
   {
     "city": "Buitenveldert",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 8.7
+    "avg_days_open": 9.5
   },
   {
     "city": "Oudorp",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 13.6
+    "avg_days_open": 14.4
   },
   {
     "city": "Veghel",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 226.4
+    "avg_days_open": 227.2
   },
   {
     "city": "Amersfoort",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 120.5
+    "avg_days_open": 121.3
   },
   {
     "city": "Westzaan",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 150.5
+    "avg_days_open": 151.3
   },
   {
     "city": "Hengelo",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 55.1
+    "avg_days_open": 56.0
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 4,
-    "avg_days_open": 756.1
+    "avg_days_open": 756.9
   },
   {
     "city": "Koog aan de Zaan",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 283.1
+    "avg_days_open": 283.9
   },
   {
     "city": "Sittard",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 46.7
+    "avg_days_open": 47.5
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 3,
-    "avg_days_open": 68.1
+    "avg_days_open": 69.0
   },
   {
     "city": "Zaandam",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 4.3
+    "avg_days_open": 5.1
   },
   {
     "city": "Wervershoof",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 113.1
+    "avg_days_open": 114.0
   },
   {
     "city": "Oud Zuid",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 43.7
+    "avg_days_open": 44.5
   },
   {
     "city": "Enkhuizen",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 2.3
+    "avg_days_open": 3.1
   },
   {
     "city": "Kralingseveer",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 2,
-    "avg_days_open": 244.9
+    "avg_days_open": 245.7
   },
   {
     "city": "Tilburg",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 115.3
-  },
-  {
-    "city": "Broek op Langedijk",
-    "country": "Netherlands",
-    "role": "Quality Manager",
-    "count": 1,
-    "avg_days_open": 58.4
+    "avg_days_open": 116.1
   },
   {
     "city": "Groot-IJsselmonde",
     "country": "Netherlands",
     "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 79.3
+    "avg_days_open": 80.1
   },
   {
-    "city": "Varsseveld",
+    "city": "Zwolle",
     "country": "Netherlands",
-    "role": "Quality Engineer",
+    "role": "Quality Manager",
     "count": 1,
-    "avg_days_open": 60.9
-  },
-  {
-    "city": "Zevenaar",
-    "country": "Netherlands",
-    "role": "Quality Engineer",
-    "count": 1,
-    "avg_days_open": 60.9
+    "avg_days_open": 337.1
   },
   {
     "city": "Duiven",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 60.9
+    "avg_days_open": 61.7
   },
   {
     "city": "Doetinchem",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 98.3
+    "avg_days_open": 99.2
   },
   {
     "city": "Groenlo",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 60.9
+    "avg_days_open": 61.7
   },
   {
     "city": "Zutphen",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 66.8
+    "avg_days_open": 67.6
   },
   {
-    "city": "Assen",
-    "country": "Netherlands",
-    "role": "Quality Engineer",
-    "count": 2,
-    "avg_days_open": 79.8
-  },
-  {
-    "city": "Hoogezand",
+    "city": "Zevenaar",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 21.8
+    "avg_days_open": 61.7
+  },
+  {
+    "city": "Varsseveld",
+    "country": "Netherlands",
+    "role": "Quality Engineer",
+    "count": 1,
+    "avg_days_open": 61.7
   },
   {
     "city": "Olst",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 1.8
+    "avg_days_open": 15.2
+  },
+  {
+    "city": "Riel",
+    "country": "Netherlands",
+    "role": "Quality Engineer",
+    "count": 1,
+    "avg_days_open": 3.1
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 47.6
+    "avg_days_open": 48.5
   },
   {
     "city": "Tiel",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Oss",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Renkum",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Harderwijk",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Rotterdam",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Nijkerk",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Gouda",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Tilburg",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Delft",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Barneveld",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Amersfoort",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "'s-Heerenberg",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Botlek",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Leiden",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Nunspeet",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 120.7
+    "avg_days_open": 121.6
   },
   {
     "city": "Den Haag",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Nijmegen",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Dordrecht",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Bergen op Zoom",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Halsteren",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 36.7
+    "avg_days_open": 37.5
   },
   {
     "city": "Cuijk",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 120.7
+    "avg_days_open": 121.6
   },
   {
     "city": "Breda",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
+  },
+  {
+    "city": "Assen",
+    "country": "Netherlands",
+    "role": "Quality Engineer",
+    "count": 1,
+    "avg_days_open": 136.6
   },
   {
     "city": "Arnhem",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 104.1
+    "avg_days_open": 105.0
   },
   {
     "city": "Eindhoven",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 2,
-    "avg_days_open": 118.7
+    "avg_days_open": 119.6
   },
   {
     "city": "Scherpenzeel",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Geldrop",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 2.0
+    "avg_days_open": 2.8
   },
   {
     "city": "Helmond",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Ede",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Apeldoorn",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Heerlen",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 135.7
+    "avg_days_open": 136.6
   },
   {
     "city": "Boxmeer",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 72.6
+    "avg_days_open": 73.5
   },
   {
     "city": "Meppel",
     "country": "Netherlands",
     "role": "Quality Engineer",
     "count": 1,
-    "avg_days_open": 119.7
+    "avg_days_open": 120.6
+  },
+  {
+    "city": "Genemuiden",
+    "country": "Netherlands",
+    "role": "Quality Engineer",
+    "count": 1,
+    "avg_days_open": 54.6
   }
 ]
