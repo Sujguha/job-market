@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 149
+    "count": 134
   },
   {
     "company": "Synsel Techniek",
-    "count": 51
+    "count": 54
   },
   {
     "company": "mycareernow GmbH",
@@ -25,7 +25,7 @@
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 13
+    "count": 14
   },
   {
     "company": "Bright Professionals",
@@ -84,19 +84,19 @@
     "count": 9
   },
   {
-    "company": "Roche",
-    "count": 9
-  },
-  {
     "company": "Blockstream",
     "count": 9
   },
   {
-    "company": "NLwerkt",
-    "count": 9
+    "company": "Accenture",
+    "count": 8
   },
   {
-    "company": "Accenture",
+    "company": "CompuGroup Medical SE & Co. KGaA",
+    "count": 8
+  },
+  {
+    "company": "Gi Group Outsourcing Deutschland GmbH",
     "count": 8
   }
 ]
