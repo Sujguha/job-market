@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 138
+    "count": 127
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 55
   },
   {
     "company": "mycareernow GmbH",
@@ -21,15 +21,19 @@
   },
   {
     "company": "Orizon GmbH",
-    "count": 15
+    "count": 14
   },
   {
     "company": "Jobgether",
-    "count": 15
+    "count": 14
   },
   {
     "company": "We ARE Recruitment Group",
     "count": 14
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 13
   },
   {
     "company": "Bright Professionals",
@@ -64,10 +68,6 @@
     "count": 10
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 10
-  },
-  {
     "company": "Lam Research",
     "count": 10
   },
@@ -84,10 +84,6 @@
     "count": 10
   },
   {
-    "company": "Schmitt Engineering",
-    "count": 9
-  },
-  {
     "company": "Jockel Brandschutztechnik-Service GmbH",
     "count": 9
   },
@@ -97,6 +93,10 @@
   },
   {
     "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "CGI",
     "count": 9
   }
 ]

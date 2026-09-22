@@ -201,12 +201,12 @@
   },
   {
     "date": "2026-09-22",
-    "total_postings": 2325,
+    "total_postings": 2320,
     "by_country": {
       "Germany": 718,
       "Austria": 408,
-      "Switzerland": 589,
-      "Netherlands": 610
+      "Switzerland": 587,
+      "Netherlands": 607
     }
   }
 ]
