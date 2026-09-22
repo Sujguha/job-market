@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 134
+    "count": 138
   },
   {
     "company": "Synsel Techniek",
@@ -9,15 +9,19 @@
   },
   {
     "company": "mycareernow GmbH",
-    "count": 23
-  },
-  {
-    "company": "Bjak",
-    "count": 21
+    "count": 25
   },
   {
     "company": "ASML",
     "count": 20
+  },
+  {
+    "company": "Bjak",
+    "count": 18
+  },
+  {
+    "company": "Orizon GmbH",
+    "count": 15
   },
   {
     "company": "Jobgether",
@@ -32,18 +36,6 @@
     "count": 13
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 12
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 12
-  },
-  {
-    "company": "Witron Service GmbH & Co. KG",
-    "count": 12
-  },
-  {
     "company": "Unknown",
     "count": 12
   },
@@ -56,12 +48,24 @@
     "count": 12
   },
   {
+    "company": "EIFFEL",
+    "count": 12
+  },
+  {
     "company": "Talent&Pro",
     "count": 12
   },
   {
-    "company": "CGI",
-    "count": 11
+    "company": "Akkodis",
+    "count": 10
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 10
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 10
   },
   {
     "company": "Lam Research",
@@ -72,12 +76,20 @@
     "count": 10
   },
   {
-    "company": "Richemont",
+    "company": "XXXLdigital - Part of XXXL Group",
     "count": 10
   },
   {
     "company": "CGI Nederland",
     "count": 10
+  },
+  {
+    "company": "Schmitt Engineering",
+    "count": 9
+  },
+  {
+    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "count": 9
   },
   {
     "company": "Passion for People GmbH",
@@ -86,17 +98,5 @@
   {
     "company": "Blockstream",
     "count": 9
-  },
-  {
-    "company": "Accenture",
-    "count": 8
-  },
-  {
-    "company": "CompuGroup Medical SE & Co. KGaA",
-    "count": 8
-  },
-  {
-    "company": "Gi Group Outsourcing Deutschland GmbH",
-    "count": 8
   }
 ]
