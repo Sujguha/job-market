@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 126
+    "count": 122
   },
   {
     "company": "Synsel Techniek",
-    "count": 51
+    "count": 52
   },
   {
     "company": "mycareernow GmbH",
@@ -25,7 +25,11 @@
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 14
+    "count": 15
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 13
   },
   {
     "company": "Unknown",
@@ -34,18 +38,6 @@
   {
     "company": "Bright Professionals",
     "count": 13
-  },
-  {
-    "company": "Orizon GmbH",
-    "count": 12
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 12
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 12
   },
   {
     "company": "Ministerie van Defensie",
@@ -60,7 +52,7 @@
     "count": 11
   },
   {
-    "company": "Start People",
+    "company": "PricewaterhouseCoopers",
     "count": 11
   },
   {
@@ -88,15 +80,23 @@
     "count": 10
   },
   {
-    "company": "Akkodis",
-    "count": 9
-  },
-  {
     "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
     "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "Start People",
+    "count": 9
+  },
+  {
+    "company": "PLATH GmbH & Co. KG",
+    "count": 8
   }
 ]
