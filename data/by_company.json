@@ -1,38 +1,34 @@
 [
   {
     "company": "Job-Room",
-    "count": 127
+    "count": 126
   },
   {
     "company": "Synsel Techniek",
-    "count": 55
+    "count": 51
   },
   {
     "company": "mycareernow GmbH",
-    "count": 25
+    "count": 20
+  },
+  {
+    "company": "Bjak",
+    "count": 20
   },
   {
     "company": "ASML",
     "count": 20
   },
   {
-    "company": "Bjak",
-    "count": 18
-  },
-  {
-    "company": "Orizon GmbH",
-    "count": 14
-  },
-  {
     "company": "Jobgether",
-    "count": 14
+    "count": 15
   },
   {
     "company": "We ARE Recruitment Group",
     "count": 14
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Unknown",
     "count": 13
   },
   {
@@ -40,7 +36,11 @@
     "count": 13
   },
   {
-    "company": "Unknown",
+    "company": "Orizon GmbH",
+    "count": 12
+  },
+  {
+    "company": "FERCHAU GmbH",
     "count": 12
   },
   {
@@ -56,15 +56,19 @@
     "count": 12
   },
   {
+    "company": "KIND GmbH & Co. KG",
+    "count": 11
+  },
+  {
+    "company": "Start People",
+    "count": 11
+  },
+  {
     "company": "Talent&Pro",
-    "count": 12
+    "count": 11
   },
   {
-    "company": "Akkodis",
-    "count": 10
-  },
-  {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "SThree Germany",
     "count": 10
   },
   {
@@ -84,19 +88,15 @@
     "count": 10
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "company": "Akkodis",
+    "count": 9
+  },
+  {
+    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "CGI",
     "count": 9
   }
 ]
