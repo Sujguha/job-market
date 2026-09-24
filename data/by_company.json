@@ -1,15 +1,15 @@
 [
   {
     "company": "Job-Room",
-    "count": 122
+    "count": 123
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
+    "count": 55
   },
   {
     "company": "mycareernow GmbH",
-    "count": 20
+    "count": 22
   },
   {
     "company": "Bjak",
@@ -20,12 +20,16 @@
     "count": 20
   },
   {
-    "company": "Jobgether",
-    "count": 15
+    "company": "Bright Professionals",
+    "count": 17
   },
   {
     "company": "We ARE Recruitment Group",
     "count": 15
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
+    "count": 14
   },
   {
     "company": "FERCHAU GmbH",
@@ -33,11 +37,11 @@
   },
   {
     "company": "Unknown",
-    "count": 13
+    "count": 12
   },
   {
-    "company": "Bright Professionals",
-    "count": 13
+    "company": "Lam Research",
+    "count": 12
   },
   {
     "company": "Ministerie van Defensie",
@@ -48,23 +52,11 @@
     "count": 12
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 11
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 11
-  },
-  {
     "company": "Talent&Pro",
     "count": 11
   },
   {
-    "company": "SThree Germany",
-    "count": 10
-  },
-  {
-    "company": "Lam Research",
+    "company": "Jobgether",
     "count": 10
   },
   {
@@ -72,7 +64,7 @@
     "count": 10
   },
   {
-    "company": "XXXLdigital - Part of XXXL Group",
+    "company": "PricewaterhouseCoopers",
     "count": 10
   },
   {
@@ -80,7 +72,15 @@
     "count": 10
   },
   {
+    "company": "HENSOLDT",
+    "count": 9
+  },
+  {
     "company": "CompuGroup Medical SE & Co. KGaA",
+    "count": 9
+  },
+  {
+    "company": "SThree Germany",
     "count": 9
   },
   {
@@ -88,15 +88,15 @@
     "count": 9
   },
   {
+    "company": "Roche",
+    "count": 9
+  },
+  {
     "company": "Blockstream",
     "count": 9
   },
   {
-    "company": "Start People",
-    "count": 9
-  },
-  {
-    "company": "PLATH GmbH & Co. KG",
+    "company": "Accenture",
     "count": 8
   }
 ]
