@@ -5,23 +5,19 @@
   },
   {
     "company": "Synsel Techniek",
-    "count": 55
+    "count": 54
   },
   {
     "company": "mycareernow GmbH",
     "count": 22
   },
   {
-    "company": "Bjak",
-    "count": 20
-  },
-  {
     "company": "ASML",
-    "count": 20
+    "count": 19
   },
   {
     "company": "Bright Professionals",
-    "count": 17
+    "count": 16
   },
   {
     "company": "We ARE Recruitment Group",
@@ -36,14 +32,6 @@
     "count": 13
   },
   {
-    "company": "Unknown",
-    "count": 12
-  },
-  {
-    "company": "Lam Research",
-    "count": 12
-  },
-  {
     "company": "Ministerie van Defensie",
     "count": 12
   },
@@ -52,11 +40,15 @@
     "count": 12
   },
   {
+    "company": "Unknown",
+    "count": 11
+  },
+  {
     "company": "Talent&Pro",
     "count": 11
   },
   {
-    "company": "Jobgether",
+    "company": "Lam Research",
     "count": 10
   },
   {
@@ -72,11 +64,11 @@
     "count": 10
   },
   {
-    "company": "HENSOLDT",
+    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
-    "company": "CompuGroup Medical SE & Co. KGaA",
+    "company": "Jobgether",
     "count": 9
   },
   {
@@ -92,11 +84,19 @@
     "count": 9
   },
   {
+    "company": "Bjak",
+    "count": 9
+  },
+  {
     "company": "Blockstream",
     "count": 9
   },
   {
-    "company": "Accenture",
+    "company": "Gi Group Outsourcing Deutschland GmbH",
     "count": 8
+  },
+  {
+    "company": "PLATH GmbH & Co. KG",
+    "count": 7
   }
 ]
