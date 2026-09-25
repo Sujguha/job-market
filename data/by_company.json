@@ -1,23 +1,27 @@
 [
   {
     "company": "Job-Room",
-    "count": 123
+    "count": 132
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 55
   },
   {
     "company": "mycareernow GmbH",
-    "count": 22
+    "count": 20
   },
   {
     "company": "ASML",
     "count": 19
   },
   {
+    "company": "Bjak",
+    "count": 18
+  },
+  {
     "company": "Bright Professionals",
-    "count": 16
+    "count": 18
   },
   {
     "company": "We ARE Recruitment Group",
@@ -28,15 +32,15 @@
     "count": 14
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Lam Research",
     "count": 13
   },
   {
-    "company": "Ministerie van Defensie",
+    "company": "FERCHAU GmbH",
     "count": 12
   },
   {
-    "company": "EIFFEL",
+    "company": "Ministerie van Defensie",
     "count": 12
   },
   {
@@ -44,11 +48,15 @@
     "count": 11
   },
   {
+    "company": "Roche",
+    "count": 11
+  },
+  {
     "company": "Talent&Pro",
     "count": 11
   },
   {
-    "company": "Lam Research",
+    "company": "PLATH GmbH & Co. KG",
     "count": 10
   },
   {
@@ -60,15 +68,15 @@
     "count": 10
   },
   {
+    "company": "CGI",
+    "count": 10
+  },
+  {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "CompuGroup Medical SE & Co. KGaA",
-    "count": 9
-  },
-  {
-    "company": "Jobgether",
+    "company": "Accenture",
     "count": 9
   },
   {
@@ -80,11 +88,7 @@
     "count": 9
   },
   {
-    "company": "Roche",
-    "count": 9
-  },
-  {
-    "company": "Bjak",
+    "company": "SEG Electronics GmbH",
     "count": 9
   },
   {
@@ -94,9 +98,5 @@
   {
     "company": "Gi Group Outsourcing Deutschland GmbH",
     "count": 8
-  },
-  {
-    "company": "PLATH GmbH & Co. KG",
-    "count": 7
   }
 ]
