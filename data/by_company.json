@@ -1,34 +1,30 @@
 [
   {
     "company": "Job-Room",
-    "count": 132
+    "count": 138
   },
   {
     "company": "Synsel Techniek",
-    "count": 55
+    "count": 53
   },
   {
     "company": "mycareernow GmbH",
     "count": 20
   },
   {
-    "company": "ASML",
-    "count": 19
-  },
-  {
     "company": "Bjak",
-    "count": 18
+    "count": 20
   },
   {
-    "company": "Bright Professionals",
-    "count": 18
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 15
+    "company": "ASML",
+    "count": 20
   },
   {
     "company": "KIND GmbH & Co. KG",
+    "count": 17
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 14
   },
   {
@@ -44,31 +40,15 @@
     "count": 12
   },
   {
-    "company": "Unknown",
-    "count": 11
+    "company": "Bright Professionals",
+    "count": 12
   },
   {
     "company": "Roche",
     "count": 11
   },
   {
-    "company": "Talent&Pro",
-    "count": 11
-  },
-  {
-    "company": "PLATH GmbH & Co. KG",
-    "count": 10
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 10
-  },
-  {
     "company": "PricewaterhouseCoopers",
-    "count": 10
-  },
-  {
-    "company": "CGI",
     "count": 10
   },
   {
@@ -76,11 +56,19 @@
     "count": 10
   },
   {
+    "company": "PLATH GmbH & Co. KG",
+    "count": 9
+  },
+  {
+    "company": "Jobgether",
+    "count": 9
+  },
+  {
     "company": "Accenture",
     "count": 9
   },
   {
-    "company": "SThree Germany",
+    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
@@ -88,7 +76,11 @@
     "count": 9
   },
   {
-    "company": "SEG Electronics GmbH",
+    "company": "Unknown",
+    "count": 9
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 9
   },
   {
@@ -97,6 +89,14 @@
   },
   {
     "company": "Gi Group Outsourcing Deutschland GmbH",
+    "count": 8
+  },
+  {
+    "company": "SThree Germany",
+    "count": 8
+  },
+  {
+    "company": "Wavestone Germany AG",
     "count": 8
   }
 ]
