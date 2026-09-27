@@ -1,38 +1,46 @@
 [
   {
     "company": "Job-Room",
-    "count": 138
+    "count": 139
   },
   {
     "company": "Synsel Techniek",
-    "count": 53
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 20
+    "count": 49
   },
   {
     "company": "Bjak",
     "count": 20
   },
   {
+    "company": "mycareernow GmbH",
+    "count": 19
+  },
+  {
     "company": "ASML",
-    "count": 20
+    "count": 19
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 17
+    "count": 14
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 14
+    "company": "FERCHAU GmbH",
+    "count": 13
   },
   {
     "company": "Lam Research",
     "count": 13
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "CGI",
+    "count": 13
+  },
+  {
+    "company": "Bright Professionals",
+    "count": 13
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 12
   },
   {
@@ -40,12 +48,8 @@
     "count": 12
   },
   {
-    "company": "Bright Professionals",
-    "count": 12
-  },
-  {
     "company": "Roche",
-    "count": 11
+    "count": 10
   },
   {
     "company": "PricewaterhouseCoopers",
@@ -56,19 +60,7 @@
     "count": 10
   },
   {
-    "company": "PLATH GmbH & Co. KG",
-    "count": 9
-  },
-  {
-    "company": "Jobgether",
-    "count": 9
-  },
-  {
     "company": "Accenture",
-    "count": 9
-  },
-  {
-    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
@@ -88,15 +80,23 @@
     "count": 9
   },
   {
-    "company": "Gi Group Outsourcing Deutschland GmbH",
+    "company": "PLATH GmbH & Co. KG",
+    "count": 8
+  },
+  {
+    "company": "DACHSER SE",
+    "count": 8
+  },
+  {
+    "company": "CompuGroup Medical SE & Co. KGaA",
+    "count": 8
+  },
+  {
+    "company": "SVA System Vertrieb Alexander GmbH",
     "count": 8
   },
   {
     "company": "SThree Germany",
-    "count": 8
-  },
-  {
-    "company": "Wavestone Germany AG",
     "count": 8
   }
 ]
