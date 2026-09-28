@@ -1,23 +1,27 @@
 [
   {
     "company": "Job-Room",
-    "count": 139
+    "count": 130
   },
   {
     "company": "Synsel Techniek",
-    "count": 49
+    "count": 56
+  },
+  {
+    "company": "ASML",
+    "count": 21
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 20
   },
   {
     "company": "Bjak",
     "count": 20
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 19
-  },
-  {
-    "company": "ASML",
-    "count": 19
+    "company": "We ARE Recruitment Group",
+    "count": 15
   },
   {
     "company": "KIND GmbH & Co. KG",
@@ -32,27 +36,27 @@
     "count": 13
   },
   {
-    "company": "CGI",
-    "count": 13
-  },
-  {
     "company": "Bright Professionals",
     "count": 13
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 12
+    "company": "CGI",
+    "count": 11
   },
   {
-    "company": "Ministerie van Defensie",
-    "count": 12
+    "company": "PLATH GmbH & Co. KG",
+    "count": 10
   },
   {
-    "company": "Roche",
+    "company": "Jobgether",
     "count": 10
   },
   {
     "company": "PricewaterhouseCoopers",
+    "count": 10
+  },
+  {
+    "company": "Richemont",
     "count": 10
   },
   {
@@ -68,11 +72,11 @@
     "count": 9
   },
   {
-    "company": "Unknown",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 9
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Innio",
     "count": 9
   },
   {
@@ -80,23 +84,19 @@
     "count": 9
   },
   {
-    "company": "PLATH GmbH & Co. KG",
-    "count": 8
-  },
-  {
     "company": "DACHSER SE",
     "count": 8
   },
   {
-    "company": "CompuGroup Medical SE & Co. KGaA",
-    "count": 8
-  },
-  {
-    "company": "SVA System Vertrieb Alexander GmbH",
-    "count": 8
-  },
-  {
     "company": "SThree Germany",
+    "count": 8
+  },
+  {
+    "company": "Wavestone Germany AG",
+    "count": 8
+  },
+  {
+    "company": "Unknown",
     "count": 8
   }
 ]
