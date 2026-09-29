@@ -9,22 +9,22 @@
   },
   {
     "company": "ASML",
-    "count": 21
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 20
+    "count": 22
   },
   {
     "company": "Bjak",
     "count": 20
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 15
+    "company": "mycareernow GmbH",
+    "count": 19
   },
   {
     "company": "KIND GmbH & Co. KG",
+    "count": 16
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 14
   },
   {
@@ -32,31 +32,35 @@
     "count": 13
   },
   {
-    "company": "Lam Research",
-    "count": 13
+    "company": "Jobgether",
+    "count": 12
   },
   {
-    "company": "Bright Professionals",
-    "count": 13
+    "company": "Lam Research",
+    "count": 12
   },
   {
     "company": "CGI",
+    "count": 12
+  },
+  {
+    "company": "Unknown",
     "count": 11
   },
   {
-    "company": "PLATH GmbH & Co. KG",
+    "company": "EIFFEL",
+    "count": 11
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 10
   },
   {
-    "company": "Jobgether",
+    "company": "Roche",
     "count": 10
   },
   {
     "company": "PricewaterhouseCoopers",
-    "count": 10
-  },
-  {
-    "company": "Richemont",
     "count": 10
   },
   {
@@ -68,11 +72,15 @@
     "count": 9
   },
   {
-    "company": "Passion for People GmbH",
+    "company": "SThree Germany",
     "count": 9
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Wavestone Germany AG",
+    "count": 9
+  },
+  {
+    "company": "Passion for People GmbH",
     "count": 9
   },
   {
@@ -80,23 +88,15 @@
     "count": 9
   },
   {
+    "company": "Richemont",
+    "count": 9
+  },
+  {
     "company": "Blockstream",
     "count": 9
   },
   {
-    "company": "DACHSER SE",
-    "count": 8
-  },
-  {
-    "company": "SThree Germany",
-    "count": 8
-  },
-  {
-    "company": "Wavestone Germany AG",
-    "count": 8
-  },
-  {
-    "company": "Unknown",
-    "count": 8
+    "company": "Bright Professionals",
+    "count": 9
   }
 ]
