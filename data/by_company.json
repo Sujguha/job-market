@@ -1,27 +1,27 @@
 [
   {
     "company": "Job-Room",
-    "count": 132
+    "count": 133
   },
   {
     "company": "Synsel Techniek",
-    "count": 56
+    "count": 57
   },
   {
     "company": "ASML",
     "count": 23
   },
   {
+    "company": "mycareernow GmbH",
+    "count": 22
+  },
+  {
     "company": "Bjak",
     "count": 20
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 19
-  },
-  {
     "company": "KIND GmbH & Co. KG",
-    "count": 16
+    "count": 18
   },
   {
     "company": "We ARE Recruitment Group",
@@ -32,15 +32,7 @@
     "count": 13
   },
   {
-    "company": "Jobgether",
-    "count": 12
-  },
-  {
     "company": "Lam Research",
-    "count": 12
-  },
-  {
-    "company": "CGI",
     "count": 12
   },
   {
@@ -48,19 +40,27 @@
     "count": 11
   },
   {
+    "company": "Roche",
+    "count": 11
+  },
+  {
+    "company": "PricewaterhouseCoopers",
+    "count": 11
+  },
+  {
+    "company": "CGI",
+    "count": 11
+  },
+  {
     "company": "EIFFEL",
     "count": 11
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Jobgether",
     "count": 10
   },
   {
-    "company": "Roche",
-    "count": 10
-  },
-  {
-    "company": "PricewaterhouseCoopers",
+    "company": "Richemont",
     "count": 10
   },
   {
@@ -68,19 +68,15 @@
     "count": 10
   },
   {
-    "company": "Accenture",
+    "company": "Wavestone Germany AG",
     "count": 9
   },
   {
-    "company": "SThree Germany",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 9
   },
   {
     "company": "Innio",
-    "count": 9
-  },
-  {
-    "company": "Richemont",
     "count": 9
   },
   {
@@ -96,7 +92,11 @@
     "count": 8
   },
   {
-    "company": "Wavestone Germany AG",
-    "count": 7
+    "company": "Accenture",
+    "count": 8
+  },
+  {
+    "company": "SThree Germany",
+    "count": 8
   }
 ]
