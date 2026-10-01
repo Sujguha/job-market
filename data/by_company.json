@@ -1,11 +1,15 @@
 [
   {
     "company": "Job-Room",
-    "count": 122
+    "count": 146
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 55
+  },
+  {
+    "company": "Siemens Energy",
+    "count": 26
   },
   {
     "company": "ASML",
@@ -13,39 +17,31 @@
   },
   {
     "company": "Bjak",
-    "count": 19
+    "count": 17
   },
   {
     "company": "mycareernow GmbH",
-    "count": 18
+    "count": 15
   },
   {
     "company": "KIND GmbH & Co. KG",
     "count": 14
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 13
-  },
-  {
     "company": "We ARE Recruitment Group",
     "count": 13
-  },
-  {
-    "company": "Orizon GmbH",
-    "count": 12
   },
   {
     "company": "Lam Research",
     "count": 12
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "CGI",
     "count": 12
   },
   {
-    "company": "CGI",
-    "count": 12
+    "company": "PricewaterhouseCoopers",
+    "count": 11
   },
   {
     "company": "Bright Professionals",
@@ -56,7 +52,11 @@
     "count": 11
   },
   {
-    "company": "Unknown",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 10
+  },
+  {
+    "company": "Roche",
     "count": 10
   },
   {
@@ -80,15 +80,7 @@
     "count": 9
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 9
-  },
-  {
     "company": "Innio",
-    "count": 9
-  },
-  {
-    "company": "Roche",
     "count": 9
   },
   {
@@ -96,7 +88,15 @@
     "count": 9
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "Dirk Rossmann GmbH",
+    "count": 8
+  },
+  {
+    "company": "Gi Group Outsourcing Deutschland GmbH",
+    "count": 8
+  },
+  {
+    "company": "Atruvia AG",
     "count": 8
   }
 ]

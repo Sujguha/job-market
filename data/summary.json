@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-01T08:03:36+00:00",
-  "total_postings": 2281,
+  "last_updated": "2026-10-01T12:19:48+00:00",
+  "total_postings": 2319,
   "by_country": {
-    "Germany": 710,
-    "Austria": 396,
-    "Switzerland": 572,
+    "Germany": 706,
+    "Austria": 398,
+    "Switzerland": 612,
     "Netherlands": 603
   },
   "roles_tracked": [
@@ -24,6 +24,6 @@
     "Quality Manager",
     "Quality Engineer"
   ],
-  "failed_queries": 2,
+  "failed_queries": 0,
   "total_queries": 60
 }
