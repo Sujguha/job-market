@@ -1,30 +1,26 @@
 [
   {
     "company": "Job-Room",
-    "count": 138
+    "count": 122
   },
   {
     "company": "Synsel Techniek",
-    "count": 57
+    "count": 54
   },
   {
     "company": "ASML",
-    "count": 23
-  },
-  {
-    "company": "mycareernow GmbH",
     "count": 22
   },
   {
     "company": "Bjak",
-    "count": 20
+    "count": 19
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "mycareernow GmbH",
     "count": 18
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "KIND GmbH & Co. KG",
     "count": 14
   },
   {
@@ -32,23 +28,27 @@
     "count": 13
   },
   {
+    "company": "We ARE Recruitment Group",
+    "count": 13
+  },
+  {
+    "company": "Orizon GmbH",
+    "count": 12
+  },
+  {
     "company": "Lam Research",
     "count": 12
   },
   {
-    "company": "Unknown",
-    "count": 11
-  },
-  {
-    "company": "Roche",
-    "count": 11
-  },
-  {
     "company": "PricewaterhouseCoopers",
-    "count": 11
+    "count": 12
   },
   {
     "company": "CGI",
+    "count": 12
+  },
+  {
+    "company": "Bright Professionals",
     "count": 11
   },
   {
@@ -56,7 +56,7 @@
     "count": 11
   },
   {
-    "company": "Jobgether",
+    "company": "Unknown",
     "count": 10
   },
   {
@@ -64,8 +64,16 @@
     "count": 10
   },
   {
+    "company": "Ministerie van Defensie",
+    "count": 10
+  },
+  {
     "company": "CGI Nederland",
     "count": 10
+  },
+  {
+    "company": "Accenture",
+    "count": 9
   },
   {
     "company": "Wavestone Germany AG",
@@ -80,23 +88,15 @@
     "count": 9
   },
   {
+    "company": "Roche",
+    "count": 9
+  },
+  {
     "company": "Blockstream",
     "count": 9
   },
   {
-    "company": "Bright Professionals",
-    "count": 9
-  },
-  {
-    "company": "Gi Group Outsourcing Deutschland GmbH",
-    "count": 8
-  },
-  {
-    "company": "Accenture",
-    "count": 8
-  },
-  {
-    "company": "SThree Germany",
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
     "count": 8
   }
 ]
