@@ -1,38 +1,50 @@
 [
   {
     "company": "Job-Room",
-    "count": 146
+    "count": 140
   },
   {
     "company": "Synsel Techniek",
-    "count": 55
+    "count": 51
   },
   {
     "company": "Siemens Energy",
-    "count": 26
+    "count": 23
   },
   {
     "company": "ASML",
     "count": 22
   },
   {
-    "company": "Bjak",
+    "company": "KIND GmbH & Co. KG",
     "count": 17
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 15
+    "company": "Bjak",
+    "count": 16
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Orizon GmbH",
     "count": 14
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 13
+    "company": "Accenture",
+    "count": 14
+  },
+  {
+    "company": "Unknown",
+    "count": 12
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 12
   },
   {
     "company": "Lam Research",
+    "count": 12
+  },
+  {
+    "company": "Bright Professionals",
     "count": 12
   },
   {
@@ -44,15 +56,11 @@
     "count": 11
   },
   {
-    "company": "Bright Professionals",
+    "company": "We ARE Recruitment Group",
     "count": 11
   },
   {
-    "company": "EIFFEL",
-    "count": 11
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Jobgether",
     "count": 10
   },
   {
@@ -64,23 +72,15 @@
     "count": 10
   },
   {
-    "company": "Ministerie van Defensie",
-    "count": 10
-  },
-  {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "Accenture",
+    "company": "Akkodis",
     "count": 9
   },
   {
-    "company": "Wavestone Germany AG",
-    "count": 9
-  },
-  {
-    "company": "Innio",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 9
   },
   {
@@ -88,15 +88,15 @@
     "count": 9
   },
   {
-    "company": "Dirk Rossmann GmbH",
-    "count": 8
+    "company": "Ministerie van Defensie",
+    "count": 9
   },
   {
-    "company": "Gi Group Outsourcing Deutschland GmbH",
-    "count": 8
+    "company": "Talent&Pro",
+    "count": 9
   },
   {
-    "company": "Atruvia AG",
+    "company": "expertum GmbH",
     "count": 8
   }
 ]
