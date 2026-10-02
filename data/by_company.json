@@ -1,15 +1,15 @@
 [
   {
     "company": "Job-Room",
-    "count": 140
+    "count": 132
   },
   {
     "company": "Synsel Techniek",
-    "count": 51
+    "count": 49
   },
   {
     "company": "Siemens Energy",
-    "count": 23
+    "count": 24
   },
   {
     "company": "ASML",
@@ -25,23 +25,23 @@
   },
   {
     "company": "Orizon GmbH",
-    "count": 14
+    "count": 15
   },
   {
     "company": "Accenture",
     "count": 14
   },
   {
-    "company": "Bright Professionals",
-    "count": 13
-  },
-  {
     "company": "Unknown",
-    "count": 12
+    "count": 14
   },
   {
     "company": "mycareernow GmbH",
-    "count": 12
+    "count": 13
+  },
+  {
+    "company": "Bright Professionals",
+    "count": 13
   },
   {
     "company": "Lam Research",
@@ -64,10 +64,6 @@
     "count": 10
   },
   {
-    "company": "Roche",
-    "count": 10
-  },
-  {
     "company": "Richemont",
     "count": 10
   },
@@ -81,6 +77,10 @@
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 9
+  },
+  {
+    "company": "Roche",
     "count": 9
   },
   {

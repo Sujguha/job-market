@@ -151,11 +151,11 @@
   },
   {
     "date": "2026-10-02",
-    "total_postings": 2320,
+    "total_postings": 2319,
     "by_country": {
-      "Germany": 700,
+      "Germany": 701,
       "Austria": 400,
-      "Switzerland": 615,
+      "Switzerland": 613,
       "Netherlands": 605
     }
   }
