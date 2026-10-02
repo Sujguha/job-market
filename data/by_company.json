@@ -1,102 +1,102 @@
 [
   {
-    "company": "Job-Room",
-    "count": 140
+    "company": "Zurich Insurance",
+    "count": 39
   },
   {
-    "company": "Synsel Techniek",
-    "count": 51
+    "company": "BMW Group",
+    "count": 37
   },
   {
-    "company": "Siemens Energy",
-    "count": 23
+    "company": "Deutsche Bank",
+    "count": 36
   },
   {
-    "company": "ASML",
-    "count": 22
+    "company": "Allianz",
+    "count": 35
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 17
+    "company": "SAP",
+    "count": 34
   },
   {
-    "company": "Bjak",
-    "count": 16
+    "company": "KLM",
+    "count": 33
   },
   {
-    "company": "Orizon GmbH",
-    "count": 14
-  },
-  {
-    "company": "Accenture",
-    "count": 14
-  },
-  {
-    "company": "Unknown",
-    "count": 12
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 12
-  },
-  {
-    "company": "Lam Research",
-    "count": 12
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 12
-  },
-  {
-    "company": "CGI",
-    "count": 12
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 11
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 11
-  },
-  {
-    "company": "Jobgether",
-    "count": 10
+    "company": "Bertelsmann",
+    "count": 32
   },
   {
     "company": "Roche",
-    "count": 10
+    "count": 30
   },
   {
-    "company": "Richemont",
-    "count": 10
+    "company": "Bosch",
+    "count": 30
   },
   {
-    "company": "CGI Nederland",
-    "count": 10
+    "company": "Sopra Steria",
+    "count": 30
   },
   {
-    "company": "Akkodis",
-    "count": 9
+    "company": "Fiserv",
+    "count": 29
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 9
+    "company": "Nestle",
+    "count": 29
   },
   {
-    "company": "Blockstream",
-    "count": 9
+    "company": "Philips",
+    "count": 28
   },
   {
-    "company": "Ministerie van Defensie",
-    "count": 9
+    "company": "UBS",
+    "count": 28
   },
   {
-    "company": "Talent&Pro",
-    "count": 9
+    "company": "Voith",
+    "count": 27
   },
   {
-    "company": "expertum GmbH",
-    "count": 8
+    "company": "Heineken",
+    "count": 26
+  },
+  {
+    "company": "T-Systems",
+    "count": 25
+  },
+  {
+    "company": "Erste Group",
+    "count": 24
+  },
+  {
+    "company": "Continental",
+    "count": 24
+  },
+  {
+    "company": "Munich Re",
+    "count": 24
+  },
+  {
+    "company": "Capgemini",
+    "count": 24
+  },
+  {
+    "company": "ING",
+    "count": 22
+  },
+  {
+    "company": "OMV",
+    "count": 22
+  },
+  {
+    "company": "ASML",
+    "count": 21
+  },
+  {
+    "company": "Siemens",
+    "count": 20
   }
 ]

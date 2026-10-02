@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="assets/style.css?v=1.9">
+<link rel="stylesheet" href="assets/style.css?v=2.0">
 </head>
 <body>
 
@@ -53,6 +53,10 @@
       <li data-stage="limitations" class="rail-item">
         <span class="rail-marker">06</span>
         <span class="rail-label">Limitations</span>
+      </li>
+      <li data-stage="ats" class="rail-item">
+        <span class="rail-marker">07</span>
+        <span class="rail-label">ATS Check</span>
       </li>
     </ol>
   </nav>
@@ -227,11 +231,66 @@
       <p class="footnote">Data from <a href="https://developer.adzuna.com" target="_blank" rel="noopener">Adzuna</a>. Pipeline runs daily via GitHub Actions. Built by Sujoy Guha.</p>
     </section>
 
+    <!-- STAGE: ATS CHECK -->
+    <section id="stage-ats" class="stage">
+      <h1>Check your CV against a job description</h1>
+      <p class="lede">Paste a job description and your CV text below to get a rough keyword-match score and a list of likely gaps.</p>
+      <div class="panel privacy-note">
+        🔒 <strong>Nothing you paste here is uploaded, transmitted, or stored anywhere.</strong> The comparison runs entirely in your browser using plain JavaScript — no server, no database, no third-party API call. Closing or refreshing this tab erases everything.
+      </div>
+
+      <div class="ats-grid">
+        <div>
+          <label for="ats-jd">Job description</label>
+          <textarea id="ats-jd" rows="12" placeholder="Paste the full job posting text here…"></textarea>
+        </div>
+        <div>
+          <label for="ats-cv">Your CV text</label>
+          <textarea id="ats-cv" rows="12" placeholder="Paste your CV content here (plain text — copy from your Word/PDF doc)…"></textarea>
+        </div>
+      </div>
+
+      <button id="ats-check-btn" class="btn-primary" type="button">Check match</button>
+
+      <div id="ats-results" class="ats-results" style="display:none;">
+        <div class="ats-score-row">
+          <div class="ats-score-circle" id="ats-score-circle">
+            <span id="ats-score-value">—</span>
+          </div>
+          <div class="ats-score-text">
+            <p id="ats-score-label" class="ats-score-label"></p>
+            <p class="hint" style="margin:0;">Based on weighted keyword overlap — see the note below on what this score does and doesn't mean.</p>
+          </div>
+        </div>
+
+        <div class="ats-columns">
+          <div>
+            <h3>✅ Found in your CV <span class="ats-count" id="ats-matched-count"></span></h3>
+            <div class="ats-tag-list" id="ats-matched-list"></div>
+          </div>
+          <div>
+            <h3>⚠️ Possible gaps <span class="ats-count" id="ats-gap-count"></span></h3>
+            <div class="ats-tag-list ats-tag-list-gaps" id="ats-gap-list"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel limitations-panel" style="margin-top:1.5rem;">
+        <p class="hint" style="margin:0 0 0.5rem;"><strong>What this score actually measures</strong></p>
+        <ul class="limitations-list">
+          <li>This is a simple weighted keyword-overlap heuristic — not a simulation of any specific company's real ATS software, which can use very different (and often undisclosed) matching logic.</li>
+          <li>It rewards exact and near-exact terminology. A genuine skill described in different words (e.g. "led cross-team rollouts" vs. "stakeholder management") may be flagged as a gap even if you actually have that experience — read the gap list with that in mind rather than copying every term verbatim.</li>
+          <li>Tool/certification acronyms (e.g. SAP, AWS, PMP) are weighted heavily even if mentioned only once in the job description, since those tend to be hard filters in real ATS systems.</li>
+        </ul>
+      </div>
+    </section>
+
   </main>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
-<script src="assets/app.js?v=1.9"></script>
+<script src="assets/app.js?v=2.0"></script>
+<script src="assets/ats.js?v=2.0"></script>
 </body>
 </html>

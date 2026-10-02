@@ -19,9 +19,11 @@ steps below to switch it over to live, auto-refreshing data.
 index.html                  the site
 assets/style.css            visual theme (light + dark mode)
 assets/app.js                data loading, charts, map, comparator, search
+assets/ats.js                client-side ATS keyword-match checker (no network calls)
 data/*.json                  the data the site reads (starts as sample data)
 scripts/fetch_jobs.py        pulls + aggregates from Adzuna into data/*.json
 tests/test_fetch_jobs.py     pytest suite for the aggregation/classification logic
+tests/test_ats.js            plain-Node tests for the ATS checker's scoring logic
 .github/workflows/update-data.yml   runs the script (and tests) daily, commits the result
 ```
 
@@ -150,18 +152,30 @@ Feedback and pull requests welcome; this is very much a learning project.
 ## Running the tests
 
 ```bash
+# Python (fetch/aggregation logic)
 pip install pytest requests --break-system-packages
 ADZUNA_APP_ID=dummy ADZUNA_APP_KEY=dummy pytest tests/ -v
+
+# JavaScript (ATS checker scoring logic)
+node tests/test_ats.js
 ```
 
-The tests cover the pure logic in `fetch_jobs.py` — level/job-type
+The Python tests cover the pure logic in `fetch_jobs.py` — level/job-type
 classification and the aggregation math — without making real API calls.
 They also run automatically as part of the daily GitHub Actions workflow,
 before the live fetch, so a broken change to the aggregation logic fails
-loudly instead of quietly corrupting the site's data.
+loudly instead of quietly corrupting the site's data. The JS tests cover
+the ATS keyword-matching logic in `assets/ats.js` and run standalone with
+plain Node (no browser, no test framework needed).
 
 ## New features (this version)
 
+- **ATS Checker** (`assets/ats.js`) — a new tab where visitors paste a job
+  description and their CV text to get a weighted keyword-match score and
+  a gap list. Runs **entirely client-side**: no network request, no
+  storage (not even localStorage) — refreshing the page erases everything.
+  It's a keyword-overlap heuristic, not a simulation of real ATS software;
+  the tab itself explains that limitation.
 - **Trend chart** — `history.json` accumulates one daily snapshot (last
   ~90 days) so the Overview page can show total postings over time, not
   just a current-state snapshot.
