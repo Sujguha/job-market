@@ -1,42 +1,30 @@
 [
   {
     "company": "Job-Room",
-    "count": 132
+    "count": 139
   },
   {
     "company": "Synsel Techniek",
-    "count": 49
-  },
-  {
-    "company": "Siemens Energy",
-    "count": 24
+    "count": 50
   },
   {
     "company": "ASML",
     "count": 22
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 17
-  },
-  {
-    "company": "Bjak",
+    "company": "mycareernow GmbH",
     "count": 16
   },
   {
-    "company": "Orizon GmbH",
-    "count": 15
+    "company": "KIND GmbH & Co. KG",
+    "count": 14
+  },
+  {
+    "company": "Lam Research",
+    "count": 14
   },
   {
     "company": "Accenture",
-    "count": 14
-  },
-  {
-    "company": "Unknown",
-    "count": 14
-  },
-  {
-    "company": "mycareernow GmbH",
     "count": 13
   },
   {
@@ -44,15 +32,19 @@
     "count": 13
   },
   {
-    "company": "Lam Research",
+    "company": "Siemens Energy",
     "count": 12
   },
   {
-    "company": "CGI",
-    "count": 12
+    "company": "Orizon GmbH",
+    "count": 11
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "CompuGroup Medical SE & Co. KGaA",
+    "count": 11
+  },
+  {
+    "company": "Unknown",
     "count": 11
   },
   {
@@ -60,7 +52,19 @@
     "count": 11
   },
   {
+    "company": "CGI",
+    "count": 11
+  },
+  {
     "company": "Jobgether",
+    "count": 10
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 10
+  },
+  {
+    "company": "PricewaterhouseCoopers",
     "count": 10
   },
   {
@@ -72,11 +76,7 @@
     "count": 10
   },
   {
-    "company": "Akkodis",
-    "count": 9
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Innio",
     "count": 9
   },
   {
@@ -84,11 +84,11 @@
     "count": 9
   },
   {
-    "company": "Blockstream",
+    "company": "Bjak",
     "count": 9
   },
   {
-    "company": "Ministerie van Defensie",
+    "company": "Blockstream",
     "count": 9
   },
   {
@@ -96,7 +96,7 @@
     "count": 9
   },
   {
-    "company": "expertum GmbH",
+    "company": "Akkodis",
     "count": 8
   }
 ]
