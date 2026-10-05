@@ -1,38 +1,42 @@
 [
   {
     "company": "Job-Room",
-    "count": 137
+    "count": 135
   },
   {
     "company": "Synsel Techniek",
-    "count": 49
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 24
+    "count": 50
   },
   {
     "company": "ASML",
     "count": 22
   },
   {
+    "company": "mycareernow GmbH",
+    "count": 19
+  },
+  {
+    "company": "Orizon GmbH",
+    "count": 17
+  },
+  {
     "company": "Bjak",
     "count": 17
   },
   {
-    "company": "Orizon GmbH",
+    "company": "Accenture",
     "count": 16
   },
   {
-    "company": "Accenture",
-    "count": 15
+    "company": "KIND GmbH & Co. KG",
+    "count": 14
   },
   {
     "company": "Bright Professionals",
     "count": 14
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Unknown",
     "count": 13
   },
   {
@@ -41,15 +45,7 @@
   },
   {
     "company": "Jobgether",
-    "count": 13
-  },
-  {
-    "company": "Unknown",
     "count": 12
-  },
-  {
-    "company": "CompuGroup Medical SE & Co. KGaA",
-    "count": 11
   },
   {
     "company": "We ARE Recruitment Group",
@@ -64,7 +60,15 @@
     "count": 10
   },
   {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 10
+  },
+  {
     "company": "Innio",
+    "count": 10
+  },
+  {
+    "company": "Roche",
     "count": 10
   },
   {
@@ -72,16 +76,8 @@
     "count": 10
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 9
-  },
-  {
-    "company": "Roche",
-    "count": 9
-  },
-  {
-    "company": "Richemont",
-    "count": 9
+    "company": "Talent&Pro",
+    "count": 10
   },
   {
     "company": "Blockstream",
@@ -92,11 +88,15 @@
     "count": 9
   },
   {
-    "company": "Talent&Pro",
-    "count": 9
+    "company": "Dirk Rossmann GmbH",
+    "count": 8
   },
   {
-    "company": "Dirk Rossmann GmbH",
+    "company": "PricewaterhouseCoopers",
+    "count": 8
+  },
+  {
+    "company": "XXXLdigital - Part of XXXL Group",
     "count": 8
   }
 ]
