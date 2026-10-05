@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 135
+    "count": 137
   },
   {
     "company": "Synsel Techniek",
-    "count": 50
+    "count": 47
   },
   {
     "company": "ASML",
@@ -16,11 +16,11 @@
     "count": 19
   },
   {
-    "company": "Orizon GmbH",
-    "count": 17
+    "company": "Bjak",
+    "count": 18
   },
   {
-    "company": "Bjak",
+    "company": "Orizon GmbH",
     "count": 17
   },
   {
@@ -48,15 +48,15 @@
     "count": 12
   },
   {
+    "company": "FERCHAU GmbH",
+    "count": 11
+  },
+  {
     "company": "We ARE Recruitment Group",
     "count": 11
   },
   {
     "company": "Akkodis",
-    "count": 10
-  },
-  {
-    "company": "FERCHAU GmbH",
     "count": 10
   },
   {
@@ -76,10 +76,6 @@
     "count": 10
   },
   {
-    "company": "Talent&Pro",
-    "count": 10
-  },
-  {
     "company": "Blockstream",
     "count": 9
   },
@@ -88,15 +84,19 @@
     "count": 9
   },
   {
-    "company": "Dirk Rossmann GmbH",
-    "count": 8
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 8
+    "company": "Talent&Pro",
+    "count": 9
   },
   {
     "company": "XXXLdigital - Part of XXXL Group",
     "count": 8
+  },
+  {
+    "company": "SThree Germany",
+    "count": 7
+  },
+  {
+    "company": "STRABAG BRVZ GMBH",
+    "count": 7
   }
 ]

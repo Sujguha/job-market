@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-05T08:28:56+00:00",
+  "last_updated": "2026-10-05T13:26:45+00:00",
   "total_postings": 2321,
   "by_country": {
     "Germany": 704,
     "Austria": 401,
-    "Switzerland": 618,
-    "Netherlands": 598
+    "Switzerland": 619,
+    "Netherlands": 597
   },
   "roles_tracked": [
     "Program Manager",
