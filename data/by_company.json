@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 137
+    "count": 132
   },
   {
     "company": "Synsel Techniek",
-    "count": 47
+    "count": 45
   },
   {
     "company": "ASML",
@@ -13,14 +13,14 @@
   },
   {
     "company": "mycareernow GmbH",
-    "count": 19
+    "count": 20
   },
   {
     "company": "Bjak",
-    "count": 18
+    "count": 19
   },
   {
-    "company": "Orizon GmbH",
+    "company": "Unknown",
     "count": 17
   },
   {
@@ -29,35 +29,23 @@
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 14
+    "count": 12
   },
   {
-    "company": "Bright Professionals",
-    "count": 14
-  },
-  {
-    "company": "Unknown",
-    "count": 13
+    "company": "FERCHAU GmbH",
+    "count": 12
   },
   {
     "company": "Lam Research",
-    "count": 13
+    "count": 12
   },
   {
     "company": "Jobgether",
     "count": 12
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Bright Professionals",
     "count": 11
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 11
-  },
-  {
-    "company": "Akkodis",
-    "count": 10
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
@@ -69,6 +57,10 @@
   },
   {
     "company": "Roche",
+    "count": 10
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 10
   },
   {
@@ -88,15 +80,23 @@
     "count": 9
   },
   {
+    "company": "SThree Germany",
+    "count": 8
+  },
+  {
+    "company": "PricewaterhouseCoopers",
+    "count": 8
+  },
+  {
     "company": "XXXLdigital - Part of XXXL Group",
     "count": 8
   },
   {
-    "company": "SThree Germany",
-    "count": 7
+    "company": "CGI",
+    "count": 8
   },
   {
-    "company": "STRABAG BRVZ GMBH",
+    "company": "FEPS GmbH",
     "count": 7
   }
 ]
