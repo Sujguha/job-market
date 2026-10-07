@@ -1,19 +1,19 @@
 [
   {
     "company": "Job-Room",
-    "count": 136
+    "count": 140
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 22
+    "count": 54
   },
   {
     "company": "ASML",
     "count": 21
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 19
   },
   {
     "company": "Unknown",
@@ -48,23 +48,15 @@
     "count": 12
   },
   {
+    "company": "We ARE Recruitment Group",
+    "count": 12
+  },
+  {
     "company": "KIND GmbH & Co. KG",
     "count": 11
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 11
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 11
-  },
-  {
     "company": "Innio",
-    "count": 10
-  },
-  {
-    "company": "Roche",
     "count": 10
   },
   {
@@ -80,7 +72,15 @@
     "count": 9
   },
   {
+    "company": "CGM",
+    "count": 9
+  },
+  {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 9
+  },
+  {
+    "company": "Roche",
     "count": 9
   },
   {
@@ -92,11 +92,11 @@
     "count": 9
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "XXXLdigital - Part of XXXL Group",
     "count": 8
   },
   {
-    "company": "XXXLdigital - Part of XXXL Group",
+    "company": "Bright Professionals",
     "count": 8
   }
 ]
