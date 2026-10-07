@@ -198,5 +198,15 @@
       "Switzerland": 617,
       "Netherlands": 596
     }
+  },
+  {
+    "date": "2026-10-07",
+    "total_postings": 2322,
+    "by_country": {
+      "Germany": 717,
+      "Austria": 386,
+      "Switzerland": 617,
+      "Netherlands": 602
+    }
   }
 ]

@@ -1,26 +1,26 @@
 [
   {
     "company": "Job-Room",
-    "count": 132
+    "count": 136
   },
   {
     "company": "Synsel Techniek",
-    "count": 45
-  },
-  {
-    "company": "ASML",
-    "count": 22
+    "count": 52
   },
   {
     "company": "mycareernow GmbH",
-    "count": 20
+    "count": 22
   },
   {
-    "company": "Bjak",
-    "count": 19
+    "company": "ASML",
+    "count": 21
   },
   {
     "company": "Unknown",
+    "count": 17
+  },
+  {
+    "company": "Bjak",
     "count": 17
   },
   {
@@ -28,12 +28,16 @@
     "count": 16
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 12
+    "company": "Lieferando",
+    "count": 13
   },
   {
     "company": "FERCHAU GmbH",
-    "count": 12
+    "count": 13
+  },
+  {
+    "company": "EIFFEL",
+    "count": 13
   },
   {
     "company": "Lam Research",
@@ -44,12 +48,16 @@
     "count": 12
   },
   {
-    "company": "Bright Professionals",
+    "company": "KIND GmbH & Co. KG",
     "count": 11
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 10
+    "company": "We ARE Recruitment Group",
+    "count": 11
+  },
+  {
+    "company": "Bright Professionals",
+    "count": 11
   },
   {
     "company": "Innio",
@@ -60,7 +68,7 @@
     "count": 10
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "Ministerie van Defensie",
     "count": 10
   },
   {
@@ -68,20 +76,20 @@
     "count": 10
   },
   {
-    "company": "Blockstream",
+    "company": "Passion for People GmbH",
     "count": 9
   },
   {
-    "company": "Ministerie van Defensie",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
     "count": 9
   },
   {
     "company": "Talent&Pro",
     "count": 9
-  },
-  {
-    "company": "SThree Germany",
-    "count": 8
   },
   {
     "company": "PricewaterhouseCoopers",
@@ -90,13 +98,5 @@
   {
     "company": "XXXLdigital - Part of XXXL Group",
     "count": 8
-  },
-  {
-    "company": "CGI",
-    "count": 8
-  },
-  {
-    "company": "FEPS GmbH",
-    "count": 7
   }
 ]
