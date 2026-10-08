@@ -1,38 +1,42 @@
 [
   {
     "company": "Job-Room",
-    "count": 140
+    "count": 124
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
-  },
-  {
-    "company": "ASML",
-    "count": 21
+    "count": 49
   },
   {
     "company": "mycareernow GmbH",
-    "count": 19
+    "count": 23
+  },
+  {
+    "company": "ASML",
+    "count": 22
+  },
+  {
+    "company": "Bjak",
+    "count": 20
   },
   {
     "company": "Unknown",
     "count": 17
   },
   {
-    "company": "Bjak",
-    "count": 17
-  },
-  {
     "company": "Accenture",
-    "count": 16
+    "count": 15
   },
   {
     "company": "Lieferando",
-    "count": 13
+    "count": 14
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Lam Research",
+    "count": 14
+  },
+  {
+    "company": "Jobgether",
     "count": 13
   },
   {
@@ -40,19 +44,15 @@
     "count": 13
   },
   {
-    "company": "Lam Research",
+    "company": "FERCHAU GmbH",
     "count": 12
   },
   {
-    "company": "Jobgether",
-    "count": 12
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 11
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 12
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
     "count": 11
   },
   {
@@ -80,7 +80,7 @@
     "count": 9
   },
   {
-    "company": "Roche",
+    "company": "XXXLdigital - Part of XXXL Group",
     "count": 9
   },
   {
@@ -88,15 +88,15 @@
     "count": 9
   },
   {
-    "company": "Talent&Pro",
-    "count": 9
-  },
-  {
-    "company": "XXXLdigital - Part of XXXL Group",
+    "company": "FEPS GmbH",
     "count": 8
   },
   {
-    "company": "Bright Professionals",
+    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "count": 8
+  },
+  {
+    "company": "SThree Germany",
     "count": 8
   }
 ]
