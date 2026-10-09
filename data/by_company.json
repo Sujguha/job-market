@@ -1,42 +1,42 @@
 [
   {
     "company": "Job-Room",
-    "count": 124
+    "count": 118
   },
   {
     "company": "Synsel Techniek",
-    "count": 49
+    "count": 51
   },
   {
     "company": "mycareernow GmbH",
-    "count": 23
+    "count": 26
   },
   {
     "company": "ASML",
-    "count": 22
+    "count": 21
   },
   {
     "company": "Bjak",
-    "count": 20
+    "count": 19
   },
   {
     "company": "Unknown",
-    "count": 17
+    "count": 16
   },
   {
     "company": "Accenture",
     "count": 15
   },
   {
-    "company": "Lieferando",
-    "count": 14
-  },
-  {
     "company": "Lam Research",
-    "count": 14
+    "count": 13
   },
   {
-    "company": "Jobgether",
+    "company": "We ARE Recruitment Group",
+    "count": 13
+  },
+  {
+    "company": "Bright Professionals",
     "count": 13
   },
   {
@@ -48,39 +48,43 @@
     "count": 12
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "Jobgether",
     "count": 11
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "CGI Nederland",
     "count": 11
+  },
+  {
+    "company": "Lieferando",
+    "count": 10
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 10
   },
   {
     "company": "Innio",
     "count": 10
   },
   {
-    "company": "Ministerie van Defensie",
+    "company": "PricewaterhouseCoopers",
     "count": 10
   },
   {
-    "company": "CGI Nederland",
-    "count": 10
+    "company": "FEPS GmbH",
+    "count": 9
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 9
   },
   {
     "company": "Passion for People GmbH",
     "count": 9
   },
   {
-    "company": "CGM",
-    "count": 9
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 9
-  },
-  {
-    "company": "XXXLdigital - Part of XXXL Group",
+    "company": "Richemont",
     "count": 9
   },
   {
@@ -88,12 +92,8 @@
     "count": 9
   },
   {
-    "company": "FEPS GmbH",
-    "count": 8
-  },
-  {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
-    "count": 8
+    "company": "Talent&Pro",
+    "count": 9
   },
   {
     "company": "SThree Germany",
