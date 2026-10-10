@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 118
+    "count": 120
   },
   {
     "company": "Synsel Techniek",
@@ -9,7 +9,7 @@
   },
   {
     "company": "mycareernow GmbH",
-    "count": 26
+    "count": 27
   },
   {
     "company": "ASML",
@@ -17,26 +17,22 @@
   },
   {
     "company": "Bjak",
-    "count": 19
+    "count": 20
   },
   {
     "company": "Unknown",
-    "count": 16
+    "count": 18
   },
   {
     "company": "Accenture",
-    "count": 15
+    "count": 14
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 13
   },
   {
     "company": "Lam Research",
-    "count": 13
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 13
-  },
-  {
-    "company": "Bright Professionals",
     "count": 13
   },
   {
@@ -44,27 +40,23 @@
     "count": 13
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 12
-  },
-  {
-    "company": "Jobgether",
+    "company": "Innio",
     "count": 11
   },
   {
-    "company": "CGI Nederland",
+    "company": "We ARE Recruitment Group",
     "count": 11
   },
   {
-    "company": "Lieferando",
-    "count": 10
+    "company": "Bright Professionals",
+    "count": 11
+  },
+  {
+    "company": "Talent&Pro",
+    "count": 11
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 10
-  },
-  {
-    "company": "Innio",
     "count": 10
   },
   {
@@ -72,15 +64,23 @@
     "count": 10
   },
   {
-    "company": "FEPS GmbH",
-    "count": 9
+    "company": "CGI Nederland",
+    "count": 10
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "Alliander",
+    "count": 10
+  },
+  {
+    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
+    "count": 9
+  },
+  {
+    "company": "Jobgether",
     "count": 9
   },
   {
@@ -92,11 +92,11 @@
     "count": 9
   },
   {
-    "company": "Talent&Pro",
+    "company": "Ministerie van Defensie",
     "count": 9
   },
   {
-    "company": "SThree Germany",
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
     "count": 8
   }
 ]
