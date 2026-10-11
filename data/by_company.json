@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 120
+    "count": 113
   },
   {
     "company": "Synsel Techniek",
@@ -9,30 +9,22 @@
   },
   {
     "company": "mycareernow GmbH",
-    "count": 27
-  },
-  {
-    "company": "ASML",
-    "count": 21
-  },
-  {
-    "company": "Bjak",
-    "count": 20
+    "count": 37
   },
   {
     "company": "Unknown",
-    "count": 18
+    "count": 23
+  },
+  {
+    "company": "ASML",
+    "count": 22
   },
   {
     "company": "Accenture",
-    "count": 14
-  },
-  {
-    "company": "FERCHAU GmbH",
     "count": 13
   },
   {
-    "company": "Lam Research",
+    "company": "We ARE Recruitment Group",
     "count": 13
   },
   {
@@ -40,27 +32,31 @@
     "count": 13
   },
   {
+    "company": "FERCHAU GmbH",
+    "count": 12
+  },
+  {
+    "company": "Bjak",
+    "count": 12
+  },
+  {
+    "company": "Bright Professionals",
+    "count": 12
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 11
+  },
+  {
     "company": "Innio",
     "count": 11
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 11
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 11
-  },
-  {
-    "company": "Talent&Pro",
-    "count": 11
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Jobgether",
     "count": 10
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "Talent&Pro",
     "count": 10
   },
   {
@@ -68,11 +64,7 @@
     "count": 10
   },
   {
-    "company": "Alliander",
-    "count": 10
-  },
-  {
-    "company": "CompuGroup Medical SE & Co. KGaA",
+    "company": "Lieferando",
     "count": 9
   },
   {
@@ -80,11 +72,11 @@
     "count": 9
   },
   {
-    "company": "Jobgether",
+    "company": "GE Vernova",
     "count": 9
   },
   {
-    "company": "Richemont",
+    "company": "PricewaterhouseCoopers",
     "count": 9
   },
   {
@@ -92,11 +84,19 @@
     "count": 9
   },
   {
-    "company": "Ministerie van Defensie",
-    "count": 9
+    "company": "Orizon GmbH",
+    "count": 8
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "ROHDE & SCHWARZ Meßgerätebau GmbH",
+    "count": 8
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 8
+  },
+  {
+    "company": "Roche",
     "count": 8
   }
 ]
