@@ -1,30 +1,38 @@
 [
   {
     "company": "Job-Room",
-    "count": 113
+    "count": 127
   },
   {
     "company": "Synsel Techniek",
-    "count": 51
+    "count": 54
   },
   {
     "company": "mycareernow GmbH",
-    "count": 37
-  },
-  {
-    "company": "Unknown",
-    "count": 23
+    "count": 24
   },
   {
     "company": "ASML",
     "count": 22
   },
   {
-    "company": "Accenture",
-    "count": 13
+    "company": "Bjak",
+    "count": 20
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "Unknown",
+    "count": 16
+  },
+  {
+    "company": "Jobgether",
+    "count": 14
+  },
+  {
+    "company": "Accenture",
+    "count": 14
+  },
+  {
+    "company": "Lam Research",
     "count": 13
   },
   {
@@ -36,7 +44,7 @@
     "count": 12
   },
   {
-    "company": "Bjak",
+    "company": "We ARE Recruitment Group",
     "count": 12
   },
   {
@@ -44,19 +52,23 @@
     "count": 12
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 11
-  },
-  {
     "company": "Innio",
     "count": 11
   },
   {
-    "company": "Jobgether",
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
     "count": 10
   },
   {
-    "company": "Talent&Pro",
+    "company": "KIND GmbH & Co. KG",
+    "count": 10
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 10
+  },
+  {
+    "company": "PricewaterhouseCoopers",
     "count": 10
   },
   {
@@ -72,31 +84,19 @@
     "count": 9
   },
   {
-    "company": "GE Vernova",
-    "count": 9
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 9
-  },
-  {
     "company": "Blockstream",
     "count": 9
   },
   {
-    "company": "Orizon GmbH",
-    "count": 8
+    "company": "Ministerie van Defensie",
+    "count": 9
   },
   {
-    "company": "ROHDE & SCHWARZ Meßgerätebau GmbH",
-    "count": 8
+    "company": "NLwerkt",
+    "count": 9
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 8
-  },
-  {
-    "company": "Roche",
+    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 8
   }
 ]
