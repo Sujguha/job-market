@@ -5,11 +5,11 @@
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 52
   },
   {
     "company": "mycareernow GmbH",
-    "count": 24
+    "count": 22
   },
   {
     "company": "ASML",
@@ -32,7 +32,15 @@
     "count": 14
   },
   {
+    "company": "KIND GmbH & Co. KG",
+    "count": 13
+  },
+  {
     "company": "Lam Research",
+    "count": 13
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 13
   },
   {
@@ -44,24 +52,8 @@
     "count": 12
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 12
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 12
-  },
-  {
     "company": "Innio",
     "count": 11
-  },
-  {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 10
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 10
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
@@ -72,15 +64,23 @@
     "count": 10
   },
   {
+    "company": "Bright Professionals",
+    "count": 10
+  },
+  {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "Lieferando",
+    "company": "SThree Germany",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
+    "count": 9
+  },
+  {
+    "company": "GE Vernova",
     "count": 9
   },
   {
@@ -92,11 +92,11 @@
     "count": 9
   },
   {
-    "company": "NLwerkt",
-    "count": 9
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 8
   },
   {
-    "company": "CompuGroup Medical SE & Co. KGaA",
+    "company": "ROHDE & SCHWARZ Meßgerätebau GmbH",
     "count": 8
   }
 ]
