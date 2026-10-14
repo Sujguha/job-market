@@ -1,15 +1,19 @@
 [
   {
     "company": "Job-Room",
-    "count": 127
+    "count": 137
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
+    "count": 50
+  },
+  {
+    "company": "Unknown",
+    "count": 26
   },
   {
     "company": "mycareernow GmbH",
-    "count": 22
+    "count": 26
   },
   {
     "company": "ASML",
@@ -20,11 +24,19 @@
     "count": 20
   },
   {
-    "company": "Unknown",
+    "company": "Jockel Brandschutztechnik-Service GmbH",
     "count": 16
   },
   {
-    "company": "Jobgether",
+    "company": "Nespresso Deutschland GmbH",
+    "count": 15
+  },
+  {
+    "company": "Riverty",
+    "count": 15
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
     "count": 14
   },
   {
@@ -32,15 +44,11 @@
     "count": 14
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Jobgether",
     "count": 13
   },
   {
     "company": "Lam Research",
-    "count": 13
-  },
-  {
-    "company": "We ARE Recruitment Group",
     "count": 13
   },
   {
@@ -52,11 +60,27 @@
     "count": 12
   },
   {
+    "company": "SThree Germany",
+    "count": 12
+  },
+  {
+    "company": "We ARE Recruitment Group",
+    "count": 12
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 11
+  },
+  {
     "company": "Innio",
     "count": 11
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Dirk Rossmann GmbH",
+    "count": 10
+  },
+  {
+    "company": "CGM",
     "count": 10
   },
   {
@@ -72,31 +96,7 @@
     "count": 10
   },
   {
-    "company": "SThree Germany",
-    "count": 9
-  },
-  {
     "company": "Passion for People GmbH",
     "count": 9
-  },
-  {
-    "company": "GE Vernova",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "Ministerie van Defensie",
-    "count": 9
-  },
-  {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 8
-  },
-  {
-    "company": "ROHDE & SCHWARZ Meßgerätebau GmbH",
-    "count": 8
   }
 ]
