@@ -1,38 +1,30 @@
 [
   {
     "company": "Job-Room",
-    "count": 137
+    "count": 131
   },
   {
     "company": "Synsel Techniek",
-    "count": 50
+    "count": 52
   },
   {
     "company": "Unknown",
-    "count": 26
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 26
+    "count": 24
   },
   {
     "company": "ASML",
     "count": 22
   },
   {
+    "company": "mycareernow GmbH",
+    "count": 19
+  },
+  {
     "company": "Bjak",
-    "count": 20
+    "count": 19
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
-    "count": 16
-  },
-  {
-    "company": "Nespresso Deutschland GmbH",
-    "count": 15
-  },
-  {
-    "company": "Riverty",
+    "company": "Accenture",
     "count": 15
   },
   {
@@ -40,7 +32,7 @@
     "count": 14
   },
   {
-    "company": "Accenture",
+    "company": "Bright Professionals",
     "count": 14
   },
   {
@@ -52,23 +44,19 @@
     "count": 13
   },
   {
+    "company": "We ARE Recruitment Group",
+    "count": 13
+  },
+  {
     "company": "EIFFEL",
     "count": 13
   },
   {
     "company": "FERCHAU GmbH",
-    "count": 12
+    "count": 11
   },
   {
-    "company": "SThree Germany",
-    "count": 12
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 12
-  },
-  {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "Nespresso Deutschland GmbH",
     "count": 11
   },
   {
@@ -76,19 +64,7 @@
     "count": 11
   },
   {
-    "company": "Dirk Rossmann GmbH",
-    "count": 10
-  },
-  {
-    "company": "CGM",
-    "count": 10
-  },
-  {
     "company": "PricewaterhouseCoopers",
-    "count": 10
-  },
-  {
-    "company": "Bright Professionals",
     "count": 10
   },
   {
@@ -96,7 +72,31 @@
     "count": 10
   },
   {
+    "company": "Dirk Rossmann GmbH",
+    "count": 9
+  },
+  {
     "company": "Passion for People GmbH",
     "count": 9
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "NLwerkt",
+    "count": 9
+  },
+  {
+    "company": "KPMG Nederland",
+    "count": 9
+  },
+  {
+    "company": "SThree Germany",
+    "count": 8
   }
 ]
