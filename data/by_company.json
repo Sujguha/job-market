@@ -1,27 +1,19 @@
 [
   {
     "company": "Job-Room",
-    "count": 127
+    "count": 123
   },
   {
     "company": "Synsel Techniek",
-    "count": 60
+    "count": 53
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 23
+    "company": "Bjak",
+    "count": 22
   },
   {
     "company": "ASML",
     "count": 22
-  },
-  {
-    "company": "Bjak",
-    "count": 20
-  },
-  {
-    "company": "Unknown",
-    "count": 19
   },
   {
     "company": "Accenture",
@@ -32,43 +24,43 @@
     "count": 14
   },
   {
-    "company": "Lam Research",
-    "count": 14
+    "company": "Unknown",
+    "count": 13
   },
   {
-    "company": "Bright Professionals",
-    "count": 14
+    "company": "mycareernow GmbH",
+    "count": 13
+  },
+  {
+    "company": "Lam Research",
+    "count": 13
+  },
+  {
+    "company": "We ARE Recruitment Group",
+    "count": 13
   },
   {
     "company": "EIFFEL",
     "count": 13
   },
   {
-    "company": "Jobgether",
+    "company": "PricewaterhouseCoopers",
     "count": 12
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 12
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 11
   },
   {
     "company": "Nespresso Deutschland GmbH",
     "count": 11
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 10
-  },
-  {
     "company": "Innio",
+    "count": 11
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
     "count": 10
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 10
   },
   {
@@ -76,7 +68,19 @@
     "count": 10
   },
   {
+    "company": "FEPS GmbH",
+    "count": 9
+  },
+  {
     "company": "Dirk Rossmann GmbH",
+    "count": 9
+  },
+  {
+    "company": "Jobgether",
+    "count": 9
+  },
+  {
+    "company": "FERCHAU GmbH",
     "count": 9
   },
   {
@@ -84,19 +88,15 @@
     "count": 9
   },
   {
+    "company": "GE Vernova",
+    "count": 9
+  },
+  {
+    "company": "Roche",
+    "count": 9
+  },
+  {
     "company": "Blockstream",
     "count": 9
-  },
-  {
-    "company": "KPMG Nederland",
-    "count": 9
-  },
-  {
-    "company": "CGI",
-    "count": 8
-  },
-  {
-    "company": "NLwerkt",
-    "count": 8
   }
 ]
