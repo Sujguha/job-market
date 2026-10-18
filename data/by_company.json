@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 123
+    "count": 125
   },
   {
     "company": "Synsel Techniek",
@@ -9,27 +9,19 @@
   },
   {
     "company": "Bjak",
-    "count": 22
+    "count": 23
   },
   {
     "company": "ASML",
-    "count": 22
-  },
-  {
-    "company": "Accenture",
-    "count": 16
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 14
-  },
-  {
-    "company": "Unknown",
-    "count": 13
+    "count": 23
   },
   {
     "company": "mycareernow GmbH",
-    "count": 13
+    "count": 16
+  },
+  {
+    "company": "Accenture",
+    "count": 14
   },
   {
     "company": "Lam Research",
@@ -40,19 +32,39 @@
     "count": 13
   },
   {
+    "company": "NLwerkt",
+    "count": 13
+  },
+  {
     "company": "EIFFEL",
     "count": 13
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "FEPS GmbH",
+    "count": 12
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
     "count": 12
   },
   {
     "company": "Nespresso Deutschland GmbH",
+    "count": 12
+  },
+  {
+    "company": "Unknown",
+    "count": 12
+  },
+  {
+    "company": "FERCHAU GmbH",
     "count": 11
   },
   {
-    "company": "Innio",
+    "company": "PricewaterhouseCoopers",
+    "count": 11
+  },
+  {
+    "company": "Bright Professionals",
     "count": 11
   },
   {
@@ -68,19 +80,7 @@
     "count": 10
   },
   {
-    "company": "FEPS GmbH",
-    "count": 9
-  },
-  {
-    "company": "Dirk Rossmann GmbH",
-    "count": 9
-  },
-  {
-    "company": "Jobgether",
-    "count": 9
-  },
-  {
-    "company": "FERCHAU GmbH",
+    "company": "HENSOLDT",
     "count": 9
   },
   {
@@ -88,15 +88,15 @@
     "count": 9
   },
   {
-    "company": "GE Vernova",
-    "count": 9
-  },
-  {
-    "company": "Roche",
-    "count": 9
-  },
-  {
     "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "CGI",
+    "count": 9
+  },
+  {
+    "company": "Alliander",
     "count": 9
   }
 ]
