@@ -1,38 +1,46 @@
 [
   {
     "company": "Job-Room",
-    "count": 125
+    "count": 127
   },
   {
     "company": "Synsel Techniek",
-    "count": 53
+    "count": 54
   },
   {
     "company": "Bjak",
-    "count": 23
+    "count": 24
   },
   {
     "company": "ASML",
     "count": 23
   },
   {
-    "company": "mycareernow GmbH",
+    "company": "We ARE Recruitment Group",
     "count": 16
   },
   {
-    "company": "Accenture",
+    "company": "Nespresso Deutschland GmbH",
+    "count": 15
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 15
+  },
+  {
+    "company": "Dirk Rossmann GmbH",
     "count": 14
   },
   {
+    "company": "Hensoldt",
+    "count": 13
+  },
+  {
+    "company": "Unknown",
+    "count": 13
+  },
+  {
     "company": "Lam Research",
-    "count": 13
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 13
-  },
-  {
-    "company": "NLwerkt",
     "count": 13
   },
   {
@@ -40,23 +48,19 @@
     "count": 13
   },
   {
-    "company": "FEPS GmbH",
+    "company": "FERCHAU GmbH",
     "count": 12
+  },
+  {
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "count": 11
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 12
+    "count": 11
   },
   {
-    "company": "Nespresso Deutschland GmbH",
-    "count": 12
-  },
-  {
-    "company": "Unknown",
-    "count": 12
-  },
-  {
-    "company": "FERCHAU GmbH",
+    "company": "Accenture",
     "count": 11
   },
   {
@@ -68,7 +72,7 @@
     "count": 11
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
+    "company": "Jobgether",
     "count": 10
   },
   {
@@ -76,27 +80,23 @@
     "count": 10
   },
   {
+    "company": "Innio",
+    "count": 10
+  },
+  {
+    "company": "NLwerkt",
+    "count": 10
+  },
+  {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "HENSOLDT",
+    "company": "Arsipa GmbH",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "CGI",
-    "count": 9
-  },
-  {
-    "company": "Alliander",
     "count": 9
   }
 ]
