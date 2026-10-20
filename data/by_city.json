@@ -2,7 +2,7 @@
   {
     "city": "Deutschland",
     "country": "Germany",
-    "count": 226,
+    "count": 250,
     "avg_days_open": 33.2,
     "lat": null,
     "lon": null
@@ -10,96 +10,96 @@
   {
     "city": "Nederland",
     "country": "Netherlands",
-    "count": 162,
-    "avg_days_open": 88.6,
+    "count": 167,
+    "avg_days_open": 90.1,
     "lat": 53.4214,
     "lon": 6.8648
   },
   {
     "city": "Schweiz",
     "country": "Switzerland",
-    "count": 158,
-    "avg_days_open": 60.3,
+    "count": 160,
+    "avg_days_open": 63.5,
     "lat": null,
     "lon": null
   },
   {
     "city": "Österreich",
     "country": "Austria",
-    "count": 123,
-    "avg_days_open": 60.5,
+    "count": 126,
+    "avg_days_open": 59.3,
     "lat": null,
     "lon": null
   },
   {
     "city": "Zürich",
     "country": "Switzerland",
-    "count": 105,
+    "count": 107,
     "avg_days_open": 41.8,
     "lat": 47.3753,
-    "lon": 8.5284
+    "lon": 8.5282
   },
   {
     "city": "Wien",
     "country": "Austria",
-    "count": 100,
-    "avg_days_open": 77.6,
+    "count": 93,
+    "avg_days_open": 81.1,
     "lat": 48.2081,
     "lon": 16.354
   },
   {
     "city": "Amsterdam",
     "country": "Netherlands",
-    "count": 58,
-    "avg_days_open": 61.9,
+    "count": 57,
+    "avg_days_open": 62.8,
     "lat": 52.355,
     "lon": 4.9194
-  },
-  {
-    "city": "Berlin",
-    "country": "Germany",
-    "count": 42,
-    "avg_days_open": 46.5,
-    "lat": 52.5077,
-    "lon": 13.4208
   },
   {
     "city": "Veldhoven",
     "country": "Netherlands",
     "count": 36,
-    "avg_days_open": 537.9,
-    "lat": 51.4306,
-    "lon": 5.4007
+    "avg_days_open": 537.2,
+    "lat": 51.4303,
+    "lon": 5.4004
   },
   {
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "count": 29,
-    "avg_days_open": 77.2,
-    "lat": 51.9186,
-    "lon": 4.4465
+    "city": "Berlin",
+    "country": "Germany",
+    "count": 32,
+    "avg_days_open": 52.5,
+    "lat": 52.5077,
+    "lon": 13.4208
   },
   {
     "city": "Bern",
     "country": "Switzerland",
-    "count": 28,
-    "avg_days_open": 47.5,
-    "lat": 46.9472,
-    "lon": 7.4273
+    "count": 31,
+    "avg_days_open": 43.4,
+    "lat": 46.9471,
+    "lon": 7.427
   },
   {
     "city": "Utrecht",
     "country": "Netherlands",
-    "count": 28,
-    "avg_days_open": 80.9,
+    "count": 27,
+    "avg_days_open": 84.4,
     "lat": 52.1215,
     "lon": 5.083
+  },
+  {
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "count": 25,
+    "avg_days_open": 81.8,
+    "lat": 51.9186,
+    "lon": 4.4465
   },
   {
     "city": "Kanton Genf",
     "country": "Switzerland",
     "count": 19,
-    "avg_days_open": 48.3,
+    "avg_days_open": 48.2,
     "lat": null,
     "lon": null
   },
@@ -107,55 +107,71 @@
     "city": "Hamburg",
     "country": "Germany",
     "count": 18,
-    "avg_days_open": 30.0,
+    "avg_days_open": 28.8,
     "lat": 53.5574,
     "lon": 9.9873
   },
   {
-    "city": "München",
-    "country": "Germany",
-    "count": 16,
-    "avg_days_open": 47.9,
-    "lat": 48.1374,
-    "lon": 11.5557
-  },
-  {
     "city": "Leoben",
     "country": "Austria",
-    "count": 16,
-    "avg_days_open": 20.9,
+    "count": 17,
+    "avg_days_open": 20.7,
     "lat": 47.3712,
     "lon": 15.0852
   },
   {
     "city": "Arnhem",
     "country": "Netherlands",
-    "count": 16,
+    "count": 17,
     "avg_days_open": 33.8,
     "lat": 51.9508,
     "lon": 5.835
   },
   {
-    "city": "Villach",
-    "country": "Austria",
-    "count": 13,
-    "avg_days_open": 16.5,
-    "lat": 46.6129,
-    "lon": 13.8614
+    "city": "München",
+    "country": "Germany",
+    "count": 15,
+    "avg_days_open": 51.9,
+    "lat": 48.1374,
+    "lon": 11.5557
   },
   {
     "city": "Basel",
     "country": "Switzerland",
-    "count": 13,
-    "avg_days_open": 18.7,
-    "lat": 47.5568,
+    "count": 14,
+    "avg_days_open": 18.2,
+    "lat": 47.5567,
     "lon": 7.5877
+  },
+  {
+    "city": "Mitte",
+    "country": "Germany",
+    "count": 13,
+    "avg_days_open": 208.6,
+    "lat": 50.8474,
+    "lon": 10.4102
+  },
+  {
+    "city": "Villach",
+    "country": "Austria",
+    "count": 12,
+    "avg_days_open": 17.9,
+    "lat": 46.6129,
+    "lon": 13.8614
+  },
+  {
+    "city": "Salzburg",
+    "country": "Austria",
+    "count": 12,
+    "avg_days_open": 52.8,
+    "lat": 47.8014,
+    "lon": 13.0385
   },
   {
     "city": "Graz",
     "country": "Austria",
     "count": 12,
-    "avg_days_open": 50.7,
+    "avg_days_open": 51.7,
     "lat": 47.0705,
     "lon": 15.4394
   },
@@ -163,191 +179,167 @@
     "city": "Jenbach",
     "country": "Austria",
     "count": 12,
-    "avg_days_open": 61.3,
+    "avg_days_open": 62.2,
     "lat": 47.4029,
     "lon": 11.7663
-  },
-  {
-    "city": "Lausanne",
-    "country": "Switzerland",
-    "count": 12,
-    "avg_days_open": 21.4,
-    "lat": 46.5533,
-    "lon": 6.6883
   },
   {
     "city": "Genf",
     "country": "Switzerland",
     "count": 11,
-    "avg_days_open": 25.1,
+    "avg_days_open": 26.0,
     "lat": 46.2069,
     "lon": 6.1447
   },
   {
-    "city": "Den Haag",
-    "country": "Netherlands",
+    "city": "Lausanne",
+    "country": "Switzerland",
     "count": 11,
-    "avg_days_open": 68.1,
-    "lat": 52.0713,
-    "lon": 4.3
+    "avg_days_open": 23.3,
+    "lat": 46.5533,
+    "lon": 6.6883
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "count": 10,
+    "avg_days_open": 45.1,
+    "lat": 50.1297,
+    "lon": 8.6506
   },
   {
     "city": "Köln",
     "country": "Germany",
     "count": 10,
-    "avg_days_open": 32.4,
+    "avg_days_open": 34.5,
     "lat": 50.9402,
     "lon": 6.97
   },
   {
-    "city": "Salzburg",
-    "country": "Austria",
+    "city": "Düsseldorf",
+    "country": "Germany",
     "count": 10,
-    "avg_days_open": 61.5,
-    "lat": 47.8014,
-    "lon": 13.0385
+    "avg_days_open": 21.4,
+    "lat": 51.2268,
+    "lon": 6.8084
   },
   {
-    "city": "Leopoldstadt",
-    "country": "Austria",
+    "city": "Emmen",
+    "country": "Switzerland",
     "count": 10,
-    "avg_days_open": 62.8,
-    "lat": 48.2138,
-    "lon": 16.3999
+    "avg_days_open": 19.0,
+    "lat": 47.0721,
+    "lon": 8.2794
   },
   {
     "city": "Amstelveen",
     "country": "Netherlands",
     "count": 10,
-    "avg_days_open": 20.4,
+    "avg_days_open": 21.4,
     "lat": 52.291,
     "lon": 4.878
   },
   {
-    "city": "Mitte",
-    "country": "Germany",
-    "count": 9,
-    "avg_days_open": 293.1,
-    "lat": 50.3277,
-    "lon": 10.3986
-  },
-  {
-    "city": "Innere Stadt",
-    "country": "Austria",
-    "count": 9,
-    "avg_days_open": 42.6,
-    "lat": 48.2086,
-    "lon": 16.3702
-  },
-  {
-    "city": "'s-Hertogenbosch",
+    "city": "Eindhoven",
     "country": "Netherlands",
-    "count": 9,
-    "avg_days_open": 28.7,
-    "lat": 51.7375,
-    "lon": 5.2825
+    "count": 10,
+    "avg_days_open": 76.2,
+    "lat": 51.4394,
+    "lon": 5.4023
   },
   {
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "count": 8,
-    "avg_days_open": 45.2,
-    "lat": 50.1297,
-    "lon": 8.6506
+    "city": "Den Haag",
+    "country": "Netherlands",
+    "count": 10,
+    "avg_days_open": 74.2,
+    "lat": 52.0713,
+    "lon": 4.3
   },
   {
     "city": "Altstadt",
     "country": "Germany",
-    "count": 8,
-    "avg_days_open": 177.2,
-    "lat": 51.683,
-    "lon": 9.4264
+    "count": 9,
+    "avg_days_open": 162.0,
+    "lat": 51.6556,
+    "lon": 9.1305
+  },
+  {
+    "city": "Leopoldstadt",
+    "country": "Austria",
+    "count": 9,
+    "avg_days_open": 59.3,
+    "lat": 48.2138,
+    "lon": 16.3999
   },
   {
     "city": "Baden",
     "country": "Switzerland",
-    "count": 8,
-    "avg_days_open": 15.5,
-    "lat": 47.4732,
-    "lon": 8.3004
+    "count": 9,
+    "avg_days_open": 17.5,
+    "lat": 47.4733,
+    "lon": 8.3005
   },
   {
-    "city": "Aarau",
+    "city": "Innere Stadt",
+    "country": "Austria",
+    "count": 8,
+    "avg_days_open": 48.5,
+    "lat": 48.2086,
+    "lon": 16.3702
+  },
+  {
+    "city": "Winterthur",
     "country": "Switzerland",
     "count": 8,
-    "avg_days_open": 6.8,
-    "lat": 47.3903,
-    "lon": 8.0484
+    "avg_days_open": 11.1,
+    "lat": 47.5013,
+    "lon": 8.7273
   },
   {
     "city": "Wallisellen",
     "country": "Switzerland",
     "count": 8,
-    "avg_days_open": 28.2,
+    "avg_days_open": 29.1,
     "lat": 47.4102,
     "lon": 8.596
   },
   {
-    "city": "Emmen",
-    "country": "Switzerland",
-    "count": 8,
-    "avg_days_open": 18.5,
-    "lat": 47.0721,
-    "lon": 8.2794
-  },
-  {
-    "city": "Eindhoven",
+    "city": "'s-Hertogenbosch",
     "country": "Netherlands",
     "count": 8,
-    "avg_days_open": 91.2,
-    "lat": 51.4394,
-    "lon": 5.4023
+    "avg_days_open": 33.0,
+    "lat": 51.7375,
+    "lon": 5.2825
   },
   {
     "city": "Hannover",
     "country": "Germany",
     "count": 7,
-    "avg_days_open": 60.8,
+    "avg_days_open": 61.8,
     "lat": 52.3788,
     "lon": 9.7428
-  },
-  {
-    "city": "Düsseldorf",
-    "country": "Germany",
-    "count": 7,
-    "avg_days_open": 25.3,
-    "lat": 51.2268,
-    "lon": 6.8084
-  },
-  {
-    "city": "Winterthur",
-    "country": "Switzerland",
-    "count": 7,
-    "avg_days_open": 7.0,
-    "lat": 47.5013,
-    "lon": 8.7273
   },
   {
     "city": "Kreuzlingen",
     "country": "Switzerland",
     "count": 7,
-    "avg_days_open": 45.0,
+    "avg_days_open": 46.0,
     "lat": 47.6469,
     "lon": 9.1693
   },
   {
-    "city": "Thun",
+    "city": "Aarau",
     "country": "Switzerland",
     "count": 7,
-    "avg_days_open": 13.8,
-    "lat": 46.7423,
-    "lon": 7.5996
+    "avg_days_open": 8.1,
+    "lat": 47.3903,
+    "lon": 8.0484
   },
   {
     "city": "Hilversum",
     "country": "Netherlands",
     "count": 7,
-    "avg_days_open": 41.7,
+    "avg_days_open": 42.6,
     "lat": 52.2247,
     "lon": 5.1994
   },
@@ -355,7 +347,7 @@
     "city": "Wedding",
     "country": "Germany",
     "count": 6,
-    "avg_days_open": 20.5,
+    "avg_days_open": 21.4,
     "lat": 52.5349,
     "lon": 13.3746
   },
@@ -363,23 +355,39 @@
     "city": "Burgwedel",
     "country": "Germany",
     "count": 6,
-    "avg_days_open": 81.3,
+    "avg_days_open": 82.1,
     "lat": 52.5345,
     "lon": 9.8886
   },
   {
-    "city": "Kreuzberg",
+    "city": "Münster",
     "country": "Germany",
     "count": 6,
-    "avg_days_open": 26.9,
-    "lat": 52.4984,
-    "lon": 13.396
+    "avg_days_open": 21.5,
+    "lat": 51.9553,
+    "lon": 7.6215
+  },
+  {
+    "city": "Wieden",
+    "country": "Austria",
+    "count": 6,
+    "avg_days_open": 38.2,
+    "lat": 48.193,
+    "lon": 16.3691
+  },
+  {
+    "city": "Thun",
+    "country": "Switzerland",
+    "count": 6,
+    "avg_days_open": 12.4,
+    "lat": 46.7425,
+    "lon": 7.5999
   },
   {
     "city": "Mägenwil",
     "country": "Switzerland",
     "count": 6,
-    "avg_days_open": 12.3,
+    "avg_days_open": 13.2,
     "lat": 47.4109,
     "lon": 8.2282
   },
@@ -387,7 +395,7 @@
     "city": "Solothurn",
     "country": "Switzerland",
     "count": 6,
-    "avg_days_open": 21.3,
+    "avg_days_open": 22.2,
     "lat": 47.2074,
     "lon": 7.5333
   },
@@ -395,159 +403,103 @@
     "city": "Zug",
     "country": "Switzerland",
     "count": 6,
-    "avg_days_open": 26.9,
+    "avg_days_open": 27.8,
     "lat": 47.1662,
     "lon": 8.5154
-  },
-  {
-    "city": "Majellapark",
-    "country": "Netherlands",
-    "count": 6,
-    "avg_days_open": 9.4,
-    "lat": 52.0906,
-    "lon": 5.1096
-  },
-  {
-    "city": "Oberkochen",
-    "country": "Germany",
-    "count": 5,
-    "avg_days_open": 7.4,
-    "lat": 48.7841,
-    "lon": 10.1056
   },
   {
     "city": "Leipzig",
     "country": "Germany",
     "count": 5,
-    "avg_days_open": 18.7,
+    "avg_days_open": 19.6,
     "lat": 51.3393,
     "lon": 12.3736
   },
   {
-    "city": "Essen",
+    "city": "Kreuzberg",
     "country": "Germany",
     "count": 5,
-    "avg_days_open": 31.3,
-    "lat": 51.4448,
-    "lon": 7.0145
+    "avg_days_open": 27.2,
+    "lat": 52.4984,
+    "lon": 13.396
   },
   {
-    "city": "Bonn",
+    "city": "Veitshöchheim",
     "country": "Germany",
     "count": 5,
-    "avg_days_open": 26.6,
-    "lat": 50.7194,
-    "lon": 7.1124
+    "avg_days_open": 11.9,
+    "lat": 49.8331,
+    "lon": 9.8726
   },
   {
-    "city": "Wieden",
+    "city": "Liesing",
     "country": "Austria",
     "count": 5,
-    "avg_days_open": 44.7,
-    "lat": 48.193,
-    "lon": 16.3691
+    "avg_days_open": 19.9,
+    "lat": 48.1362,
+    "lon": 16.2898
   },
   {
     "city": "Le Mont-sur-Lausanne",
     "country": "Switzerland",
     "count": 5,
-    "avg_days_open": 10.1,
+    "avg_days_open": 11.0,
     "lat": 46.5211,
     "lon": 6.6309
-  },
-  {
-    "city": "Nidau",
-    "country": "Switzerland",
-    "count": 5,
-    "avg_days_open": 17.8,
-    "lat": 47.1272,
-    "lon": 7.2403
-  },
-  {
-    "city": "Bulle",
-    "country": "Switzerland",
-    "count": 5,
-    "avg_days_open": 30.8,
-    "lat": 46.618,
-    "lon": 7.0572
   },
   {
     "city": "Binnenstad",
     "country": "Netherlands",
     "count": 5,
-    "avg_days_open": 13.0,
+    "avg_days_open": 14.0,
     "lat": 52.3526,
     "lon": 4.9139
   },
   {
-    "city": "Amersfoort",
+    "city": "Majellapark",
     "country": "Netherlands",
     "count": 5,
-    "avg_days_open": 86.4,
-    "lat": 52.1609,
-    "lon": 5.344
+    "avg_days_open": 11.5,
+    "lat": 52.0911,
+    "lon": 5.1111
   },
   {
     "city": "Groningen",
     "country": "Netherlands",
     "count": 5,
-    "avg_days_open": 19.1,
+    "avg_days_open": 19.7,
     "lat": 53.2185,
     "lon": 6.6595
   },
   {
-    "city": "Veitshöchheim",
-    "country": "Germany",
-    "count": 4,
-    "avg_days_open": 12.8,
-    "lat": 49.8331,
-    "lon": 9.8726
+    "city": "Amersfoort",
+    "country": "Netherlands",
+    "count": 5,
+    "avg_days_open": 87.4,
+    "lat": 52.1609,
+    "lon": 5.344
   },
   {
-    "city": "Geesthacht",
+    "city": "Oberkochen",
     "country": "Germany",
     "count": 4,
-    "avg_days_open": 88.8,
-    "lat": 53.4303,
-    "lon": 10.3741
-  },
-  {
-    "city": "Heidelberg",
-    "country": "Germany",
-    "count": 4,
-    "avg_days_open": 40.2,
-    "lat": 49.4038,
-    "lon": 8.6969
-  },
-  {
-    "city": "Kiel",
-    "country": "Germany",
-    "count": 4,
-    "avg_days_open": 35.5,
-    "lat": 54.3197,
-    "lon": 10.138
+    "avg_days_open": 7.7,
+    "lat": 48.7841,
+    "lon": 10.1056
   },
   {
     "city": "Sonnenberg",
     "country": "Germany",
     "count": 4,
-    "avg_days_open": 15.4,
+    "avg_days_open": 9.5,
     "lat": 50.0841,
     "lon": 8.2384
-  },
-  {
-    "city": "Herzogenrath",
-    "country": "Germany",
-    "count": 4,
-    "avg_days_open": 101.0,
-    "lat": 50.8688,
-    "lon": 6.0967
   },
   {
     "city": "Memmingen",
     "country": "Germany",
     "count": 4,
-    "avg_days_open": 9.7,
+    "avg_days_open": 10.6,
     "lat": 47.9617,
     "lon": 10.1994
   },
@@ -555,7 +507,7 @@
     "city": "Lübbenau/Spreewald",
     "country": "Germany",
     "count": 4,
-    "avg_days_open": 58.8,
+    "avg_days_open": 59.7,
     "lat": 51.8682,
     "lon": 13.9694
   },
@@ -563,23 +515,15 @@
     "city": "Hammerbrook",
     "country": "Germany",
     "count": 4,
-    "avg_days_open": 334.7,
+    "avg_days_open": 335.7,
     "lat": 53.5451,
     "lon": 10.0304
-  },
-  {
-    "city": "Kempen",
-    "country": "Germany",
-    "count": 4,
-    "avg_days_open": 24.6,
-    "lat": 51.3633,
-    "lon": 6.4182
   },
   {
     "city": "Riederich",
     "country": "Germany",
     "count": 4,
-    "avg_days_open": 93.7,
+    "avg_days_open": 94.6,
     "lat": 48.5533,
     "lon": 9.2722
   },
@@ -587,7 +531,7 @@
     "city": "Wels",
     "country": "Austria",
     "count": 4,
-    "avg_days_open": 5.3,
+    "avg_days_open": 6.2,
     "lat": 48.1537,
     "lon": 14.0086
   },
@@ -595,7 +539,7 @@
     "city": "Alsergrund",
     "country": "Austria",
     "count": 4,
-    "avg_days_open": 188.3,
+    "avg_days_open": 189.3,
     "lat": 48.2226,
     "lon": 16.3561
   },
@@ -603,7 +547,7 @@
     "city": "Amstetten",
     "country": "Austria",
     "count": 4,
-    "avg_days_open": 14.4,
+    "avg_days_open": 15.4,
     "lat": 48.0897,
     "lon": 14.8138
   },
@@ -611,63 +555,63 @@
     "city": "Landstraße",
     "country": "Austria",
     "count": 4,
-    "avg_days_open": 49.2,
+    "avg_days_open": 50.2,
     "lat": 48.197,
     "lon": 16.3939
-  },
-  {
-    "city": "Meyrin",
-    "country": "Switzerland",
-    "count": 4,
-    "avg_days_open": 10.8,
-    "lat": 46.2349,
-    "lon": 6.0779
   },
   {
     "city": "Cham",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 34.5,
+    "avg_days_open": 35.4,
     "lat": 47.1813,
     "lon": 8.4593
   },
   {
-    "city": "Liestal",
+    "city": "Burgdorf",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 20.1,
-    "lat": 47.4828,
-    "lon": 7.7358
+    "avg_days_open": 21.6,
+    "lat": 47.058,
+    "lon": 7.6287
+  },
+  {
+    "city": "Nidau",
+    "country": "Switzerland",
+    "count": 4,
+    "avg_days_open": 16.4,
+    "lat": 47.1272,
+    "lon": 7.2403
   },
   {
     "city": "Sankt Gallen",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 28.8,
+    "avg_days_open": 29.6,
     "lat": null,
     "lon": null
+  },
+  {
+    "city": "Bulle",
+    "country": "Switzerland",
+    "count": 4,
+    "avg_days_open": 27.3,
+    "lat": 46.618,
+    "lon": 7.0572
   },
   {
     "city": "Kriens",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 14.0,
+    "avg_days_open": 14.9,
     "lat": 47.0384,
     "lon": 8.2841
-  },
-  {
-    "city": "Biel",
-    "country": "Switzerland",
-    "count": 4,
-    "avg_days_open": 8.7,
-    "lat": 47.1444,
-    "lon": 7.2528
   },
   {
     "city": "Luzern",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 55.6,
+    "avg_days_open": 56.5,
     "lat": 47.0637,
     "lon": 8.2788
   },
@@ -675,7 +619,7 @@
     "city": "Neuenburg",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 13.4,
+    "avg_days_open": 14.3,
     "lat": 46.9935,
     "lon": 6.9278
   },
@@ -683,7 +627,7 @@
     "city": "Tévenon",
     "country": "Switzerland",
     "count": 4,
-    "avg_days_open": 6.4,
+    "avg_days_open": 7.3,
     "lat": 46.911,
     "lon": 6.611
   },
@@ -691,39 +635,31 @@
     "city": "Hengelo",
     "country": "Netherlands",
     "count": 4,
-    "avg_days_open": 83.3,
+    "avg_days_open": 84.3,
     "lat": 52.293,
     "lon": 6.8035
-  },
-  {
-    "city": "Wervershoof",
-    "country": "Netherlands",
-    "count": 4,
-    "avg_days_open": 93.4,
-    "lat": 52.7053,
-    "lon": 5.1462
   },
   {
     "city": "Oud West",
     "country": "Netherlands",
     "count": 4,
-    "avg_days_open": 37.4,
+    "avg_days_open": 38.3,
     "lat": 52.36,
     "lon": 4.8452
   },
   {
-    "city": "Nijmegen",
+    "city": "Apeldoorn",
     "country": "Netherlands",
     "count": 4,
-    "avg_days_open": 110.9,
-    "lat": 51.8325,
-    "lon": 5.7844
+    "avg_days_open": 34.1,
+    "lat": 52.2024,
+    "lon": 5.9478
   },
   {
     "city": "Tilburg",
     "country": "Netherlands",
     "count": 4,
-    "avg_days_open": 84.6,
+    "avg_days_open": 85.6,
     "lat": 51.5953,
     "lon": 5.0809
   },
@@ -731,7 +667,7 @@
     "city": "Oud Zuid",
     "country": "Netherlands",
     "count": 4,
-    "avg_days_open": 38.0,
+    "avg_days_open": 39.0,
     "lat": 52.3579,
     "lon": 4.8834
   },
@@ -739,63 +675,55 @@
     "city": "Dresden",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 96.2,
+    "avg_days_open": 97.1,
     "lat": 51.0527,
     "lon": 13.7565
   },
   {
-    "city": "Friedrichstadt",
+    "city": "Geesthacht",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 34.8,
-    "lat": 51.2139,
-    "lon": 6.7808
+    "avg_days_open": 115.8,
+    "lat": 53.4303,
+    "lon": 10.3741
   },
   {
-    "city": "Friedrichshain",
+    "city": "Heidelberg",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 21.5,
-    "lat": 52.5131,
-    "lon": 13.4449
+    "avg_days_open": 53.9,
+    "lat": 49.4038,
+    "lon": 8.6969
   },
   {
-    "city": "Karlsruhe",
+    "city": "Kiel",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 24.7,
-    "lat": 49.0012,
-    "lon": 8.4124
-  },
-  {
-    "city": "Hanau",
-    "country": "Germany",
-    "count": 3,
-    "avg_days_open": 8.5,
-    "lat": 50.1495,
-    "lon": 8.9062
+    "avg_days_open": 42.8,
+    "lat": 54.3197,
+    "lon": 10.138
   },
   {
     "city": "Klingenberg am Main",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 51.8,
+    "avg_days_open": 35.0,
     "lat": 49.7842,
     "lon": 9.1833
   },
   {
-    "city": "Münster",
+    "city": "Altenwerder",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 30.6,
-    "lat": 51.9553,
-    "lon": 7.6215
+    "avg_days_open": 1.4,
+    "lat": 53.5121,
+    "lon": 9.9121
   },
   {
     "city": "Alsterdorf",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 39.2,
+    "avg_days_open": 26.5,
     "lat": 53.6101,
     "lon": 10.0117
   },
@@ -803,7 +731,7 @@
     "city": "Wiesbaden",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 13.9,
+    "avg_days_open": 14.8,
     "lat": 50.0841,
     "lon": 8.2384
   },
@@ -811,63 +739,95 @@
     "city": "Landsberg am Lech",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 2.6,
+    "avg_days_open": 3.6,
     "lat": 48.0479,
     "lon": 10.8825
   },
   {
-    "city": "Bochum",
+    "city": "Bremen",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 48.1,
-    "lat": 51.477,
-    "lon": 7.2116
+    "avg_days_open": 43.6,
+    "lat": 53.104,
+    "lon": 8.7865
+  },
+  {
+    "city": "Herzogenrath",
+    "country": "Germany",
+    "count": 3,
+    "avg_days_open": 132.8,
+    "lat": 50.8688,
+    "lon": 6.0967
+  },
+  {
+    "city": "Bonn",
+    "country": "Germany",
+    "count": 3,
+    "avg_days_open": 13.1,
+    "lat": 50.7194,
+    "lon": 7.1124
   },
   {
     "city": "Freiburg (Elbe)",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 45.7,
+    "avg_days_open": 46.7,
     "lat": 53.8239,
     "lon": 9.2879
+  },
+  {
+    "city": "Bedingrade",
+    "country": "Germany",
+    "count": 3,
+    "avg_days_open": 9.8,
+    "lat": 51.4707,
+    "lon": 6.9208
   },
   {
     "city": "Verl",
     "country": "Germany",
     "count": 3,
-    "avg_days_open": 38.6,
+    "avg_days_open": 39.6,
     "lat": 51.8821,
     "lon": 8.5107
   },
   {
-    "city": "Wiener Neudorf",
-    "country": "Austria",
+    "city": "Kempen",
+    "country": "Germany",
     "count": 3,
-    "avg_days_open": 2.7,
-    "lat": 48.0837,
-    "lon": 16.318
+    "avg_days_open": 25.6,
+    "lat": 51.3633,
+    "lon": 6.4182
   },
   {
-    "city": "Liesing",
+    "city": "Linz",
     "country": "Austria",
     "count": 3,
-    "avg_days_open": 31.7,
-    "lat": 48.1355,
-    "lon": 16.2842
+    "avg_days_open": 5.8,
+    "lat": 48.2903,
+    "lon": 14.2935
   },
   {
     "city": "Innsbruck",
     "country": "Austria",
     "count": 3,
-    "avg_days_open": 197.7,
+    "avg_days_open": 198.7,
     "lat": 47.2646,
     "lon": 11.402
+  },
+  {
+    "city": "Meyrin",
+    "country": "Switzerland",
+    "count": 3,
+    "avg_days_open": 10.7,
+    "lat": 46.233,
+    "lon": 6.0757
   },
   {
     "city": "Le Grand-Saconnex",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 1.7,
+    "avg_days_open": 2.6,
     "lat": 46.2244,
     "lon": 6.114
   },
@@ -875,79 +835,79 @@
     "city": "Bioggio",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 11.9,
+    "avg_days_open": 12.8,
     "lat": 46.0151,
     "lon": 8.9071
-  },
-  {
-    "city": "Brütten",
-    "country": "Switzerland",
-    "count": 3,
-    "avg_days_open": 8.2,
-    "lat": 47.4844,
-    "lon": 8.6937
   },
   {
     "city": "Allschwil",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 16.6,
+    "avg_days_open": 17.6,
     "lat": 47.5509,
     "lon": 7.5365
   },
   {
-    "city": "Burgdorf",
+    "city": "Liestal",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 19.0,
-    "lat": 47.058,
-    "lon": 7.6287
+    "avg_days_open": 24.5,
+    "lat": 47.4828,
+    "lon": 7.7358
   },
   {
     "city": "Hochdorf",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 7.7,
+    "avg_days_open": 8.6,
     "lat": 47.1668,
     "lon": 8.2919
+  },
+  {
+    "city": "Thalwil",
+    "country": "Switzerland",
+    "count": 3,
+    "avg_days_open": 3.9,
+    "lat": 47.2944,
+    "lon": 8.5634
+  },
+  {
+    "city": "Altdorf",
+    "country": "Switzerland",
+    "count": 3,
+    "avg_days_open": 6.5,
+    "lat": 46.8805,
+    "lon": 8.6446
   },
   {
     "city": "Nyon",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 6.4,
+    "avg_days_open": 7.4,
     "lat": 46.3797,
     "lon": 6.234
-  },
-  {
-    "city": "Zizers",
-    "country": "Switzerland",
-    "count": 3,
-    "avg_days_open": 9.7,
-    "lat": 46.9368,
-    "lon": 9.5658
-  },
-  {
-    "city": "Opfikon",
-    "country": "Switzerland",
-    "count": 3,
-    "avg_days_open": 2.9,
-    "lat": 47.4334,
-    "lon": 8.5695
   },
   {
     "city": "Ostermundigen",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 35.0,
+    "avg_days_open": 35.9,
     "lat": 46.9561,
     "lon": 7.4828
+  },
+  {
+    "city": "Birsfelden",
+    "country": "Switzerland",
+    "count": 3,
+    "avg_days_open": 3.3,
+    "lat": 47.5493,
+    "lon": 7.6077
   },
   {
     "city": "Volketswil",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 66.0,
+    "avg_days_open": 66.9,
     "lat": 47.3895,
     "lon": 8.6876
   },
@@ -955,15 +915,23 @@
     "city": "Gland",
     "country": "Switzerland",
     "count": 3,
-    "avg_days_open": 7.3,
+    "avg_days_open": 8.2,
     "lat": 46.4207,
     "lon": 6.2693
+  },
+  {
+    "city": "Wervershoof",
+    "country": "Netherlands",
+    "count": 3,
+    "avg_days_open": 78.1,
+    "lat": 52.7053,
+    "lon": 5.1462
   },
   {
     "city": "Duiven",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 86.3,
+    "avg_days_open": 87.2,
     "lat": 51.9451,
     "lon": 5.9964
   },
@@ -971,23 +939,23 @@
     "city": "Oosterpoortwijk",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 59.3,
+    "avg_days_open": 60.3,
     "lat": 53.2177,
     "lon": 6.5711
   },
   {
-    "city": "Maastricht",
+    "city": "Nijmegen",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 36.1,
-    "lat": 50.8289,
-    "lon": 5.7035
+    "avg_days_open": 116.1,
+    "lat": 51.8325,
+    "lon": 5.7844
   },
   {
     "city": "Nijkerk",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 45.0,
+    "avg_days_open": 46.0,
     "lat": 52.214,
     "lon": 5.472
   },
@@ -995,15 +963,23 @@
     "city": "IJmuiden",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 11.0,
+    "avg_days_open": 11.9,
     "lat": 52.4575,
     "lon": 4.5807
+  },
+  {
+    "city": "Schiphol",
+    "country": "Netherlands",
+    "count": 3,
+    "avg_days_open": 103.7,
+    "lat": 52.3255,
+    "lon": 4.7398
   },
   {
     "city": "Delft",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 67.0,
+    "avg_days_open": 67.9,
     "lat": 51.9785,
     "lon": 4.3972
   },
@@ -1011,7 +987,7 @@
     "city": "Vught",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 283.1,
+    "avg_days_open": 284.1,
     "lat": 51.6828,
     "lon": 5.3285
   },
@@ -1019,23 +995,15 @@
     "city": "Dichterswijk",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 71.1,
+    "avg_days_open": 72.1,
     "lat": 52.0874,
     "lon": 5.1181
-  },
-  {
-    "city": "Literatuurwijk",
-    "country": "Netherlands",
-    "count": 3,
-    "avg_days_open": 216.1,
-    "lat": 52.346,
-    "lon": 5.1795
   },
   {
     "city": "Leiden",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 248.0,
+    "avg_days_open": 248.9,
     "lat": 52.174,
     "lon": 4.481
   },
@@ -1043,7 +1011,7 @@
     "city": "Zwolle",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 135.5,
+    "avg_days_open": 136.5,
     "lat": 52.5489,
     "lon": 6.0447
   },
@@ -1051,7 +1019,7 @@
     "city": "Zoeterwoude",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 63.1,
+    "avg_days_open": 64.1,
     "lat": 52.1404,
     "lon": 4.5299
   },
@@ -1059,7 +1027,7 @@
     "city": "Roosendaal",
     "country": "Netherlands",
     "count": 3,
-    "avg_days_open": 9.2,
+    "avg_days_open": 10.1,
     "lat": 51.5181,
     "lon": 4.4195
   },
@@ -1067,7 +1035,7 @@
     "city": "Ulm",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 2.4,
+    "avg_days_open": 3.3,
     "lat": 48.3831,
     "lon": 9.8569
   },
@@ -1075,31 +1043,55 @@
     "city": "Kluftern",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 21.1,
+    "avg_days_open": 22.1,
     "lat": 47.6655,
     "lon": 9.3641
   },
   {
-    "city": "Eicken",
+    "city": "Friedrichstadt",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 45.7,
-    "lat": 51.2109,
-    "lon": 6.4425
+    "avg_days_open": 9.6,
+    "lat": 51.2139,
+    "lon": 6.7808
   },
   {
     "city": "Lehrte",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 118.3,
+    "avg_days_open": 119.2,
     "lat": 52.3726,
     "lon": 9.9771
+  },
+  {
+    "city": "Eicken",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 26.2,
+    "lat": 51.2109,
+    "lon": 6.4425
+  },
+  {
+    "city": "Jena",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 13.4,
+    "lat": 50.923,
+    "lon": 11.5895
+  },
+  {
+    "city": "Friedrichshain",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 2.0,
+    "lat": 52.5122,
+    "lon": 13.4481
   },
   {
     "city": "Geneicken",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 21.0,
+    "avg_days_open": 22.0,
     "lat": 51.1815,
     "lon": 6.4608
   },
@@ -1107,39 +1099,31 @@
     "city": "Bloherfelde",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 13.2,
+    "avg_days_open": 14.1,
     "lat": 53.1404,
     "lon": 8.146
   },
   {
-    "city": "Altendorf",
+    "city": "Essen",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 18.2,
-    "lat": 51.4612,
-    "lon": 6.9673
+    "avg_days_open": 32.8,
+    "lat": 51.4448,
+    "lon": 7.0145
   },
   {
     "city": "Damme",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 6.3,
+    "avg_days_open": 7.1,
     "lat": 52.5214,
     "lon": 8.1974
-  },
-  {
-    "city": "Norderstedt",
-    "country": "Germany",
-    "count": 2,
-    "avg_days_open": 8.3,
-    "lat": 53.7066,
-    "lon": 10.0029
   },
   {
     "city": "Altstadt-Lehel",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 15.3,
+    "avg_days_open": 16.3,
     "lat": 48.1409,
     "lon": 11.5691
   },
@@ -1147,7 +1131,7 @@
     "city": "Eberbach",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 16.9,
+    "avg_days_open": 17.8,
     "lat": 49.4624,
     "lon": 8.9871
   },
@@ -1155,7 +1139,7 @@
     "city": "Tangstedt",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 12.2,
+    "avg_days_open": 13.2,
     "lat": 53.6775,
     "lon": 9.8564
   },
@@ -1163,7 +1147,7 @@
     "city": "Charlottenburg",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 9.1,
+    "avg_days_open": 10.0,
     "lat": 52.5065,
     "lon": 13.3021
   },
@@ -1171,7 +1155,7 @@
     "city": "Erlangen-Höchstadt (Kreis)",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 49.9,
+    "avg_days_open": 50.9,
     "lat": 49.6721,
     "lon": 10.9254
   },
@@ -1179,7 +1163,7 @@
     "city": "Schönefeld",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 8.7,
+    "avg_days_open": 9.7,
     "lat": 51.3603,
     "lon": 12.4266
   },
@@ -1187,71 +1171,87 @@
     "city": "Manching",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 13.2,
+    "avg_days_open": 14.2,
     "lat": 48.717,
     "lon": 11.4933
   },
   {
-    "city": "Altenwerder",
+    "city": "Hanau",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 0.8,
-    "lat": 53.5121,
-    "lon": 9.9121
+    "avg_days_open": 4.7,
+    "lat": 50.1495,
+    "lon": 8.9062
   },
   {
     "city": "Hagsfeld",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 13.5,
+    "avg_days_open": 14.4,
     "lat": 49.0308,
     "lon": 8.4588
   },
   {
-    "city": "Langenfeld (Rheinland)",
+    "city": "Stuttgart",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 16.7,
-    "lat": 51.1024,
-    "lon": 6.9471
+    "avg_days_open": 1.2,
+    "lat": 48.7762,
+    "lon": 9.1872
   },
   {
-    "city": "Bremen",
+    "city": "Hemelingen",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 59.2,
-    "lat": 53.104,
-    "lon": 8.7865
+    "avg_days_open": 21.5,
+    "lat": 53.0642,
+    "lon": 8.8695
   },
   {
-    "city": "Aachen",
+    "city": "Bockenheim",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 379.3,
-    "lat": 50.7739,
-    "lon": 6.0898
+    "avg_days_open": 132.2,
+    "lat": 50.1251,
+    "lon": 8.6468
   },
   {
     "city": "Doos",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 34.0,
+    "avg_days_open": 35.0,
     "lat": 49.4638,
     "lon": 11.0193
+  },
+  {
+    "city": "Aachen",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 378.0,
+    "lat": 50.7739,
+    "lon": 6.0898
   },
   {
     "city": "Osnabrück",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 34.2,
+    "avg_days_open": 35.2,
     "lat": 52.2742,
     "lon": 8.0551
+  },
+  {
+    "city": "Nürnberg",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 82.5,
+    "lat": 49.444,
+    "lon": 11.0836
   },
   {
     "city": "Westend-Süd",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 11.8,
+    "avg_days_open": 12.6,
     "lat": 50.1179,
     "lon": 8.6636
   },
@@ -1259,15 +1259,23 @@
     "city": "Altstadt-Nord",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 37.4,
+    "avg_days_open": 38.3,
     "lat": 50.9392,
     "lon": 6.9568
+  },
+  {
+    "city": "Hamburg-Altstadt",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 6.8,
+    "lat": 53.5504,
+    "lon": 9.9942
   },
   {
     "city": "Gleißbühl",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 10.9,
+    "avg_days_open": 11.8,
     "lat": 49.4493,
     "lon": 11.0847
   },
@@ -1275,7 +1283,7 @@
     "city": "Mauritz",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 4.8,
+    "avg_days_open": 5.6,
     "lat": 51.9661,
     "lon": 7.651
   },
@@ -1283,23 +1291,15 @@
     "city": "Aminghausen",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 19.8,
+    "avg_days_open": 13.2,
     "lat": 52.3129,
     "lon": 8.9551
-  },
-  {
-    "city": "Innenstadt",
-    "country": "Germany",
-    "count": 2,
-    "avg_days_open": 27.8,
-    "lat": 50.4563,
-    "lon": 8.3935
   },
   {
     "city": "Deusen",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 1.9,
+    "avg_days_open": 2.9,
     "lat": 51.5468,
     "lon": 7.4281
   },
@@ -1307,47 +1307,39 @@
     "city": "Goldgrube",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 45.4,
+    "avg_days_open": 46.4,
     "lat": 50.3541,
     "lon": 7.5818
-  },
-  {
-    "city": "Bedingrade",
-    "country": "Germany",
-    "count": 2,
-    "avg_days_open": 9.0,
-    "lat": 51.4707,
-    "lon": 6.9208
   },
   {
     "city": "Gräfelfing",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 45.9,
+    "avg_days_open": 46.9,
     "lat": 48.12,
     "lon": 11.4272
-  },
-  {
-    "city": "Kaiserslautern",
-    "country": "Germany",
-    "count": 2,
-    "avg_days_open": 9.8,
-    "lat": 49.4418,
-    "lon": 7.7441
   },
   {
     "city": "Höxter",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 13.4,
+    "avg_days_open": 14.4,
     "lat": 51.774,
     "lon": 9.3813
+  },
+  {
+    "city": "Kaiserslautern",
+    "country": "Germany",
+    "count": 2,
+    "avg_days_open": 10.8,
+    "lat": 49.4418,
+    "lon": 7.7441
   },
   {
     "city": "Baden-Baden",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 57.0,
+    "avg_days_open": 58.0,
     "lat": 48.7547,
     "lon": 8.2353
   },
@@ -1355,39 +1347,39 @@
     "city": "Detmold",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 31.2,
+    "avg_days_open": 32.2,
     "lat": 51.9386,
     "lon": 8.894
   },
   {
-    "city": "Bad Oldesloe",
+    "city": "Taufkirchen",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 12.2,
-    "lat": 53.8099,
-    "lon": 10.3728
+    "avg_days_open": 4.8,
+    "lat": 48.0963,
+    "lon": 12.0373
   },
   {
     "city": "Böblingen",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 13.7,
+    "avg_days_open": 14.7,
     "lat": 48.6887,
     "lon": 8.9835
   },
   {
-    "city": "Freiburg im Breisgau",
+    "city": "Bad Oldesloe",
     "country": "Germany",
     "count": 2,
-    "avg_days_open": 10.9,
-    "lat": 47.9995,
-    "lon": 7.8163
+    "avg_days_open": 9.7,
+    "lat": 53.8099,
+    "lon": 10.3728
   },
   {
     "city": "Gratkorn",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 22.8,
+    "avg_days_open": 23.7,
     "lat": 47.1439,
     "lon": 15.3582
   },
@@ -1395,23 +1387,23 @@
     "city": "Brunn am Gebirge",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 44.6,
+    "avg_days_open": 45.6,
     "lat": 48.1009,
     "lon": 16.3117
   },
   {
-    "city": "Linz",
+    "city": "Wiener Neudorf",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 7.4,
-    "lat": 48.2903,
-    "lon": 14.2935
+    "avg_days_open": 3.9,
+    "lat": 48.0837,
+    "lon": 16.318
   },
   {
     "city": "Leonding",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 183.3,
+    "avg_days_open": 184.2,
     "lat": 48.2769,
     "lon": 14.2505
   },
@@ -1419,7 +1411,7 @@
     "city": "Enns",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 114.0,
+    "avg_days_open": 115.0,
     "lat": 48.2111,
     "lon": 14.4611
   },
@@ -1427,7 +1419,7 @@
     "city": "Simmering",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 309.9,
+    "avg_days_open": 310.9,
     "lat": 48.1678,
     "lon": 16.4347
   },
@@ -1435,79 +1427,79 @@
     "city": "Dornbirn",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 14.6,
+    "avg_days_open": 15.5,
     "lat": 47.4077,
     "lon": 9.7189
-  },
-  {
-    "city": "Buch",
-    "country": "Austria",
-    "count": 2,
-    "avg_days_open": 1.3,
-    "lat": 47.4825,
-    "lon": 9.8159
   },
   {
     "city": "Wolfurt",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 1.4,
+    "avg_days_open": 2.4,
     "lat": 47.4674,
     "lon": 9.75
+  },
+  {
+    "city": "Buch",
+    "country": "Austria",
+    "count": 2,
+    "avg_days_open": 2.3,
+    "lat": 47.4825,
+    "lon": 9.8159
+  },
+  {
+    "city": "Rankweil",
+    "country": "Austria",
+    "count": 2,
+    "avg_days_open": 34.9,
+    "lat": 47.2763,
+    "lon": 9.6302
+  },
+  {
+    "city": "Mutters",
+    "country": "Austria",
+    "count": 2,
+    "avg_days_open": 5.3,
+    "lat": 47.2218,
+    "lon": 11.3885
   },
   {
     "city": "Kalsdorf bei Graz",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 32.0,
+    "avg_days_open": 33.0,
     "lat": 46.9577,
     "lon": 15.4709
-  },
-  {
-    "city": "Wals-Siezenheim",
-    "country": "Austria",
-    "count": 2,
-    "avg_days_open": 6.5,
-    "lat": 47.7943,
-    "lon": 12.9771
   },
   {
     "city": "Kundl",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 3.5,
+    "avg_days_open": 4.4,
     "lat": 47.4709,
     "lon": 11.987
-  },
-  {
-    "city": "Donaustadt",
-    "country": "Austria",
-    "count": 2,
-    "avg_days_open": 51.5,
-    "lat": 48.2313,
-    "lon": 16.4713
   },
   {
     "city": "Kirchdorf an der Krems",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 2.2,
+    "avg_days_open": 3.2,
     "lat": 47.904,
     "lon": 14.1221
   },
   {
-    "city": "Raaba-Grambach",
+    "city": "Althofen",
     "country": "Austria",
     "count": 2,
-    "avg_days_open": 6.2,
-    "lat": 47.0257,
-    "lon": 15.5148
+    "avg_days_open": 17.7,
+    "lat": 46.879,
+    "lon": 14.4569
   },
   {
     "city": "Uster",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 4.4,
+    "avg_days_open": 5.3,
     "lat": 47.5096,
     "lon": 8.6882
   },
@@ -1515,7 +1507,7 @@
     "city": "Dietikon",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 18.4,
+    "avg_days_open": 19.3,
     "lat": 47.4427,
     "lon": 8.4099
   },
@@ -1523,7 +1515,7 @@
     "city": "Zollikon",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 7.7,
+    "avg_days_open": 8.6,
     "lat": 47.3485,
     "lon": 8.5676
   },
@@ -1531,15 +1523,23 @@
     "city": "Lugano",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 277.1,
+    "avg_days_open": 278.1,
     "lat": 46.0334,
     "lon": 8.9504
+  },
+  {
+    "city": "Brütten",
+    "country": "Switzerland",
+    "count": 2,
+    "avg_days_open": 10.8,
+    "lat": 47.4844,
+    "lon": 8.6937
   },
   {
     "city": "Savièse",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 11.9,
+    "avg_days_open": 12.9,
     "lat": 46.2498,
     "lon": 7.3652
   },
@@ -1547,39 +1547,39 @@
     "city": "Steffisburg",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 6.4,
+    "avg_days_open": 7.3,
     "lat": 46.7548,
     "lon": 7.6266
+  },
+  {
+    "city": "Prilly",
+    "country": "Switzerland",
+    "count": 2,
+    "avg_days_open": 12.4,
+    "lat": 46.5341,
+    "lon": 6.6062
   },
   {
     "city": "Olten",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 24.0,
+    "avg_days_open": 24.9,
     "lat": 47.3501,
     "lon": 7.9026
   },
   {
-    "city": "Seon",
+    "city": "Bubendorf",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 12.0,
-    "lat": 47.3472,
-    "lon": 8.1608
-  },
-  {
-    "city": "Altdorf",
-    "country": "Switzerland",
-    "count": 2,
-    "avg_days_open": 6.5,
-    "lat": 46.8805,
-    "lon": 8.6446
+    "avg_days_open": 9.9,
+    "lat": 47.4509,
+    "lon": 7.7364
   },
   {
     "city": "Zollikofen",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 9.0,
+    "avg_days_open": 9.9,
     "lat": 46.9983,
     "lon": 7.4511
   },
@@ -1587,7 +1587,7 @@
     "city": "Visp",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 9.0,
+    "avg_days_open": 9.9,
     "lat": 46.2922,
     "lon": 7.8812
   },
@@ -1595,15 +1595,31 @@
     "city": "Dagmersellen",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 18.5,
+    "avg_days_open": 19.4,
     "lat": 47.2169,
     "lon": 7.9842
+  },
+  {
+    "city": "Risch",
+    "country": "Switzerland",
+    "count": 2,
+    "avg_days_open": 23.5,
+    "lat": 47.1418,
+    "lon": 8.4529
+  },
+  {
+    "city": "Biel",
+    "country": "Switzerland",
+    "count": 2,
+    "avg_days_open": 2.4,
+    "lat": 47.1471,
+    "lon": 7.2569
   },
   {
     "city": "Schwyz",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 4.0,
+    "avg_days_open": 4.8,
     "lat": 47.0243,
     "lon": 8.6557
   },
@@ -1611,47 +1627,39 @@
     "city": "Adliswil",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 9.4,
+    "avg_days_open": 10.4,
     "lat": 47.3118,
     "lon": 8.5255
-  },
-  {
-    "city": "Birsfelden",
-    "country": "Switzerland",
-    "count": 2,
-    "avg_days_open": 3.9,
-    "lat": 47.5493,
-    "lon": 7.6077
   },
   {
     "city": "Oftringen",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 58.0,
+    "avg_days_open": 58.9,
     "lat": 47.3115,
     "lon": 7.9219
-  },
-  {
-    "city": "Reinach",
-    "country": "Switzerland",
-    "count": 2,
-    "avg_days_open": 21.5,
-    "lat": 47.254,
-    "lon": 8.1835
   },
   {
     "city": "Dornach",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 6.4,
+    "avg_days_open": 7.3,
     "lat": 47.4882,
     "lon": 7.6063
+  },
+  {
+    "city": "Siders",
+    "country": "Switzerland",
+    "count": 2,
+    "avg_days_open": 16.9,
+    "lat": null,
+    "lon": null
   },
   {
     "city": "Dierikon",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 17.0,
+    "avg_days_open": 17.9,
     "lat": 47.0967,
     "lon": 8.3694
   },
@@ -1659,7 +1667,7 @@
     "city": "Baar",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 5.0,
+    "avg_days_open": 5.9,
     "lat": 47.1934,
     "lon": 8.5231
   },
@@ -1667,7 +1675,7 @@
     "city": "Bülach",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 24.5,
+    "avg_days_open": 25.4,
     "lat": 47.5192,
     "lon": 8.5404
   },
@@ -1675,7 +1683,7 @@
     "city": "Sarnen",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 20.0,
+    "avg_days_open": 20.9,
     "lat": 46.8958,
     "lon": 8.2456
   },
@@ -1683,15 +1691,23 @@
     "city": "Bassersdorf",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 44.5,
+    "avg_days_open": 45.4,
     "lat": 47.444,
     "lon": 8.6271
+  },
+  {
+    "city": "Trubschachen",
+    "country": "Switzerland",
+    "count": 2,
+    "avg_days_open": -0.1,
+    "lat": 46.9223,
+    "lon": 7.8464
   },
   {
     "city": "Schönenbuch",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 16.0,
+    "avg_days_open": 16.9,
     "lat": 47.5371,
     "lon": 7.502
   },
@@ -1699,7 +1715,7 @@
     "city": "Münchenstein",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 2.0,
+    "avg_days_open": 2.9,
     "lat": 47.5134,
     "lon": 7.6207
   },
@@ -1707,7 +1723,7 @@
     "city": "Böckten",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 18.0,
+    "avg_days_open": 18.9,
     "lat": 47.4627,
     "lon": 7.8362
   },
@@ -1715,23 +1731,15 @@
     "city": "Leukerbad",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 29.0,
+    "avg_days_open": 29.9,
     "lat": 46.3791,
     "lon": 7.63
-  },
-  {
-    "city": "Romanshorn",
-    "country": "Switzerland",
-    "count": 2,
-    "avg_days_open": 17.7,
-    "lat": 47.5657,
-    "lon": 9.3773
   },
   {
     "city": "Berneck",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 20.0,
+    "avg_days_open": 20.9,
     "lat": 47.4255,
     "lon": 9.6135
   },
@@ -1739,7 +1747,7 @@
     "city": "Le Noirmont",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 12.9,
+    "avg_days_open": 13.9,
     "lat": 47.2241,
     "lon": 6.9563
   },
@@ -1747,47 +1755,23 @@
     "city": "Domat/Ems",
     "country": "Switzerland",
     "count": 2,
-    "avg_days_open": 66.0,
+    "avg_days_open": 66.9,
     "lat": 46.8352,
     "lon": 9.4509
-  },
-  {
-    "city": "Bubikon",
-    "country": "Switzerland",
-    "count": 2,
-    "avg_days_open": 66.0,
-    "lat": 47.2684,
-    "lon": 8.8189
-  },
-  {
-    "city": "Katwijk aan Zee",
-    "country": "Netherlands",
-    "count": 2,
-    "avg_days_open": 91.6,
-    "lat": 51.5328,
-    "lon": 5.1189
   },
   {
     "city": "Haarlem",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 7.4,
+    "avg_days_open": 8.4,
     "lat": 52.3605,
     "lon": 4.6571
-  },
-  {
-    "city": "Agniesebuurt",
-    "country": "Netherlands",
-    "count": 2,
-    "avg_days_open": 11.6,
-    "lat": 51.9186,
-    "lon": 4.4801
   },
   {
     "city": "Heerenveen",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 45.1,
+    "avg_days_open": 46.0,
     "lat": 52.9569,
     "lon": 5.939
   },
@@ -1795,15 +1779,23 @@
     "city": "Paddepoel",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 32.7,
+    "avg_days_open": 33.7,
     "lat": 53.23,
     "lon": 6.5325
+  },
+  {
+    "city": "Zierikzee",
+    "country": "Netherlands",
+    "count": 2,
+    "avg_days_open": 24.9,
+    "lat": 51.6583,
+    "lon": 3.9359
   },
   {
     "city": "Zielhorst",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 42.0,
+    "avg_days_open": 42.9,
     "lat": 52.174,
     "lon": 5.4162
   },
@@ -1811,23 +1803,23 @@
     "city": "Helmond",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 91.4,
+    "avg_days_open": 92.4,
     "lat": 51.4736,
     "lon": 5.6671
   },
   {
-    "city": "Botlek",
+    "city": "Veenendaal",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 69.3,
-    "lat": 51.8942,
-    "lon": 4.2594
+    "avg_days_open": 10.8,
+    "lat": 52.0194,
+    "lon": 5.583
   },
   {
     "city": "Almere",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.8,
     "lat": 52.4073,
     "lon": 5.2442
   },
@@ -1835,7 +1827,7 @@
     "city": "Zoetermeer",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 62.0,
+    "avg_days_open": 63.0,
     "lat": 52.0596,
     "lon": 4.5001
   },
@@ -1843,23 +1835,15 @@
     "city": "Bergen op Zoom",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.8,
     "lat": 51.4748,
     "lon": 4.3187
-  },
-  {
-    "city": "Bavel",
-    "country": "Netherlands",
-    "count": 2,
-    "avg_days_open": 72.6,
-    "lat": 51.5965,
-    "lon": 4.7996
   },
   {
     "city": "Voorthuizen",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 17.3,
+    "avg_days_open": 18.3,
     "lat": 52.1924,
     "lon": 5.6019
   },
@@ -1867,23 +1851,15 @@
     "city": "Noord",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 1.7,
+    "avg_days_open": 2.7,
     "lat": 52.3069,
     "lon": 4.8461
-  },
-  {
-    "city": "Schiphol",
-    "country": "Netherlands",
-    "count": 2,
-    "avg_days_open": 134.2,
-    "lat": 52.3255,
-    "lon": 4.7398
   },
   {
     "city": "Riel",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 27.0,
+    "avg_days_open": 28.0,
     "lat": 51.5448,
     "lon": 5.0652
   },
@@ -1891,7 +1867,7 @@
     "city": "Hoofddorp",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 193.8,
+    "avg_days_open": 194.8,
     "lat": 52.3219,
     "lon": 4.6127
   },
@@ -1899,15 +1875,31 @@
     "city": "Weert",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 51.6,
+    "avg_days_open": 52.6,
     "lat": 51.2456,
     "lon": 5.7127
+  },
+  {
+    "city": "Literatuurwijk",
+    "country": "Netherlands",
+    "count": 2,
+    "avg_days_open": 32.2,
+    "lat": 52.3456,
+    "lon": 5.178
+  },
+  {
+    "city": "Maastricht",
+    "country": "Netherlands",
+    "count": 2,
+    "avg_days_open": 13.2,
+    "lat": 50.8324,
+    "lon": 5.7011
   },
   {
     "city": "Enkhuizen",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 19.4,
+    "avg_days_open": 20.3,
     "lat": 52.7115,
     "lon": 5.2868
   },
@@ -1915,7 +1907,7 @@
     "city": "Velsen-Noord",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 10.1,
+    "avg_days_open": 11.0,
     "lat": 52.4741,
     "lon": 4.6445
   },
@@ -1923,7 +1915,7 @@
     "city": "Breda",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 52.3,
+    "avg_days_open": 53.2,
     "lat": 51.5885,
     "lon": 4.6938
   },
@@ -1931,7 +1923,7 @@
     "city": "Voorburg",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 73.3,
+    "avg_days_open": 74.2,
     "lat": 52.0793,
     "lon": 4.3577
   },
@@ -1939,23 +1931,15 @@
     "city": "Almelo",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 8.6,
+    "avg_days_open": 9.6,
     "lat": 52.3894,
     "lon": 6.6484
-  },
-  {
-    "city": "Apeldoorn",
-    "country": "Netherlands",
-    "count": 2,
-    "avg_days_open": 53.4,
-    "lat": 52.2024,
-    "lon": 5.9478
   },
   {
     "city": "Zaandam",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 17.5,
+    "avg_days_open": 18.5,
     "lat": 52.4699,
     "lon": 4.8327
   },
@@ -1963,7 +1947,7 @@
     "city": "'s-Graveland",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 35.2,
+    "avg_days_open": 36.1,
     "lat": 51.9395,
     "lon": 4.4056
   },
@@ -1971,7 +1955,7 @@
     "city": "Ede",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 94.3,
+    "avg_days_open": 95.2,
     "lat": 52.0538,
     "lon": 5.6634
   },
@@ -1979,7 +1963,7 @@
     "city": "Echt",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 15.0,
+    "avg_days_open": 16.0,
     "lat": 51.0944,
     "lon": 5.8831
   },
@@ -1987,7 +1971,7 @@
     "city": "Doetinchem",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 127.4,
+    "avg_days_open": 128.4,
     "lat": 51.9891,
     "lon": 6.3271
   },
@@ -1995,31 +1979,31 @@
     "city": "Zutphen",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 95.8,
+    "avg_days_open": 96.8,
     "lat": 52.1264,
     "lon": 6.2472
-  },
-  {
-    "city": "Assen",
-    "country": "Netherlands",
-    "count": 2,
-    "avg_days_open": 94.0,
-    "lat": 53.0004,
-    "lon": 6.516
   },
   {
     "city": "Nunspeet",
     "country": "Netherlands",
     "count": 2,
-    "avg_days_open": 149.8,
+    "avg_days_open": 150.8,
     "lat": 52.386,
     "lon": 5.7961
+  },
+  {
+    "city": "Assen",
+    "country": "Netherlands",
+    "count": 2,
+    "avg_days_open": 95.0,
+    "lat": 53.0004,
+    "lon": 6.516
   },
   {
     "city": "Darmstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 566.6,
+    "avg_days_open": 567.6,
     "lat": 49.8777,
     "lon": 8.6566
   },
@@ -2027,7 +2011,7 @@
     "city": "Unterschleißheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 59.7,
+    "avg_days_open": 60.7,
     "lat": 48.2773,
     "lon": 11.5684
   },
@@ -2035,15 +2019,23 @@
     "city": "Weeze",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 87.1,
+    "avg_days_open": 88.1,
     "lat": 51.6282,
     "lon": 6.2001
+  },
+  {
+    "city": "Neuwied",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 41.7,
+    "lat": 50.4438,
+    "lon": 7.475
   },
   {
     "city": "Bernau bei Berlin",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 164.6,
+    "avg_days_open": 165.5,
     "lat": 52.6809,
     "lon": 13.5836
   },
@@ -2051,55 +2043,47 @@
     "city": "Markdorf",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 159.6,
+    "avg_days_open": 160.5,
     "lat": 47.7203,
     "lon": 9.3891
-  },
-  {
-    "city": "Burgdorf",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 123.9,
-    "lat": 52.4464,
-    "lon": 10.0067
-  },
-  {
-    "city": "Soltau",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 123.9,
-    "lat": 52.9867,
-    "lon": 9.8399
   },
   {
     "city": "Celle",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 123.9,
+    "avg_days_open": 124.9,
     "lat": 52.6396,
     "lon": 10.0958
+  },
+  {
+    "city": "Burgdorf",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 124.9,
+    "lat": 52.4464,
+    "lon": 10.0067
   },
   {
     "city": "Wedemark",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 123.9,
+    "avg_days_open": 124.9,
     "lat": 52.5477,
     "lon": 9.7322
   },
   {
-    "city": "Jena",
+    "city": "Soltau",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 25.4,
-    "lat": 50.923,
-    "lon": 11.5895
+    "avg_days_open": 124.9,
+    "lat": 52.9867,
+    "lon": 9.8399
   },
   {
     "city": "Alt-Treptow",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.3,
+    "avg_days_open": 1.2,
     "lat": 52.4862,
     "lon": 13.478
   },
@@ -2107,7 +2091,7 @@
     "city": "Berg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.3,
+    "avg_days_open": 1.2,
     "lat": 47.8149,
     "lon": 9.5946
   },
@@ -2115,7 +2099,7 @@
     "city": "Tempelhof",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.3,
+    "avg_days_open": 1.2,
     "lat": 52.4782,
     "lon": 13.386
   },
@@ -2123,7 +2107,7 @@
     "city": "Lichtenberg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.3,
+    "avg_days_open": 1.2,
     "lat": 52.5146,
     "lon": 13.4983
   },
@@ -2131,7 +2115,7 @@
     "city": "Duisburg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 18.9,
+    "avg_days_open": 19.8,
     "lat": 51.4434,
     "lon": 6.7437
   },
@@ -2139,7 +2123,7 @@
     "city": "Burg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.5,
+    "avg_days_open": 15.5,
     "lat": 52.4088,
     "lon": 9.6957
   },
@@ -2147,7 +2131,7 @@
     "city": "Salzgitter",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 132.5,
+    "avg_days_open": 133.4,
     "lat": 52.1205,
     "lon": 10.3735
   },
@@ -2155,55 +2139,31 @@
     "city": "Altbrand",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 1.7,
+    "avg_days_open": 2.7,
     "lat": 49.1873,
     "lon": 8.3375
-  },
-  {
-    "city": "Mönchengladbach",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 22.8,
-    "lat": 51.1618,
-    "lon": 6.4056
-  },
-  {
-    "city": "West",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 31.2,
-    "lat": 48.7736,
-    "lon": 9.1613
-  },
-  {
-    "city": "Aising",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 18.7,
-    "lat": 47.8297,
-    "lon": 12.1046
   },
   {
     "city": "Rotenburg (Wümme)",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 89.1,
+    "avg_days_open": 90.0,
     "lat": 53.1097,
     "lon": 9.3972
   },
   {
-    "city": "Rosenheim",
+    "city": "Aising",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 19.2,
-    "lat": 47.8486,
-    "lon": 12.1079
+    "avg_days_open": 19.8,
+    "lat": 47.8297,
+    "lon": 12.1046
   },
   {
     "city": "Höchst",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 95.6,
+    "avg_days_open": 96.6,
     "lat": 50.0996,
     "lon": 8.5404
   },
@@ -2211,23 +2171,15 @@
     "city": "Friedrichshafen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 3.8,
+    "avg_days_open": 4.8,
     "lat": 47.6638,
     "lon": 9.4597
-  },
-  {
-    "city": "Springe",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 37.7,
-    "lat": 52.2073,
-    "lon": 9.5557
   },
   {
     "city": "Daxlanden",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 22.7,
+    "avg_days_open": 5.6,
     "lat": 49.0022,
     "lon": 8.3374
   },
@@ -2235,7 +2187,7 @@
     "city": "Preten",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 22.7,
+    "avg_days_open": 5.6,
     "lat": 53.3982,
     "lon": 10.8521
   },
@@ -2243,47 +2195,23 @@
     "city": "Lübben (Spreewald)",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 18.8,
+    "avg_days_open": 19.8,
     "lat": 51.9415,
     "lon": 13.8981
-  },
-  {
-    "city": "Tiefenbroich",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 23.7,
-    "lat": 51.3109,
-    "lon": 6.8189
   },
   {
     "city": "Beyendorf-Sohlen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 53.8,
+    "avg_days_open": 55.0,
     "lat": 52.0574,
     "lon": 11.6331
-  },
-  {
-    "city": "Bad Sobernheim",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 0.9,
-    "lat": 49.783,
-    "lon": 7.6512
-  },
-  {
-    "city": "Wörrstadt",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 0.9,
-    "lat": 49.8425,
-    "lon": 8.1293
   },
   {
     "city": "Rüdesheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.9,
+    "avg_days_open": 1.9,
     "lat": 49.8456,
     "lon": 7.82
   },
@@ -2291,39 +2219,47 @@
     "city": "Altenbamberg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.9,
+    "avg_days_open": 1.9,
     "lat": 49.7835,
     "lon": 7.8324
+  },
+  {
+    "city": "Wörrstadt",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 1.9,
+    "lat": 49.8425,
+    "lon": 8.1293
+  },
+  {
+    "city": "Bad Sobernheim",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 1.9,
+    "lat": 49.783,
+    "lon": 7.6512
   },
   {
     "city": "Kempten (Allgäu)",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 59.0,
+    "avg_days_open": 59.9,
     "lat": 47.7327,
     "lon": 10.3071
   },
   {
-    "city": "Neu-Isenburg",
+    "city": "Altendorf",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 12.7,
-    "lat": 50.0532,
-    "lon": 8.6862
-  },
-  {
-    "city": "Wetzlar",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 5.7,
-    "lat": 50.551,
-    "lon": 8.5035
+    "avg_days_open": 30.8,
+    "lat": 51.4612,
+    "lon": 6.9673
   },
   {
     "city": "Hückelhoven",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.7,
+    "avg_days_open": 3.6,
     "lat": 51.0525,
     "lon": 6.2237
   },
@@ -2331,7 +2267,7 @@
     "city": "Bindlach",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 30.0,
+    "avg_days_open": 30.9,
     "lat": 49.9809,
     "lon": 11.6111
   },
@@ -2339,15 +2275,23 @@
     "city": "Würzburg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 16.3,
+    "avg_days_open": 17.3,
     "lat": 49.7898,
     "lon": 9.9347
+  },
+  {
+    "city": "Norderstedt",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 11.6,
+    "lat": 53.7066,
+    "lon": 10.0029
   },
   {
     "city": "Ettlingen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 45.8,
+    "avg_days_open": 46.8,
     "lat": 48.943,
     "lon": 8.4093
   },
@@ -2355,15 +2299,63 @@
     "city": "Schwäbisch Gmünd",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 10.2,
+    "avg_days_open": 11.1,
     "lat": 48.795,
     "lon": 9.8511
+  },
+  {
+    "city": "Nordlünen",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 32.9,
+    "lat": 51.6293,
+    "lon": 7.523
+  },
+  {
+    "city": "Cracau",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 32.9,
+    "lat": 51.3349,
+    "lon": 6.5713
+  },
+  {
+    "city": "Berge",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 32.9,
+    "lat": 51.6529,
+    "lon": 7.8394
+  },
+  {
+    "city": "Birth",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 32.9,
+    "lat": 51.3343,
+    "lon": 7.0108
+  },
+  {
+    "city": "Borken",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 32.9,
+    "lat": 51.8442,
+    "lon": 6.8551
+  },
+  {
+    "city": "Königsborn",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 32.9,
+    "lat": 51.5345,
+    "lon": 7.6859
   },
   {
     "city": "Hubbelrath",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 85.0,
+    "avg_days_open": 85.9,
     "lat": 51.2578,
     "lon": 6.9079
   },
@@ -2371,7 +2363,7 @@
     "city": "Bingen am Rhein",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 11.3,
+    "avg_days_open": 12.3,
     "lat": 49.969,
     "lon": 7.8957
   },
@@ -2379,7 +2371,7 @@
     "city": "Frauenland",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 103.5,
+    "avg_days_open": 104.5,
     "lat": 49.7866,
     "lon": 9.9469
   },
@@ -2387,7 +2379,7 @@
     "city": "Britz",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.7,
+    "avg_days_open": 3.6,
     "lat": 52.4444,
     "lon": 13.4342
   },
@@ -2395,7 +2387,7 @@
     "city": "Gebersdorf",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 244.3,
+    "avg_days_open": 245.3,
     "lat": 49.4274,
     "lon": 11.0125
   },
@@ -2403,7 +2395,7 @@
     "city": "Ditzingen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 123.5,
+    "avg_days_open": 124.4,
     "lat": 48.8243,
     "lon": 9.0686
   },
@@ -2411,7 +2403,7 @@
     "city": "Künzelsau",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 5.8,
+    "avg_days_open": 6.7,
     "lat": 49.2794,
     "lon": 9.6879
   },
@@ -2419,7 +2411,7 @@
     "city": "Buxtehude",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 32.9,
+    "avg_days_open": 33.8,
     "lat": 53.4768,
     "lon": 9.7034
   },
@@ -2427,23 +2419,15 @@
     "city": "Cottbus",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 4.3,
+    "avg_days_open": 5.2,
     "lat": 51.7615,
     "lon": 14.3518
-  },
-  {
-    "city": "Chemnitz",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 4.3,
-    "lat": 50.8209,
-    "lon": 12.9185
   },
   {
     "city": "Handelshäfen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 36.7,
+    "avg_days_open": 37.7,
     "lat": 53.0962,
     "lon": 8.7732
   },
@@ -2451,7 +2435,7 @@
     "city": "Feilitzsch",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 479.9,
+    "avg_days_open": 480.9,
     "lat": 50.3621,
     "lon": 11.9351
   },
@@ -2459,23 +2443,15 @@
     "city": "Bergheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 27.9,
+    "avg_days_open": 28.8,
     "lat": 50.775,
     "lon": 7.0923
-  },
-  {
-    "city": "Hellerberge",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 26.8,
-    "lat": 51.0997,
-    "lon": 13.7374
   },
   {
     "city": "Augsburg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 4.3,
+    "avg_days_open": 5.2,
     "lat": 48.3571,
     "lon": 10.8938
   },
@@ -2483,7 +2459,7 @@
     "city": "Hörde",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 38.7,
+    "avg_days_open": 39.7,
     "lat": 51.4894,
     "lon": 7.5024
   },
@@ -2491,7 +2467,7 @@
     "city": "Buntekuh",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 62.2,
+    "avg_days_open": 63.1,
     "lat": 53.8613,
     "lon": 10.649
   },
@@ -2499,23 +2475,23 @@
     "city": "Villingen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 68.1,
+    "avg_days_open": 69.1,
     "lat": 48.061,
     "lon": 8.4347
   },
   {
-    "city": "Rölsdorf",
+    "city": "Brühlervorstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 39.3,
-    "lat": 50.7902,
-    "lon": 6.4642
+    "avg_days_open": 0.7,
+    "lat": 50.9714,
+    "lon": 11.0113
   },
   {
     "city": "Golzheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.3,
+    "avg_days_open": 3.2,
     "lat": 51.2435,
     "lon": 6.7722
   },
@@ -2523,31 +2499,39 @@
     "city": "Langenhagen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 26.6,
+    "avg_days_open": 27.6,
     "lat": 52.4473,
     "lon": 9.7396
-  },
-  {
-    "city": "Donauwörth",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 51.9,
-    "lat": 48.7195,
-    "lon": 10.7769
   },
   {
     "city": "Glatten",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 21.9,
+    "avg_days_open": 22.8,
     "lat": 48.4408,
     "lon": 8.5157
+  },
+  {
+    "city": "Landsberg",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 0.6,
+    "lat": 51.5244,
+    "lon": 12.1612
+  },
+  {
+    "city": "Langenfeld (Rheinland)",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 17.8,
+    "lat": 51.1024,
+    "lon": 6.9471
   },
   {
     "city": "Leipzig (Kreis)",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 127.5,
+    "avg_days_open": 128.4,
     "lat": 51.2104,
     "lon": 12.6521
   },
@@ -2555,7 +2539,7 @@
     "city": "Zell am Main",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 30.4,
+    "avg_days_open": 31.3,
     "lat": 49.8141,
     "lon": 9.8779
   },
@@ -2563,103 +2547,47 @@
     "city": "Niedernhall",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 59.9,
+    "avg_days_open": 60.8,
     "lat": 49.295,
     "lon": 9.6159
   },
   {
-    "city": "Cuxhaven",
+    "city": "Rüttenscheid",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 53.8479,
-    "lon": 8.7003
+    "avg_days_open": 76.3,
+    "lat": 51.4334,
+    "lon": 7.0097
   },
   {
-    "city": "Albstadt",
+    "city": "Neuostheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 48.24,
-    "lon": 8.9795
+    "avg_days_open": 157.5,
+    "lat": 49.4686,
+    "lon": 8.5001
   },
   {
-    "city": "Bergisch Gladbach",
+    "city": "Breitenau",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 50.9845,
-    "lon": 7.1435
+    "avg_days_open": 1.1,
+    "lat": 49.3867,
+    "lon": 7.7003
   },
   {
-    "city": "Elmshorn",
+    "city": "Eil",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 53.7553,
-    "lon": 9.6562
-  },
-  {
-    "city": "Aschaffenburg",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 49.9722,
-    "lon": 9.1446
-  },
-  {
-    "city": "Bad Kreuznach",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 49.8587,
-    "lon": 7.8627
-  },
-  {
-    "city": "Dorsten",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 51.6905,
-    "lon": 6.9638
-  },
-  {
-    "city": "Bad Salzuflen",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 52.071,
-    "lon": 8.7562
-  },
-  {
-    "city": "Dessau-Roßlau",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 51.8493,
-    "lon": 12.2322
-  },
-  {
-    "city": "Ahlen",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 51.7688,
-    "lon": 7.9231
-  },
-  {
-    "city": "Euskirchen",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 14.8,
-    "lat": 50.6497,
-    "lon": 6.806
+    "avg_days_open": 13.1,
+    "lat": 50.8947,
+    "lon": 7.0785
   },
   {
     "city": "Schorndorf",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 77.8,
+    "avg_days_open": 78.8,
     "lat": 48.8035,
     "lon": 9.526
   },
@@ -2667,15 +2595,23 @@
     "city": "Sindlingen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 444.6,
+    "avg_days_open": 445.5,
     "lat": 50.084,
     "lon": 8.5154
+  },
+  {
+    "city": "Rothenturm",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 0.3,
+    "lat": 48.736,
+    "lon": 11.4596
   },
   {
     "city": "Ingolstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.7,
+    "avg_days_open": 3.6,
     "lat": 48.7547,
     "lon": 11.4054
   },
@@ -2683,7 +2619,7 @@
     "city": "Winterhude",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 94.8,
+    "avg_days_open": 95.8,
     "lat": 53.6,
     "lon": 10.0135
   },
@@ -2691,55 +2627,31 @@
     "city": "Schöneberg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 656.4,
+    "avg_days_open": 657.4,
     "lat": 52.4921,
     "lon": 13.3404
-  },
-  {
-    "city": "Eilendorf",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 7.3,
-    "lat": 50.7855,
-    "lon": 6.1521
   },
   {
     "city": "Schoppershof",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 8.5,
+    "avg_days_open": 9.5,
     "lat": 49.4586,
     "lon": 11.1005
-  },
-  {
-    "city": "Stuttgart",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 1.2,
-    "lat": 48.7762,
-    "lon": 9.1872
   },
   {
     "city": "Bothfeld",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 985.0,
+    "avg_days_open": 986.0,
     "lat": 52.4167,
     "lon": 9.7986
-  },
-  {
-    "city": "Bockenheim",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 245.6,
-    "lat": 50.1251,
-    "lon": 8.6468
   },
   {
     "city": "Gartenstadt/Stadtweide",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 1070.1,
+    "avg_days_open": 1071.0,
     "lat": 54.0896,
     "lon": 12.0829
   },
@@ -2747,7 +2659,7 @@
     "city": "Beiertheim-Bulach",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 656.4,
+    "avg_days_open": 657.4,
     "lat": 48.9877,
     "lon": 8.3808
   },
@@ -2755,7 +2667,7 @@
     "city": "Betzenhausen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 1070.1,
+    "avg_days_open": 1071.0,
     "lat": 48.0151,
     "lon": 7.8237
   },
@@ -2763,7 +2675,7 @@
     "city": "Büsnau",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.7,
+    "avg_days_open": 15.7,
     "lat": 48.7497,
     "lon": 9.084
   },
@@ -2771,7 +2683,7 @@
     "city": "Süd",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 3.2,
+    "avg_days_open": 4.1,
     "lat": 51.1657,
     "lon": 7.2026
   },
@@ -2779,23 +2691,15 @@
     "city": "Bult",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 12.8,
+    "avg_days_open": 13.7,
     "lat": 52.3649,
     "lon": 9.7722
-  },
-  {
-    "city": "Hamburg-Altstadt",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 12.8,
-    "lat": 53.5504,
-    "lon": 9.9942
   },
   {
     "city": "Altona-Altstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 19.9,
+    "avg_days_open": 20.8,
     "lat": 53.5488,
     "lon": 9.9477
   },
@@ -2803,63 +2707,47 @@
     "city": "Monheim am Rhein",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 56.7,
+    "avg_days_open": 57.7,
     "lat": 51.0919,
     "lon": 6.8888
   },
   {
-    "city": "Nürnberg",
+    "city": "Bochum",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 31.7,
-    "lat": 49.444,
-    "lon": 11.0836
+    "avg_days_open": 95.8,
+    "lat": 51.477,
+    "lon": 7.2116
   },
   {
     "city": "Worms",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 3.7,
+    "avg_days_open": 4.6,
     "lat": 49.6436,
     "lon": 8.323
-  },
-  {
-    "city": "Moabit",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 0.7,
-    "lat": 52.5245,
-    "lon": 13.3495
-  },
-  {
-    "city": "Arlinger",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 8.9,
-    "lat": 48.8865,
-    "lon": 8.6574
   },
   {
     "city": "Bremerhaven",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.4,
+    "avg_days_open": 3.4,
     "lat": 53.549,
     "lon": 8.5951
   },
   {
-    "city": "Holzwickede",
+    "city": "Melsungen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 3.6,
-    "lat": 51.5015,
-    "lon": 7.6181
+    "avg_days_open": 1.0,
+    "lat": 51.1297,
+    "lon": 9.5412
   },
   {
     "city": "Ober-Ramstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 46.4,
+    "avg_days_open": 47.3,
     "lat": 49.8261,
     "lon": 8.7491
   },
@@ -2867,7 +2755,7 @@
     "city": "Pforzheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 8.8,
+    "avg_days_open": 9.8,
     "lat": 48.8836,
     "lon": 8.6974
   },
@@ -2875,7 +2763,7 @@
     "city": "Hellern",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.8,
+    "avg_days_open": 15.7,
     "lat": 52.2548,
     "lon": 7.9902
   },
@@ -2883,7 +2771,7 @@
     "city": "Papenburg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 34.2,
+    "avg_days_open": 35.1,
     "lat": 53.0782,
     "lon": 7.3933
   },
@@ -2891,7 +2779,7 @@
     "city": "Lochmühle",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 59.8,
+    "avg_days_open": 60.7,
     "lat": 49.8459,
     "lon": 7.8602
   },
@@ -2899,7 +2787,7 @@
     "city": "Deutz",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 133.5,
+    "avg_days_open": 134.5,
     "lat": 50.937,
     "lon": 6.9779
   },
@@ -2907,47 +2795,31 @@
     "city": "Neckargartach",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 0.7,
+    "avg_days_open": 1.7,
     "lat": 49.1683,
     "lon": 9.1977
-  },
-  {
-    "city": "Flugfeld",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 3.8,
-    "lat": 48.6893,
-    "lon": 8.991
   },
   {
     "city": "Steinhagen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 44.4,
+    "avg_days_open": 45.4,
     "lat": 52.0048,
     "lon": 8.415
   },
   {
-    "city": "Böckingen",
+    "city": "Flugfeld",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 9.7,
-    "lat": 49.1416,
-    "lon": 9.2221
-  },
-  {
-    "city": "Herdecke",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 3.8,
-    "lat": 51.3999,
-    "lon": 7.431
+    "avg_days_open": 4.4,
+    "lat": 48.6893,
+    "lon": 8.991
   },
   {
     "city": "Langen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 3.6,
+    "avg_days_open": 4.6,
     "lat": 53.6054,
     "lon": 8.5948
   },
@@ -2955,7 +2827,7 @@
     "city": "Ahlem",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 73.9,
+    "avg_days_open": 74.9,
     "lat": 52.3782,
     "lon": 9.6638
   },
@@ -2963,119 +2835,127 @@
     "city": "St. Wolfgang",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 73.9,
+    "avg_days_open": 74.9,
     "lat": 48.2208,
     "lon": 12.1356
   },
   {
-    "city": "Ennepetal",
+    "city": "Böckingen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 47.7,
-    "lat": 51.2991,
-    "lon": 7.3642
+    "avg_days_open": 10.8,
+    "lat": 49.1416,
+    "lon": 9.2221
   },
   {
-    "city": "Neuss",
+    "city": "Herdecke",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.7,
-    "lat": 51.1751,
-    "lon": 6.6848
+    "avg_days_open": 5.8,
+    "lat": 51.3999,
+    "lon": 7.431
   },
   {
     "city": "Laim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 43.9,
+    "avg_days_open": 44.8,
     "lat": 48.1353,
     "lon": 11.5028
-  },
-  {
-    "city": "Ismaning",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 9.7,
-    "lat": 48.2273,
-    "lon": 11.6762
   },
   {
     "city": "Bahnhofsvorstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 17.9,
+    "avg_days_open": 18.9,
     "lat": 53.0935,
     "lon": 8.8113
+  },
+  {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 15.5,
+    "lat": 49.0012,
+    "lon": 8.4124
   },
   {
     "city": "Aschheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 14.5,
+    "avg_days_open": 15.5,
     "lat": 48.1711,
     "lon": 11.7167
+  },
+  {
+    "city": "Donauwörth",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 27.4,
+    "lat": 48.7195,
+    "lon": 10.7769
+  },
+  {
+    "city": "Heilbronn",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 11.8,
+    "lat": 49.1423,
+    "lon": 9.2099
   },
   {
     "city": "Reitmehring",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 23.7,
+    "avg_days_open": 5.6,
     "lat": 48.0567,
     "lon": 12.1867
-  },
-  {
-    "city": "Kürenz",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 45.7,
-    "lat": 49.7405,
-    "lon": 6.6093
   },
   {
     "city": "Geretsried",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 38.9,
+    "avg_days_open": 39.9,
     "lat": 47.859,
     "lon": 11.4812
+  },
+  {
+    "city": "Kürenz",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 55.8,
+    "lat": 49.7405,
+    "lon": 6.6093
   },
   {
     "city": "Wasserburg am Inn",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 24.7,
+    "avg_days_open": 25.6,
     "lat": 48.0605,
     "lon": 12.2305
   },
   {
-    "city": "Tündern",
+    "city": "Innenstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.7,
-    "lat": 52.0466,
-    "lon": 9.3824
+    "avg_days_open": 10.8,
+    "lat": 49.0134,
+    "lon": 8.3898
   },
   {
     "city": "Bühl",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 37.7,
+    "avg_days_open": 5.6,
     "lat": 48.6975,
     "lon": 8.1372
-  },
-  {
-    "city": "Tuttlingen",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 2.7,
-    "lat": 47.9894,
-    "lon": 8.7996
   },
   {
     "city": "Dortmund",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 33.9,
+    "avg_days_open": 34.8,
     "lat": 51.505,
     "lon": 7.465
   },
@@ -3083,7 +2963,7 @@
     "city": "Bielefeld",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 28.9,
+    "avg_days_open": 29.9,
     "lat": 52.0212,
     "lon": 8.5433
   },
@@ -3091,7 +2971,7 @@
     "city": "Weinstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 39.4,
+    "avg_days_open": 40.4,
     "lat": 48.8111,
     "lon": 9.3706
   },
@@ -3099,7 +2979,7 @@
     "city": "Paderborn",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 5.1,
+    "avg_days_open": 6.0,
     "lat": 51.7371,
     "lon": 8.7538
   },
@@ -3107,15 +2987,31 @@
     "city": "Rottendorf",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 23.4,
+    "avg_days_open": 24.4,
     "lat": 49.7905,
     "lon": 10.0268
+  },
+  {
+    "city": "Neumünster",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 74.4,
+    "lat": 54.0648,
+    "lon": 9.9661
+  },
+  {
+    "city": "Frechen",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 14.9,
+    "lat": 50.91,
+    "lon": 6.8153
   },
   {
     "city": "Halberstadt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 23.9,
+    "avg_days_open": 24.9,
     "lat": 51.8917,
     "lon": 11.0475
   },
@@ -3123,7 +3019,7 @@
     "city": "Alfeld (Leine)",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 11.7,
+    "avg_days_open": 5.6,
     "lat": 51.9843,
     "lon": 9.8244
   },
@@ -3131,7 +3027,7 @@
     "city": "Michelau in Oberfranken",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 4.3,
+    "avg_days_open": 5.3,
     "lat": 49.9066,
     "lon": 10.4301
   },
@@ -3139,23 +3035,15 @@
     "city": "Griesheim",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 12.7,
+    "avg_days_open": 13.6,
     "lat": 50.1002,
     "lon": 8.6034
-  },
-  {
-    "city": "Taufkirchen",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 3.6,
-    "lat": 48.1488,
-    "lon": 12.4561
   },
   {
     "city": "Bamberg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 11.5,
+    "avg_days_open": 12.4,
     "lat": 49.898,
     "lon": 10.8849
   },
@@ -3163,55 +3051,31 @@
     "city": "Magdeburg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 11.5,
+    "avg_days_open": 12.4,
     "lat": 52.1259,
     "lon": 11.6387
   },
   {
-    "city": "Bergkirchen",
+    "city": "Garching bei München",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 12.7,
-    "lat": 48.2542,
-    "lon": 11.3646
-  },
-  {
-    "city": "HafenCity",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 2.9,
-    "lat": 53.5417,
-    "lon": 9.9933
-  },
-  {
-    "city": "Barleben",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 12.8,
-    "lat": 52.2057,
-    "lon": 11.6188
+    "avg_days_open": 4.9,
+    "lat": 48.2488,
+    "lon": 11.6511
   },
   {
     "city": "Bünde",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.8,
+    "avg_days_open": 3.8,
     "lat": 52.1958,
     "lon": 8.5816
-  },
-  {
-    "city": "Schweinfurt",
-    "country": "Germany",
-    "count": 1,
-    "avg_days_open": 61.7,
-    "lat": 50.0462,
-    "lon": 10.2303
   },
   {
     "city": "Auerbach/Vogtland",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 3.8,
+    "avg_days_open": 4.8,
     "lat": 50.5088,
     "lon": 12.3977
   },
@@ -3219,7 +3083,7 @@
     "city": "Rudersdorf",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 89.1,
+    "avg_days_open": 90.0,
     "lat": 51.1052,
     "lon": 11.4549
   },
@@ -3227,7 +3091,7 @@
     "city": "Lüneburg",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 10.5,
+    "avg_days_open": 11.4,
     "lat": 53.2425,
     "lon": 10.4063
   },
@@ -3235,7 +3099,7 @@
     "city": "Calbe (Saale)",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 4.3,
+    "avg_days_open": 5.3,
     "lat": 51.9048,
     "lon": 11.7712
   },
@@ -3243,15 +3107,23 @@
     "city": "Mühldorf am Inn",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.8,
+    "avg_days_open": 3.8,
     "lat": 48.2389,
     "lon": 12.5277
+  },
+  {
+    "city": "Freiburg im Breisgau",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 19.2,
+    "lat": 47.9995,
+    "lon": 7.8163
   },
   {
     "city": "Denzlingen",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 1.6,
+    "avg_days_open": 2.5,
     "lat": 48.0647,
     "lon": 7.8917
   },
@@ -3259,7 +3131,7 @@
     "city": "Markranstädt",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 13.7,
+    "avg_days_open": 14.7,
     "lat": 51.3017,
     "lon": 12.2209
   },
@@ -3267,7 +3139,7 @@
     "city": "Sendling",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 76.4,
+    "avg_days_open": 77.3,
     "lat": 48.1199,
     "lon": 11.5406
   },
@@ -3275,7 +3147,7 @@
     "city": "Nordenham",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 56.8,
+    "avg_days_open": 57.7,
     "lat": 53.4848,
     "lon": 8.475
   },
@@ -3283,15 +3155,23 @@
     "city": "Hochhalden",
     "country": "Germany",
     "count": 1,
-    "avg_days_open": 2.9,
+    "avg_days_open": 3.9,
     "lat": 48.1361,
     "lon": 8.6281
+  },
+  {
+    "city": "Solingen",
+    "country": "Germany",
+    "count": 1,
+    "avg_days_open": 16.4,
+    "lat": 51.168,
+    "lon": 7.0653
   },
   {
     "city": "Kronstorf",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 10.0,
+    "avg_days_open": 10.9,
     "lat": 48.1396,
     "lon": 14.4585
   },
@@ -3299,31 +3179,31 @@
     "city": "Gramastetten",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 29.8,
+    "avg_days_open": 30.7,
     "lat": 48.374,
     "lon": 14.1902
-  },
-  {
-    "city": "Klagenfurt",
-    "country": "Austria",
-    "count": 1,
-    "avg_days_open": 6.2,
-    "lat": 46.627,
-    "lon": 14.3111
   },
   {
     "city": "Pörtschach am Wörther See",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 1.8,
+    "avg_days_open": 2.7,
     "lat": 46.6437,
     "lon": 14.1733
+  },
+  {
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 0.1,
+    "lat": 46.627,
+    "lon": 14.3111
   },
   {
     "city": "Fünfhaus",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 18.2,
+    "avg_days_open": 19.2,
     "lat": 48.1959,
     "lon": 16.3273
   },
@@ -3331,7 +3211,7 @@
     "city": "Lustenau",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 3.8,
+    "avg_days_open": 4.7,
     "lat": 47.4477,
     "lon": 9.6702
   },
@@ -3339,7 +3219,7 @@
     "city": "Floridsdorf",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 30.8,
+    "avg_days_open": 31.7,
     "lat": 48.2814,
     "lon": 16.3906
   },
@@ -3347,7 +3227,7 @@
     "city": "Mariahilf",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 17.5,
+    "avg_days_open": 18.5,
     "lat": 48.1949,
     "lon": 16.35
   },
@@ -3355,23 +3235,39 @@
     "city": "Baden",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 2.7,
+    "avg_days_open": 3.7,
     "lat": 48.0036,
     "lon": 16.2367
+  },
+  {
+    "city": "Lieboch",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 0.7,
+    "lat": 46.9826,
+    "lon": 15.3571
   },
   {
     "city": "Nenzing",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 34.2,
+    "avg_days_open": 35.1,
     "lat": 47.1746,
     "lon": 9.6565
+  },
+  {
+    "city": "Niederndorf",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 0.8,
+    "lat": 47.6514,
+    "lon": 12.2142
   },
   {
     "city": "Bregenz",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 26.5,
+    "avg_days_open": 27.4,
     "lat": 47.4315,
     "lon": 9.8807
   },
@@ -3379,31 +3275,15 @@
     "city": "Telfs",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 3.2,
+    "avg_days_open": 4.1,
     "lat": 47.3204,
     "lon": 11.1012
-  },
-  {
-    "city": "Rankweil",
-    "country": "Austria",
-    "count": 1,
-    "avg_days_open": 1.2,
-    "lat": 47.2763,
-    "lon": 9.6302
-  },
-  {
-    "city": "Mutters",
-    "country": "Austria",
-    "count": 1,
-    "avg_days_open": 8.9,
-    "lat": 47.2218,
-    "lon": 11.3885
   },
   {
     "city": "Sieghartskirchen",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 96.0,
+    "avg_days_open": 97.0,
     "lat": 48.2497,
     "lon": 16.0201
   },
@@ -3411,23 +3291,31 @@
     "city": "St. Ulrich bei Steyr",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 22.8,
+    "avg_days_open": 23.7,
     "lat": 48.0105,
     "lon": 14.4461
   },
   {
-    "city": "Spittal an der Drau",
+    "city": "Wernberg",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 6.2,
-    "lat": 46.7745,
-    "lon": 13.5546
+    "avg_days_open": 9.0,
+    "lat": 46.6172,
+    "lon": 13.963
+  },
+  {
+    "city": "Wals-Siezenheim",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 0.8,
+    "lat": 47.7943,
+    "lon": 12.9771
   },
   {
     "city": "Frauenkirchen",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 26.9,
+    "avg_days_open": 27.8,
     "lat": 47.822,
     "lon": 16.8949
   },
@@ -3435,15 +3323,23 @@
     "city": "Regau",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 10.8,
+    "avg_days_open": 11.7,
     "lat": 47.9743,
     "lon": 13.7007
+  },
+  {
+    "city": "Kufstein",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 0.7,
+    "lat": 47.5651,
+    "lon": 12.2173
   },
   {
     "city": "Gosau",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 4.5,
+    "avg_days_open": 5.4,
     "lat": 47.5863,
     "lon": 13.5421
   },
@@ -3451,7 +3347,7 @@
     "city": "Haag am Hausruck",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 144.1,
+    "avg_days_open": 145.1,
     "lat": 48.19,
     "lon": 13.6424
   },
@@ -3459,15 +3355,23 @@
     "city": "Purkersdorf",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 3.8,
+    "avg_days_open": 4.7,
     "lat": 48.22,
     "lon": 16.2274
+  },
+  {
+    "city": "Donaustadt",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 61.9,
+    "lat": 48.2313,
+    "lon": 16.4713
   },
   {
     "city": "Rauchenwarth",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 81.8,
+    "avg_days_open": 82.8,
     "lat": 48.0818,
     "lon": 16.5286
   },
@@ -3475,7 +3379,7 @@
     "city": "Inzersdorf-Getzersdorf",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 18.0,
+    "avg_days_open": 18.9,
     "lat": 48.3173,
     "lon": 15.6798
   },
@@ -3483,7 +3387,7 @@
     "city": "Hall in Tirol",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 47.2,
+    "avg_days_open": 48.1,
     "lat": 47.2819,
     "lon": 11.5062
   },
@@ -3491,7 +3395,7 @@
     "city": "Schwarzach",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 4.3,
+    "avg_days_open": 5.3,
     "lat": 47.4163,
     "lon": 9.7777
   },
@@ -3499,7 +3403,7 @@
     "city": "Braunau am Inn",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 92.4,
+    "avg_days_open": 93.4,
     "lat": 48.124,
     "lon": 13.0774
   },
@@ -3507,7 +3411,7 @@
     "city": "Schrems",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 33.0,
+    "avg_days_open": 33.9,
     "lat": 48.7956,
     "lon": 15.0687
   },
@@ -3515,31 +3419,39 @@
     "city": "Klaus",
     "country": "Austria",
     "count": 1,
-    "avg_days_open": 32.8,
+    "avg_days_open": 33.7,
     "lat": 47.3096,
     "lon": 9.6418
+  },
+  {
+    "city": "Raaba-Grambach",
+    "country": "Austria",
+    "count": 1,
+    "avg_days_open": 0.2,
+    "lat": 47.0257,
+    "lon": 15.5148
   },
   {
     "city": "Ermatingen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 17.4,
+    "avg_days_open": 18.3,
     "lat": 47.6693,
     "lon": 9.0798
   },
   {
-    "city": "Bremgarten bei Bern",
+    "city": "Hettlingen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 15.9,
-    "lat": 46.9711,
-    "lon": 7.4445
+    "avg_days_open": 27.3,
+    "lat": 47.5471,
+    "lon": 8.7088
   },
   {
     "city": "Zermatt",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 12.4,
+    "avg_days_open": 13.3,
     "lat": 46.0193,
     "lon": 7.746
   },
@@ -3547,7 +3459,7 @@
     "city": "Chêne-Bougeries",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 84.4,
+    "avg_days_open": 85.4,
     "lat": 46.1983,
     "lon": 6.166
   },
@@ -3555,31 +3467,15 @@
     "city": "Jouxtens-Mézery",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 24.0,
+    "avg_days_open": 24.9,
     "lat": 46.5555,
     "lon": 6.5933
-  },
-  {
-    "city": "Prilly",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 24.0,
-    "lat": 46.5341,
-    "lon": 6.6062
-  },
-  {
-    "city": "Sissach",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 12.0,
-    "lat": 47.4642,
-    "lon": 7.8116
   },
   {
     "city": "Sitten",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 14.0,
+    "avg_days_open": 14.9,
     "lat": null,
     "lon": null
   },
@@ -3587,7 +3483,7 @@
     "city": "Lindau",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 4.9,
+    "avg_days_open": 5.8,
     "lat": 47.4304,
     "lon": 8.6719
   },
@@ -3595,7 +3491,7 @@
     "city": "Port-Valais",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 9.0,
+    "avg_days_open": 9.9,
     "lat": 46.3625,
     "lon": 6.877
   },
@@ -3603,23 +3499,23 @@
     "city": "Ennetbürgen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 13.0,
+    "avg_days_open": 13.9,
     "lat": 46.9845,
     "lon": 8.4139
   },
   {
-    "city": "Bubendorf",
+    "city": "Kanton Neuenburg",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 5.0,
-    "lat": 47.4509,
-    "lon": 7.7364
+    "avg_days_open": -0.1,
+    "lat": null,
+    "lon": null
   },
   {
     "city": "Wollerau",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 37.0,
+    "avg_days_open": 37.9,
     "lat": 47.1957,
     "lon": 8.7195
   },
@@ -3627,15 +3523,23 @@
     "city": "Satigny",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 0.0,
+    "avg_days_open": 0.9,
     "lat": 46.2145,
     "lon": 6.0325
+  },
+  {
+    "city": "Zizers",
+    "country": "Switzerland",
+    "count": 1,
+    "avg_days_open": 9.9,
+    "lat": 46.9368,
+    "lon": 9.5658
   },
   {
     "city": "Schlieren",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 7.1,
+    "avg_days_open": 8.0,
     "lat": 47.3962,
     "lon": 8.4481
   },
@@ -3643,23 +3547,31 @@
     "city": "Eysins",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 3.0,
+    "avg_days_open": 3.9,
     "lat": 46.3818,
     "lon": 6.2084
   },
   {
-    "city": "Risch",
+    "city": "Sankt Moritz",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 32.4,
-    "lat": 47.1418,
-    "lon": 8.4529
+    "avg_days_open": -0.1,
+    "lat": 46.4971,
+    "lon": 9.8385
+  },
+  {
+    "city": "Opfikon",
+    "country": "Switzerland",
+    "count": 1,
+    "avg_days_open": 2.9,
+    "lat": 47.4342,
+    "lon": 8.5653
   },
   {
     "city": "Birr",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 24.4,
+    "avg_days_open": 25.3,
     "lat": 47.437,
     "lon": 8.2018
   },
@@ -3667,7 +3579,7 @@
     "city": "Kaiseraugst",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 0.9,
+    "avg_days_open": 1.9,
     "lat": 47.5395,
     "lon": 7.7218
   },
@@ -3675,7 +3587,7 @@
     "city": "Renens",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 7.9,
+    "avg_days_open": 8.8,
     "lat": 46.5425,
     "lon": 6.5813
   },
@@ -3683,7 +3595,7 @@
     "city": "Paradiso",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 16.9,
+    "avg_days_open": 17.9,
     "lat": 45.9875,
     "lon": 8.9454
   },
@@ -3691,7 +3603,7 @@
     "city": "Carouge",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 39.4,
+    "avg_days_open": 40.4,
     "lat": 46.1857,
     "lon": 6.1403
   },
@@ -3699,7 +3611,7 @@
     "city": "Kanton Luzern",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 87.0,
+    "avg_days_open": 87.9,
     "lat": null,
     "lon": null
   },
@@ -3707,7 +3619,7 @@
     "city": "Allmendingen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 25.4,
+    "avg_days_open": 26.3,
     "lat": 46.9323,
     "lon": 7.5086
   },
@@ -3715,7 +3627,7 @@
     "city": "Vernayaz",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 2.9,
+    "avg_days_open": 3.8,
     "lat": 46.1255,
     "lon": 7.0384
   },
@@ -3723,7 +3635,7 @@
     "city": "Freienbach",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 9.9,
+    "avg_days_open": 10.8,
     "lat": 47.2015,
     "lon": 8.7791
   },
@@ -3731,47 +3643,39 @@
     "city": "Wil",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 51.4,
+    "avg_days_open": 52.4,
     "lat": 47.4783,
     "lon": 9.0353
-  },
-  {
-    "city": "Pratteln",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 13.9,
-    "lat": 47.5183,
-    "lon": 7.6951
   },
   {
     "city": "Teufen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 3.9,
+    "avg_days_open": 4.8,
     "lat": 47.424,
     "lon": 9.3736
+  },
+  {
+    "city": "Reinach",
+    "country": "Switzerland",
+    "count": 1,
+    "avg_days_open": 34.9,
+    "lat": 47.254,
+    "lon": 8.1835
   },
   {
     "city": "Ittigen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 38.0,
+    "avg_days_open": 38.9,
     "lat": 46.9746,
     "lon": 7.4846
-  },
-  {
-    "city": "Thalwil",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 10.9,
-    "lat": 47.2944,
-    "lon": 8.5634
   },
   {
     "city": "Spiez",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 9.9,
+    "avg_days_open": 10.8,
     "lat": 46.685,
     "lon": 7.6842
   },
@@ -3779,63 +3683,55 @@
     "city": "Steinhausen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 3.9,
+    "avg_days_open": 4.8,
     "lat": 47.197,
     "lon": 8.4853
-  },
-  {
-    "city": "Mont-sur-Rolle",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 3.9,
-    "lat": 46.4735,
-    "lon": 6.3191
   },
   {
     "city": "Oberkirch",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 6.0,
+    "avg_days_open": 6.9,
     "lat": 47.1583,
     "lon": 8.1155
   },
   {
-    "city": "Sursee",
+    "city": "Stäfa",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 17.0,
-    "lat": 47.1726,
-    "lon": 8.1097
+    "avg_days_open": -0.1,
+    "lat": 47.2413,
+    "lon": 8.7238
   },
   {
     "city": "Safenwil",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 26.0,
+    "avg_days_open": 26.9,
     "lat": 47.3194,
     "lon": 7.9842
-  },
-  {
-    "city": "Sempach",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 9.0,
-    "lat": 47.1342,
-    "lon": 8.1932
   },
   {
     "city": "Büron",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 0.0,
+    "avg_days_open": 0.9,
     "lat": 47.2139,
     "lon": 8.0942
+  },
+  {
+    "city": "Langenthal",
+    "country": "Switzerland",
+    "count": 1,
+    "avg_days_open": -0.1,
+    "lat": 47.2133,
+    "lon": 7.7852
   },
   {
     "city": "Horgen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 3.0,
+    "avg_days_open": 3.9,
     "lat": 47.2596,
     "lon": 8.5976
   },
@@ -3843,7 +3739,7 @@
     "city": "Hitzkirch",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 66.0,
+    "avg_days_open": 66.9,
     "lat": 47.225,
     "lon": 8.264
   },
@@ -3851,39 +3747,31 @@
     "city": "Fällanden",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 11.9,
+    "avg_days_open": 12.8,
     "lat": 47.3714,
     "lon": 8.6397
   },
   {
-    "city": "Kanton Neuenburg",
+    "city": "Romanshorn",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 30.0,
-    "lat": null,
-    "lon": null
+    "avg_days_open": 18.7,
+    "lat": 47.5657,
+    "lon": 9.3773
   },
   {
     "city": "La Tène",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 10.9,
+    "avg_days_open": 11.8,
     "lat": 47.0101,
     "lon": 7.0169
-  },
-  {
-    "city": "Lausen",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 6.9,
-    "lat": 47.4714,
-    "lon": 7.7594
   },
   {
     "city": "Wohlen",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 26.0,
+    "avg_days_open": 26.9,
     "lat": 47.3514,
     "lon": 8.2739
   },
@@ -3891,39 +3779,39 @@
     "city": "Chippis",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 7.0,
+    "avg_days_open": 7.9,
     "lat": 46.27,
     "lon": 7.5526
-  },
-  {
-    "city": "Siders",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 9.0,
-    "lat": null,
-    "lon": null
-  },
-  {
-    "city": "Develier",
-    "country": "Switzerland",
-    "count": 1,
-    "avg_days_open": 159.5,
-    "lat": 47.3566,
-    "lon": 7.2946
   },
   {
     "city": "Ammerswil",
     "country": "Switzerland",
     "count": 1,
-    "avg_days_open": 2.9,
+    "avg_days_open": 3.9,
     "lat": 47.3715,
     "lon": 8.2087
+  },
+  {
+    "city": "Sennwald",
+    "country": "Switzerland",
+    "count": 1,
+    "avg_days_open": 6.8,
+    "lat": 47.2122,
+    "lon": 9.4938
+  },
+  {
+    "city": "Katwijk aan Zee",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 46.7,
+    "lat": 52.2058,
+    "lon": 4.4013
   },
   {
     "city": "Oldenzaal",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 4.1,
+    "avg_days_open": 5.1,
     "lat": 52.3191,
     "lon": 6.9011
   },
@@ -3931,7 +3819,7 @@
     "city": "Sassenheim",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 7.2,
+    "avg_days_open": 8.1,
     "lat": 52.2232,
     "lon": 4.5345
   },
@@ -3939,7 +3827,7 @@
     "city": "Sittard-Geleen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 35.7,
+    "avg_days_open": 36.7,
     "lat": 51.0067,
     "lon": 5.8224
   },
@@ -3947,7 +3835,7 @@
     "city": "Geleen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 28.2,
+    "avg_days_open": 29.1,
     "lat": 50.9585,
     "lon": 5.824
   },
@@ -3955,7 +3843,7 @@
     "city": "Sevenum",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 18.2,
+    "avg_days_open": 19.2,
     "lat": 51.4134,
     "lon": 6.0452
   },
@@ -3963,7 +3851,7 @@
     "city": "Breukelen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 13.5,
+    "avg_days_open": 14.4,
     "lat": 52.1749,
     "lon": 5.0009
   },
@@ -3971,7 +3859,7 @@
     "city": "Schollevaar-Noord",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 256.4,
+    "avg_days_open": 257.4,
     "lat": 51.9618,
     "lon": 4.5856
   },
@@ -3979,7 +3867,7 @@
     "city": "Stationsbuurt",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 64.8,
+    "avg_days_open": 65.7,
     "lat": 52.0791,
     "lon": 4.3211
   },
@@ -3987,7 +3875,7 @@
     "city": "Wanssum",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 88.6,
+    "avg_days_open": 89.6,
     "lat": 51.5489,
     "lon": 6.0941
   },
@@ -3995,7 +3883,7 @@
     "city": "Kattenbroek",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 67.5,
+    "avg_days_open": 68.5,
     "lat": 52.1958,
     "lon": 5.3916
   },
@@ -4003,15 +3891,31 @@
     "city": "Oosterbeek",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 163.4,
+    "avg_days_open": 164.3,
     "lat": 51.9839,
     "lon": 5.8735
+  },
+  {
+    "city": "Nijeveen",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 0.3,
+    "lat": 52.6923,
+    "lon": 6.1767
+  },
+  {
+    "city": "Kootstertille",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 4.1,
+    "lat": 53.2165,
+    "lon": 6.1013
   },
   {
     "city": "Ridderkerk",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 17.0,
+    "avg_days_open": 17.9,
     "lat": 51.856,
     "lon": 4.6208
   },
@@ -4019,7 +3923,7 @@
     "city": "Vianen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 13.8,
+    "avg_days_open": 14.8,
     "lat": 51.975,
     "lon": 5.0812
   },
@@ -4027,31 +3931,55 @@
     "city": "Diemen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 17.3,
+    "avg_days_open": 18.3,
     "lat": 52.3469,
     "lon": 4.9853
   },
   {
-    "city": "Oppenhuizen",
+    "city": "Beekbergen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 0.3,
-    "lat": 53.0255,
-    "lon": 5.6797
+    "avg_days_open": 24.8,
+    "lat": 52.1756,
+    "lon": 5.9716
   },
   {
-    "city": "Alkmaar",
+    "city": "Vlaardingen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 89.5,
-    "lat": 52.6724,
-    "lon": 4.7741
+    "avg_days_open": 7.9,
+    "lat": 51.9195,
+    "lon": 4.3317
+  },
+  {
+    "city": "Zuidplas",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 18.8,
+    "lat": 52.0013,
+    "lon": 4.6095
+  },
+  {
+    "city": "Den Helder",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 3.8,
+    "lat": 52.8919,
+    "lon": 4.7434
+  },
+  {
+    "city": "Venray",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 2.2,
+    "lat": 51.5323,
+    "lon": 5.9683
   },
   {
     "city": "Luinjeberd",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 33.5,
+    "avg_days_open": 34.4,
     "lat": 52.9709,
     "lon": 5.9366
   },
@@ -4059,7 +3987,7 @@
     "city": "Oosteind",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 571.6,
+    "avg_days_open": 572.6,
     "lat": 51.6395,
     "lon": 4.8629
   },
@@ -4067,7 +3995,7 @@
     "city": "Venlo",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.7,
     "lat": 51.3761,
     "lon": 6.1594
   },
@@ -4075,7 +4003,7 @@
     "city": "Hardinxveld-Giessendam",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.7,
     "lat": 51.843,
     "lon": 4.8239
   },
@@ -4083,7 +4011,7 @@
     "city": "Groot-Ammers",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 0.3,
+    "avg_days_open": 1.3,
     "lat": 51.9357,
     "lon": 4.8453
   },
@@ -4091,7 +4019,7 @@
     "city": "Son",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 299.4,
+    "avg_days_open": 300.4,
     "lat": 51.5009,
     "lon": 5.4667
   },
@@ -4099,63 +4027,15 @@
     "city": "Vlodrop",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 6.2,
+    "avg_days_open": 7.1,
     "lat": 51.1383,
     "lon": 6.1072
-  },
-  {
-    "city": "Born",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 2.2,
-    "lat": 51.0324,
-    "lon": 5.8173
-  },
-  {
-    "city": "Moerkapelle",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 106.3,
-    "lat": 52.0369,
-    "lon": 4.5774
-  },
-  {
-    "city": "Bruchem",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 113.8,
-    "lat": 51.7955,
-    "lon": 5.2547
-  },
-  {
-    "city": "Krimpen aan den IJssel",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 3.7,
-    "lat": 51.9089,
-    "lon": 4.6096
-  },
-  {
-    "city": "Spoorwijk",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 32.7,
-    "lat": 52.0352,
-    "lon": 4.3267
-  },
-  {
-    "city": "Eemshaven",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 5.0,
-    "lat": 53.4368,
-    "lon": 6.8604
   },
   {
     "city": "Hoorn",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 23.4,
+    "avg_days_open": 24.3,
     "lat": 52.6577,
     "lon": 5.1095
   },
@@ -4163,7 +4043,7 @@
     "city": "Stadskern",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 36.7,
+    "avg_days_open": 37.7,
     "lat": 52.1562,
     "lon": 5.3869
   },
@@ -4171,7 +4051,7 @@
     "city": "Drogteropslagen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 18.4,
+    "avg_days_open": 19.4,
     "lat": 52.606,
     "lon": 6.4868
   },
@@ -4179,7 +4059,7 @@
     "city": "Zuid-Holland",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 498.0,
+    "avg_days_open": 498.9,
     "lat": 51.9596,
     "lon": 4.5316
   },
@@ -4187,7 +4067,7 @@
     "city": "'s-Gravendeel",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 43.7,
+    "avg_days_open": 44.7,
     "lat": 51.7774,
     "lon": 4.6381
   },
@@ -4195,7 +4075,7 @@
     "city": "Woerden",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 0.4,
+    "avg_days_open": 1.3,
     "lat": 52.085,
     "lon": 4.8709
   },
@@ -4203,7 +4083,7 @@
     "city": "Spangen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 74.8,
+    "avg_days_open": 75.7,
     "lat": 51.9236,
     "lon": 4.433
   },
@@ -4211,7 +4091,7 @@
     "city": "Kinderdijk",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 31.7,
+    "avg_days_open": 32.7,
     "lat": 51.8856,
     "lon": 4.6311
   },
@@ -4219,7 +4099,7 @@
     "city": "Odijk",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 2.7,
+    "avg_days_open": 3.7,
     "lat": 52.0549,
     "lon": 5.2246
   },
@@ -4227,15 +4107,23 @@
     "city": "Oude Westen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 128.3,
+    "avg_days_open": 129.2,
     "lat": 51.916,
     "lon": 4.4718
+  },
+  {
+    "city": "Spoorwijk",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 5.7,
+    "lat": 52.0352,
+    "lon": 4.3267
   },
   {
     "city": "Delfzijl",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 4.0,
+    "avg_days_open": 4.9,
     "lat": 53.3252,
     "lon": 6.9171
   },
@@ -4243,7 +4131,7 @@
     "city": "Zeeland",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 43.3,
+    "avg_days_open": 44.2,
     "lat": 51.4678,
     "lon": 3.8415
   },
@@ -4251,7 +4139,7 @@
     "city": "Valkenburg",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 38.1,
+    "avg_days_open": 39.0,
     "lat": 50.8598,
     "lon": 5.8365
   },
@@ -4259,7 +4147,7 @@
     "city": "Wijnbergen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 32.4,
+    "avg_days_open": 33.4,
     "lat": 51.9452,
     "lon": 6.28
   },
@@ -4267,7 +4155,7 @@
     "city": "Driebergen-Rijsenburg",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 12.2,
+    "avg_days_open": 13.1,
     "lat": 52.0709,
     "lon": 5.2594
   },
@@ -4275,7 +4163,7 @@
     "city": "Hoevelaken",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 66.0,
+    "avg_days_open": 66.9,
     "lat": 52.1745,
     "lon": 5.4706
   },
@@ -4283,7 +4171,7 @@
     "city": "Provincie Utrecht",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 98.3,
+    "avg_days_open": 99.3,
     "lat": 52.1186,
     "lon": 5.2097
   },
@@ -4291,7 +4179,7 @@
     "city": "Raalte",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 30.7,
+    "avg_days_open": 31.7,
     "lat": 52.3974,
     "lon": 6.2767
   },
@@ -4299,7 +4187,7 @@
     "city": "Rubroek",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 11.7,
+    "avg_days_open": 12.7,
     "lat": 51.9239,
     "lon": 4.4917
   },
@@ -4307,7 +4195,7 @@
     "city": "Rosmalen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 98.3,
+    "avg_days_open": 99.3,
     "lat": 51.734,
     "lon": 5.3945
   },
@@ -4315,7 +4203,7 @@
     "city": "Bezuidenhout",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 85.3,
+    "avg_days_open": 86.3,
     "lat": 52.0819,
     "lon": 4.34
   },
@@ -4323,7 +4211,7 @@
     "city": "Cromvoirt",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 11.1,
+    "avg_days_open": 12.1,
     "lat": 51.6881,
     "lon": 5.2917
   },
@@ -4331,7 +4219,7 @@
     "city": "Maassluis",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 30.0,
+    "avg_days_open": 30.9,
     "lat": 51.9268,
     "lon": 4.2507
   },
@@ -4339,7 +4227,7 @@
     "city": "Rijsenhout",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 38.5,
+    "avg_days_open": 39.4,
     "lat": 52.2924,
     "lon": 4.7012
   },
@@ -4347,15 +4235,23 @@
     "city": "Provenierswijk",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 9.2,
+    "avg_days_open": 10.1,
     "lat": 51.9236,
     "lon": 4.4694
+  },
+  {
+    "city": "Leusden",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 3.8,
+    "lat": 52.1266,
+    "lon": 5.4343
   },
   {
     "city": "Noordwijk aan Zee",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 25.9,
+    "avg_days_open": 26.8,
     "lat": 52.2184,
     "lon": 4.4307
   },
@@ -4363,7 +4259,7 @@
     "city": "Burgerveen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 3.7,
+    "avg_days_open": 4.7,
     "lat": 52.2512,
     "lon": 4.6869
   },
@@ -4371,7 +4267,7 @@
     "city": "Hoogvliet",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 338.7,
+    "avg_days_open": 339.7,
     "lat": 51.8738,
     "lon": 4.3594
   },
@@ -4379,15 +4275,23 @@
     "city": "Numansdorp",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 14.7,
+    "avg_days_open": 15.7,
     "lat": 51.75,
     "lon": 4.45
+  },
+  {
+    "city": "Agniesebuurt",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 5.9,
+    "lat": 51.9175,
+    "lon": 4.478
   },
   {
     "city": "Hummelo",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 3.2,
+    "avg_days_open": 4.1,
     "lat": 51.9696,
     "lon": 6.2634
   },
@@ -4395,7 +4299,7 @@
     "city": "Goor",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 98.3,
+    "avg_days_open": 99.3,
     "lat": 52.2381,
     "lon": 6.6174
   },
@@ -4403,7 +4307,7 @@
     "city": "Lage Vuursche",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 51.8,
+    "avg_days_open": 52.7,
     "lat": 52.1783,
     "lon": 5.2692
   },
@@ -4411,7 +4315,7 @@
     "city": "Biezenmortel",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 1.7,
+    "avg_days_open": 2.7,
     "lat": 51.5856,
     "lon": 5.2081
   },
@@ -4419,7 +4323,7 @@
     "city": "Veghel",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 255.4,
+    "avg_days_open": 256.4,
     "lat": 51.6317,
     "lon": 5.5661
   },
@@ -4427,31 +4331,39 @@
     "city": "Soest",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 19.2,
+    "avg_days_open": 20.1,
     "lat": 52.166,
     "lon": 5.3123
-  },
-  {
-    "city": "Westzaan",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 179.6,
-    "lat": 52.4411,
-    "lon": 4.7454
   },
   {
     "city": "Aadorp",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 9.7,
+    "avg_days_open": 10.7,
     "lat": 52.3541,
     "lon": 6.6197
+  },
+  {
+    "city": "Zeewolde",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 0.2,
+    "lat": 52.3554,
+    "lon": 5.4942
+  },
+  {
+    "city": "Elst",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 16.7,
+    "lat": 51.9154,
+    "lon": 5.837
   },
   {
     "city": "Groot-IJsselmonde",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 108.3,
+    "avg_days_open": 109.3,
     "lat": 51.8608,
     "lon": 4.561
   },
@@ -4459,7 +4371,7 @@
     "city": "Nieuw West",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 10.1,
+    "avg_days_open": 11.0,
     "lat": 52.3993,
     "lon": 4.8067
   },
@@ -4467,23 +4379,23 @@
     "city": "Wolvega",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 30.7,
+    "avg_days_open": 31.7,
     "lat": 52.8763,
     "lon": 6.0153
   },
   {
-    "city": "Brunssum",
+    "city": "Bavel",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
-    "lat": 50.9341,
-    "lon": 5.9424
+    "avg_days_open": 30.7,
+    "lat": 51.5983,
+    "lon": 4.8111
   },
   {
     "city": "Echt-Susteren",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 17.8,
+    "avg_days_open": 18.8,
     "lat": 51.0767,
     "lon": 5.8892
   },
@@ -4491,39 +4403,31 @@
     "city": "Varsseveld",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 90.0,
+    "avg_days_open": 90.9,
     "lat": 51.9464,
     "lon": 6.4661
-  },
-  {
-    "city": "Zevenaar",
-    "country": "Netherlands",
-    "count": 1,
-    "avg_days_open": 90.0,
-    "lat": 51.9208,
-    "lon": 6.102
   },
   {
     "city": "Groenlo",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 90.0,
+    "avg_days_open": 90.9,
     "lat": 52.0388,
     "lon": 6.6062
   },
   {
-    "city": "Hoogezand",
+    "city": "Zevenaar",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 50.8,
-    "lat": 53.151,
-    "lon": 6.7662
+    "avg_days_open": 90.9,
+    "lat": 51.9208,
+    "lon": 6.102
   },
   {
     "city": "Snikzwaag",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 10.5,
+    "avg_days_open": 11.4,
     "lat": 52.9762,
     "lon": 5.7917
   },
@@ -4531,7 +4435,7 @@
     "city": "Tiel",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 51.8746,
     "lon": 5.4054
   },
@@ -4539,7 +4443,7 @@
     "city": "Oss",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.8,
     "lat": 51.7647,
     "lon": 5.562
   },
@@ -4547,7 +4451,7 @@
     "city": "Renkum",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.8,
     "lat": 51.9742,
     "lon": 5.7246
   },
@@ -4555,7 +4459,7 @@
     "city": "Harderwijk",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 52.35,
     "lon": 5.6416
   },
@@ -4563,7 +4467,7 @@
     "city": "Gouda",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 52.0127,
     "lon": 4.7147
   },
@@ -4571,7 +4475,7 @@
     "city": "Barneveld",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.8,
     "lat": 52.1374,
     "lon": 5.6086
   },
@@ -4579,15 +4483,23 @@
     "city": "'s-Heerenberg",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 164.8,
+    "avg_days_open": 165.8,
     "lat": 51.8754,
     "lon": 6.2499
+  },
+  {
+    "city": "Botlek",
+    "country": "Netherlands",
+    "count": 1,
+    "avg_days_open": 102.7,
+    "lat": 51.8942,
+    "lon": 4.2594
   },
   {
     "city": "Dordrecht",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 51.7602,
     "lon": 4.6713
   },
@@ -4595,7 +4507,7 @@
     "city": "Cuijk",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 149.8,
+    "avg_days_open": 150.8,
     "lat": 51.7409,
     "lon": 5.8574
   },
@@ -4603,7 +4515,7 @@
     "city": "Scherpenzeel",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 52.0825,
     "lon": 5.4791
   },
@@ -4611,7 +4523,7 @@
     "city": "Heerlen",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 50.8449,
     "lon": 6.0065
   },
@@ -4619,7 +4531,7 @@
     "city": "Boxmeer",
     "country": "Netherlands",
     "count": 1,
-    "avg_days_open": 101.7,
+    "avg_days_open": 102.7,
     "lat": 51.6442,
     "lon": 5.9394
   }

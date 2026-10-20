@@ -1,46 +1,42 @@
 [
   {
     "company": "Job-Room",
-    "count": 127
+    "count": 122
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 56
   },
   {
     "company": "Bjak",
-    "count": 24
+    "count": 25
   },
   {
     "company": "ASML",
     "count": 23
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "Nespresso Deutschland GmbH",
     "count": 16
   },
   {
-    "company": "Nespresso Deutschland GmbH",
-    "count": 15
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 15
+    "company": "We ARE Recruitment Group",
+    "count": 16
   },
   {
     "company": "Dirk Rossmann GmbH",
     "count": 14
   },
   {
-    "company": "Hensoldt",
-    "count": 13
-  },
-  {
     "company": "Unknown",
     "count": 13
   },
   {
-    "company": "Lam Research",
+    "company": "FERCHAU GmbH",
+    "count": 13
+  },
+  {
+    "company": "PricewaterhouseCoopers",
     "count": 13
   },
   {
@@ -48,15 +44,15 @@
     "count": 13
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "KIND GmbH & Co. KG",
     "count": 12
   },
   {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 11
+    "company": "Lam Research",
+    "count": 12
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Hensoldt",
     "count": 11
   },
   {
@@ -64,23 +60,23 @@
     "count": 11
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 11
   },
   {
-    "company": "Bright Professionals",
-    "count": 11
-  },
-  {
-    "company": "Jobgether",
+    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
     "count": 10
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "SThree Germany",
     "count": 10
   },
   {
     "company": "Innio",
+    "count": 10
+  },
+  {
+    "company": "Bright Professionals",
     "count": 10
   },
   {
@@ -92,11 +88,15 @@
     "count": 10
   },
   {
-    "company": "Arsipa GmbH",
+    "company": "Jockel Brandschutztechnik-Service GmbH",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
+    "count": 9
+  },
+  {
+    "company": "GE Vernova",
     "count": 9
   }
 ]
