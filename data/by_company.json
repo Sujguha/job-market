@@ -5,7 +5,7 @@
   },
   {
     "company": "Synsel Techniek",
-    "count": 56
+    "count": 57
   },
   {
     "company": "Bjak",
@@ -16,27 +16,19 @@
     "count": 23
   },
   {
-    "company": "Nespresso Deutschland GmbH",
-    "count": 16
-  },
-  {
     "company": "We ARE Recruitment Group",
     "count": 16
   },
   {
-    "company": "Dirk Rossmann GmbH",
+    "company": "PricewaterhouseCoopers",
     "count": 14
   },
   {
-    "company": "Unknown",
-    "count": 13
+    "company": "Bright Professionals",
+    "count": 14
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 13
-  },
-  {
-    "company": "PricewaterhouseCoopers",
+    "company": "KIND GmbH & Co. KG",
     "count": 13
   },
   {
@@ -44,7 +36,11 @@
     "count": 13
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Unknown",
+    "count": 12
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 12
   },
   {
@@ -52,35 +48,11 @@
     "count": 12
   },
   {
-    "company": "Hensoldt",
+    "company": "FERCHAU GmbH",
     "count": 11
-  },
-  {
-    "company": "Accenture",
-    "count": 11
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 11
-  },
-  {
-    "company": "Scheidt & Bachmann Energy Retail Solutions GmbH",
-    "count": 10
-  },
-  {
-    "company": "SThree Germany",
-    "count": 10
   },
   {
     "company": "Innio",
-    "count": 10
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 10
-  },
-  {
-    "company": "NLwerkt",
     "count": 10
   },
   {
@@ -88,7 +60,19 @@
     "count": 10
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "company": "HENSOLDT",
+    "count": 9
+  },
+  {
+    "company": "Jobgether",
+    "count": 9
+  },
+  {
+    "company": "Accenture",
+    "count": 9
+  },
+  {
+    "company": "Nespresso Deutschland GmbH",
     "count": 9
   },
   {
@@ -97,6 +81,22 @@
   },
   {
     "company": "GE Vernova",
+    "count": 9
+  },
+  {
+    "company": "Roche",
+    "count": 9
+  },
+  {
+    "company": "Richemont",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "Alliander",
     "count": 9
   }
 ]
