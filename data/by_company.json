@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 122
+    "count": 124
   },
   {
     "company": "Synsel Techniek",
-    "count": 57
+    "count": 48
   },
   {
     "company": "Bjak",
@@ -13,22 +13,30 @@
   },
   {
     "company": "ASML",
-    "count": 23
+    "count": 24
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 16
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 14
+    "count": 17
   },
   {
     "company": "Bright Professionals",
     "count": 14
   },
   {
+    "company": "HENSOLDT",
+    "count": 13
+  },
+  {
+    "company": "Jobgether",
+    "count": 13
+  },
+  {
     "company": "KIND GmbH & Co. KG",
+    "count": 13
+  },
+  {
+    "company": "PricewaterhouseCoopers",
     "count": 13
   },
   {
@@ -36,23 +44,27 @@
     "count": 13
   },
   {
-    "company": "Unknown",
-    "count": 12
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 12
-  },
-  {
-    "company": "Lam Research",
-    "count": 12
-  },
-  {
     "company": "FERCHAU GmbH",
+    "count": 12
+  },
+  {
+    "company": "Unknown",
     "count": 11
   },
   {
-    "company": "Innio",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 10
+  },
+  {
+    "company": "Lam Research",
+    "count": 10
+  },
+  {
+    "company": "GE Vernova",
+    "count": 10
+  },
+  {
+    "company": "Roche",
     "count": 10
   },
   {
@@ -60,19 +72,11 @@
     "count": 10
   },
   {
-    "company": "HENSOLDT",
-    "count": 9
-  },
-  {
-    "company": "Jobgether",
-    "count": 9
-  },
-  {
     "company": "Accenture",
     "count": 9
   },
   {
-    "company": "Nespresso Deutschland GmbH",
+    "company": "SThree Germany",
     "count": 9
   },
   {
@@ -80,11 +84,7 @@
     "count": 9
   },
   {
-    "company": "GE Vernova",
-    "count": 9
-  },
-  {
-    "company": "Roche",
+    "company": "Innio",
     "count": 9
   },
   {
@@ -96,7 +96,7 @@
     "count": 9
   },
   {
-    "company": "Alliander",
+    "company": "CGI",
     "count": 9
   }
 ]
