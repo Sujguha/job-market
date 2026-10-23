@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 124
+    "count": 134
   },
   {
     "company": "Synsel Techniek",
-    "count": 48
+    "count": 54
   },
   {
     "company": "Bjak",
@@ -17,46 +17,54 @@
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 17
+    "count": 18
+  },
+  {
+    "company": "Jobgether",
+    "count": 15
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 14
   },
   {
     "company": "Bright Professionals",
     "count": 14
   },
   {
-    "company": "HENSOLDT",
-    "count": 13
-  },
-  {
-    "company": "Jobgether",
-    "count": 13
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 13
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 13
-  },
-  {
     "company": "EIFFEL",
     "count": 13
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Unknown",
     "count": 12
   },
   {
-    "company": "Unknown",
+    "company": "Lam Research",
+    "count": 12
+  },
+  {
+    "company": "PricewaterhouseCoopers",
+    "count": 12
+  },
+  {
+    "company": "Ministerie van Defensie",
+    "count": 12
+  },
+  {
+    "company": "FEPS GmbH",
+    "count": 11
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
     "count": 11
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 10
+    "count": 11
   },
   {
-    "company": "Lam Research",
+    "company": "Innio",
     "count": 10
   },
   {
@@ -64,7 +72,11 @@
     "count": 10
   },
   {
-    "company": "Roche",
+    "company": "Richemont",
+    "count": 10
+  },
+  {
+    "company": "CGI",
     "count": 10
   },
   {
@@ -72,11 +84,11 @@
     "count": 10
   },
   {
-    "company": "Accenture",
+    "company": "HENSOLDT",
     "count": 9
   },
   {
-    "company": "SThree Germany",
+    "company": "Accenture",
     "count": 9
   },
   {
@@ -84,19 +96,7 @@
     "count": 9
   },
   {
-    "company": "Innio",
-    "count": 9
-  },
-  {
-    "company": "Richemont",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "CGI",
+    "company": "Roche",
     "count": 9
   }
 ]
