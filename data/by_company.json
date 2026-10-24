@@ -1,46 +1,54 @@
 [
   {
     "company": "Job-Room",
-    "count": 134
+    "count": 131
   },
   {
     "company": "Synsel Techniek",
     "count": 54
   },
   {
-    "company": "Bjak",
+    "company": "ASML",
     "count": 25
   },
   {
-    "company": "ASML",
-    "count": 24
+    "company": "Bjak",
+    "count": 23
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 18
+    "company": "Unknown",
+    "count": 19
   },
   {
     "company": "Jobgether",
-    "count": 15
+    "count": 18
+  },
+  {
+    "company": "We ARE Recruitment Group",
+    "count": 17
   },
   {
     "company": "FERCHAU GmbH",
-    "count": 14
+    "count": 15
   },
   {
     "company": "Bright Professionals",
     "count": 14
   },
   {
+    "company": "KIND GmbH & Co. KG",
+    "count": 13
+  },
+  {
     "company": "EIFFEL",
     "count": 13
   },
   {
-    "company": "Unknown",
+    "company": "Lam Research",
     "count": 12
   },
   {
-    "company": "Lam Research",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 12
   },
   {
@@ -48,31 +56,31 @@
     "count": 12
   },
   {
+    "company": "cbs Corporate Business Solutions GmbH",
+    "count": 11
+  },
+  {
+    "company": "Bau- und Liegenschaftsbetrieb NRW",
+    "count": 11
+  },
+  {
+    "company": "Roche",
+    "count": 11
+  },
+  {
     "company": "Ministerie van Defensie",
-    "count": 12
-  },
-  {
-    "company": "FEPS GmbH",
     "count": 11
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 11
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 11
-  },
-  {
-    "company": "Innio",
-    "count": 10
-  },
-  {
-    "company": "GE Vernova",
+    "company": "Accenture",
     "count": 10
   },
   {
     "company": "Richemont",
+    "count": 10
+  },
+  {
+    "company": "RUAG AG",
     "count": 10
   },
   {
@@ -84,19 +92,11 @@
     "count": 10
   },
   {
-    "company": "HENSOLDT",
-    "count": 9
-  },
-  {
-    "company": "Accenture",
-    "count": 9
-  },
-  {
     "company": "Passion for People GmbH",
     "count": 9
   },
   {
-    "company": "Roche",
+    "company": "Innio",
     "count": 9
   }
 ]
