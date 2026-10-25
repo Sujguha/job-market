@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 131
+    "count": 128
   },
   {
     "company": "Synsel Techniek",
@@ -13,35 +13,39 @@
   },
   {
     "company": "Bjak",
-    "count": 23
+    "count": 24
   },
   {
     "company": "Unknown",
-    "count": 19
+    "count": 21
   },
   {
     "company": "Jobgether",
-    "count": 18
+    "count": 17
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 17
+    "company": "Bright Professionals",
+    "count": 16
   },
   {
     "company": "FERCHAU GmbH",
     "count": 15
   },
   {
-    "company": "Bright Professionals",
-    "count": 14
+    "company": "We ARE Recruitment Group",
+    "count": 15
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 13
+    "count": 14
   },
   {
     "company": "EIFFEL",
     "count": 13
+  },
+  {
+    "company": "HENSOLDT",
+    "count": 12
   },
   {
     "company": "Lam Research",
@@ -56,7 +60,7 @@
     "count": 12
   },
   {
-    "company": "cbs Corporate Business Solutions GmbH",
+    "company": "Accenture",
     "count": 11
   },
   {
@@ -68,23 +72,15 @@
     "count": 11
   },
   {
+    "company": "Richemont",
+    "count": 11
+  },
+  {
     "company": "Ministerie van Defensie",
     "count": 11
   },
   {
-    "company": "Accenture",
-    "count": 10
-  },
-  {
-    "company": "Richemont",
-    "count": 10
-  },
-  {
     "company": "RUAG AG",
-    "count": 10
-  },
-  {
-    "company": "CGI",
     "count": 10
   },
   {
@@ -92,7 +88,11 @@
     "count": 10
   },
   {
-    "company": "Passion for People GmbH",
+    "company": "FEPS GmbH",
+    "count": 9
+  },
+  {
+    "company": "cbs Corporate Business Solutions GmbH",
     "count": 9
   },
   {
