@@ -16,12 +16,12 @@
     "count": 24
   },
   {
-    "company": "Unknown",
-    "count": 21
+    "company": "Hensoldt",
+    "count": 16
   },
   {
-    "company": "Jobgether",
-    "count": 17
+    "company": "We ARE Recruitment Group",
+    "count": 16
   },
   {
     "company": "Bright Professionals",
@@ -32,11 +32,11 @@
     "count": 15
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "Jobgether",
     "count": 15
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Unknown",
     "count": 14
   },
   {
@@ -44,7 +44,7 @@
     "count": 13
   },
   {
-    "company": "HENSOLDT",
+    "company": "KIND GmbH & Co. KG",
     "count": 12
   },
   {
@@ -52,23 +52,15 @@
     "count": 12
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 12
-  },
-  {
     "company": "PricewaterhouseCoopers",
     "count": 12
   },
   {
-    "company": "Accenture",
+    "company": "Schmitt Engineering",
     "count": 11
   },
   {
-    "company": "Bau- und Liegenschaftsbetrieb NRW",
-    "count": 11
-  },
-  {
-    "company": "Roche",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 11
   },
   {
@@ -80,6 +72,22 @@
     "count": 11
   },
   {
+    "company": "Advantest Europe GmbH",
+    "count": 10
+  },
+  {
+    "company": "Accenture",
+    "count": 10
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 10
+  },
+  {
+    "company": "Bau- und Liegenschaftsbetrieb NRW",
+    "count": 10
+  },
+  {
     "company": "RUAG AG",
     "count": 10
   },
@@ -89,14 +97,6 @@
   },
   {
     "company": "FEPS GmbH",
-    "count": 9
-  },
-  {
-    "company": "cbs Corporate Business Solutions GmbH",
-    "count": 9
-  },
-  {
-    "company": "Innio",
     "count": 9
   }
 ]
