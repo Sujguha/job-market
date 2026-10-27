@@ -1,22 +1,22 @@
 [
   {
     "company": "Job-Room",
-    "count": 128
+    "count": 135
   },
   {
     "company": "Synsel Techniek",
     "count": 54
   },
   {
+    "company": "Bjak",
+    "count": 25
+  },
+  {
     "company": "ASML",
     "count": 25
   },
   {
-    "company": "Bjak",
-    "count": 24
-  },
-  {
-    "company": "Hensoldt",
+    "company": "FERCHAU GmbH",
     "count": 16
   },
   {
@@ -24,15 +24,11 @@
     "count": 16
   },
   {
-    "company": "Bright Professionals",
-    "count": 16
-  },
-  {
-    "company": "FERCHAU GmbH",
+    "company": "Jobgether",
     "count": 15
   },
   {
-    "company": "Jobgether",
+    "company": "Bright Professionals",
     "count": 15
   },
   {
@@ -44,11 +40,11 @@
     "count": 13
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Lam Research",
     "count": 12
   },
   {
-    "company": "Lam Research",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 12
   },
   {
@@ -56,11 +52,11 @@
     "count": 12
   },
   {
-    "company": "Schmitt Engineering",
+    "company": "Hensoldt",
     "count": 11
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "KIND GmbH & Co. KG",
     "count": 11
   },
   {
@@ -68,19 +64,7 @@
     "count": 11
   },
   {
-    "company": "Ministerie van Defensie",
-    "count": 11
-  },
-  {
-    "company": "Advantest Europe GmbH",
-    "count": 10
-  },
-  {
     "company": "Accenture",
-    "count": 10
-  },
-  {
-    "company": "mycareernow GmbH",
     "count": 10
   },
   {
@@ -96,7 +80,23 @@
     "count": 10
   },
   {
-    "company": "FEPS GmbH",
+    "company": "cbs Corporate Business Solutions GmbH",
+    "count": 9
+  },
+  {
+    "company": "Innio",
+    "count": 9
+  },
+  {
+    "company": "GE Vernova",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "KPMG Nederland",
     "count": 9
   }
 ]
