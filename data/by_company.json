@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 135
+    "count": 138
   },
   {
     "company": "Synsel Techniek",
@@ -16,28 +16,36 @@
     "count": 25
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 16
+    "company": "Hensoldt",
+    "count": 18
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 16
-  },
-  {
-    "company": "Jobgether",
-    "count": 15
+    "count": 17
   },
   {
     "company": "Bright Professionals",
-    "count": 15
+    "count": 17
   },
   {
-    "company": "Unknown",
-    "count": 14
+    "company": "KIND GmbH & Co. KG",
+    "count": 13
   },
   {
     "company": "EIFFEL",
     "count": 13
+  },
+  {
+    "company": "Schmitt Engineering",
+    "count": 12
+  },
+  {
+    "company": "Jobgether",
+    "count": 12
+  },
+  {
+    "company": "Unknown",
+    "count": 12
   },
   {
     "company": "Lam Research",
@@ -48,47 +56,35 @@
     "count": 12
   },
   {
-    "company": "PricewaterhouseCoopers",
-    "count": 12
-  },
-  {
-    "company": "Hensoldt",
-    "count": 11
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 11
-  },
-  {
     "company": "Richemont",
     "count": 11
   },
   {
-    "company": "Accenture",
-    "count": 10
-  },
-  {
-    "company": "Bau- und Liegenschaftsbetrieb NRW",
-    "count": 10
-  },
-  {
     "company": "RUAG AG",
-    "count": 10
+    "count": 11
+  },
+  {
+    "company": "PricewaterhouseCoopers",
+    "count": 11
   },
   {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "cbs Corporate Business Solutions GmbH",
+    "company": "FERCHAU GmbH",
+    "count": 9
+  },
+  {
+    "company": "Accenture",
+    "count": 9
+  },
+  {
+    "company": "NTT",
     "count": 9
   },
   {
     "company": "Innio",
-    "count": 9
-  },
-  {
-    "company": "GE Vernova",
     "count": 9
   },
   {
@@ -98,5 +94,9 @@
   {
     "company": "KPMG Nederland",
     "count": 9
+  },
+  {
+    "company": "Lieferando",
+    "count": 8
   }
 ]
