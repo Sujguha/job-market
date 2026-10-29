@@ -1,22 +1,26 @@
 [
   {
     "company": "Job-Room",
-    "count": 138
+    "count": 129
   },
   {
     "company": "Synsel Techniek",
     "count": 54
   },
   {
+    "company": "ASML",
+    "count": 26
+  },
+  {
     "company": "Bjak",
     "count": 25
   },
   {
-    "company": "ASML",
-    "count": 25
+    "company": "Bright Professionals",
+    "count": 19
   },
   {
-    "company": "Hensoldt",
+    "company": "Schwarz Digits",
     "count": 18
   },
   {
@@ -24,55 +28,67 @@
     "count": 17
   },
   {
-    "company": "Bright Professionals",
-    "count": 17
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 13
-  },
-  {
-    "company": "EIFFEL",
-    "count": 13
-  },
-  {
     "company": "Schmitt Engineering",
-    "count": 12
-  },
-  {
-    "company": "Jobgether",
-    "count": 12
+    "count": 16
   },
   {
     "company": "Unknown",
-    "count": 12
+    "count": 16
   },
   {
-    "company": "Lam Research",
-    "count": 12
+    "company": "FERCHAU GmbH",
+    "count": 15
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
+    "count": 14
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 12
   },
   {
-    "company": "Richemont",
+    "company": "PricewaterhouseCoopers",
+    "count": 12
+  },
+  {
+    "company": "EIFFEL",
+    "count": 12
+  },
+  {
+    "company": "Lam Research",
     "count": 11
+  },
+  {
+    "company": "GE Vernova",
+    "count": 10
+  },
+  {
+    "company": "Richemont",
+    "count": 10
   },
   {
     "company": "RUAG AG",
-    "count": 11
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 11
+    "count": 10
   },
   {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "HENSOLDT",
+    "count": 9
+  },
+  {
+    "company": "Hensoldt",
+    "count": 9
+  },
+  {
+    "company": "Advantest Europe GmbH",
+    "count": 9
+  },
+  {
+    "company": "cbs Corporate Business Solutions GmbH",
     "count": 9
   },
   {
@@ -82,21 +98,5 @@
   {
     "company": "NTT",
     "count": 9
-  },
-  {
-    "company": "Innio",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "KPMG Nederland",
-    "count": 9
-  },
-  {
-    "company": "Lieferando",
-    "count": 8
   }
 ]
