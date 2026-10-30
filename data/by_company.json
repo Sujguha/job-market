@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 129
+    "count": 150
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 53
   },
   {
     "company": "ASML",
@@ -16,39 +16,35 @@
     "count": 25
   },
   {
-    "company": "Bright Professionals",
-    "count": 19
+    "company": "Unknown",
+    "count": 22
   },
   {
-    "company": "Schwarz Digits",
-    "count": 18
+    "company": "KIND GmbH & Co. KG",
+    "count": 17
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 17
   },
   {
     "company": "We ARE Recruitment Group",
     "count": 17
   },
   {
-    "company": "Schmitt Engineering",
-    "count": 16
-  },
-  {
-    "company": "Unknown",
-    "count": 16
-  },
-  {
-    "company": "FERCHAU GmbH",
+    "company": "Bright Professionals",
     "count": 15
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 14
+    "company": "PricewaterhouseCoopers",
+    "count": 13
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "cbs Corporate Business Solutions GmbH",
     "count": 12
   },
   {
-    "company": "PricewaterhouseCoopers",
+    "company": "Lam Research",
     "count": 12
   },
   {
@@ -56,19 +52,15 @@
     "count": 12
   },
   {
-    "company": "Lam Research",
+    "company": "Richemont",
     "count": 11
   },
   {
-    "company": "GE Vernova",
+    "company": "SThree Germany",
     "count": 10
   },
   {
-    "company": "Richemont",
-    "count": 10
-  },
-  {
-    "company": "RUAG AG",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 10
   },
   {
@@ -76,20 +68,8 @@
     "count": 10
   },
   {
-    "company": "HENSOLDT",
-    "count": 9
-  },
-  {
-    "company": "Hensoldt",
-    "count": 9
-  },
-  {
-    "company": "Advantest Europe GmbH",
-    "count": 9
-  },
-  {
-    "company": "cbs Corporate Business Solutions GmbH",
-    "count": 9
+    "company": "Feadship",
+    "count": 10
   },
   {
     "company": "Accenture",
@@ -98,5 +78,25 @@
   {
     "company": "NTT",
     "count": 9
+  },
+  {
+    "company": "Roche",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "RUAG AG",
+    "count": 9
+  },
+  {
+    "company": "Instaffo GmbH",
+    "count": 8
+  },
+  {
+    "company": "Lieferando",
+    "count": 8
   }
 ]
