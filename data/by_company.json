@@ -1,23 +1,27 @@
 [
   {
     "company": "Job-Room",
-    "count": 143
+    "count": 123
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
-  },
-  {
-    "company": "Bjak",
-    "count": 25
+    "count": 52
   },
   {
     "company": "ASML",
-    "count": 25
+    "count": 24
   },
   {
-    "company": "HENSOLDT",
-    "count": 21
+    "company": "Unknown",
+    "count": 20
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 20
+  },
+  {
+    "company": "Bjak",
+    "count": 19
   },
   {
     "company": "KIND GmbH & Co. KG",
@@ -25,14 +29,10 @@
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 17
+    "count": 15
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 16
-  },
-  {
-    "company": "Unknown",
+    "company": "Akkodis",
     "count": 14
   },
   {
@@ -40,15 +40,27 @@
     "count": 14
   },
   {
+    "company": "cbs Corporate Business Solutions GmbH",
+    "count": 13
+  },
+  {
     "company": "PricewaterhouseCoopers",
     "count": 13
   },
   {
-    "company": "Advantest Europe GmbH",
+    "company": "HENSOLDT",
     "count": 12
   },
   {
-    "company": "Lam Research",
+    "company": "FERCHAU GmbH",
+    "count": 12
+  },
+  {
+    "company": "E.ON Energy Markets GmbH",
+    "count": 12
+  },
+  {
+    "company": "Richemont",
     "count": 12
   },
   {
@@ -56,15 +68,15 @@
     "count": 12
   },
   {
-    "company": "E.ON Energy Markets GmbH",
+    "company": "Dirk Rossmann GmbH",
     "count": 11
   },
   {
-    "company": "Richemont",
+    "company": "RUAG AG",
     "count": 11
   },
   {
-    "company": "SEG Electronics GmbH",
+    "company": "Accenture",
     "count": 10
   },
   {
@@ -72,31 +84,19 @@
     "count": 10
   },
   {
-    "company": "RUAG AG",
-    "count": 10
-  },
-  {
     "company": "CGI Nederland",
     "count": 10
   },
   {
-    "company": "cbs Corporate Business Solutions GmbH",
+    "company": "Talent&Pro",
+    "count": 10
+  },
+  {
+    "company": "Orizon GmbH, Unit Aviation",
     "count": 9
   },
   {
-    "company": "Accenture",
-    "count": 9
-  },
-  {
-    "company": "NTT",
-    "count": 9
-  },
-  {
-    "company": "Bau- und Liegenschaftsbetrieb NRW",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
+    "company": "Lam Research",
     "count": 9
   }
 ]
