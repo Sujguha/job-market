@@ -1,38 +1,42 @@
 [
   {
     "company": "Job-Room",
-    "count": 123
+    "count": 124
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
+    "count": 48
   },
   {
     "company": "ASML",
     "count": 24
   },
   {
-    "company": "Unknown",
-    "count": 20
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 20
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 22
   },
   {
     "company": "Bjak",
-    "count": 19
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
     "count": 17
   },
   {
-    "company": "We ARE Recruitment Group",
+    "company": "KIND GmbH & Co. KG",
     "count": 15
   },
   {
-    "company": "Akkodis",
+    "company": "Unknown",
+    "count": 15
+  },
+  {
+    "company": "PricewaterhouseCoopers",
+    "count": 15
+  },
+  {
+    "company": "HENSOLDT",
+    "count": 14
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 14
   },
   {
@@ -40,27 +44,23 @@
     "count": 14
   },
   {
-    "company": "cbs Corporate Business Solutions GmbH",
+    "company": "Akkodis",
     "count": 13
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 13
-  },
-  {
-    "company": "HENSOLDT",
-    "count": 12
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 12
-  },
-  {
-    "company": "E.ON Energy Markets GmbH",
-    "count": 12
   },
   {
     "company": "Richemont",
+    "count": 13
+  },
+  {
+    "company": "Talent&Pro",
+    "count": 13
+  },
+  {
+    "company": "CGI",
+    "count": 13
+  },
+  {
+    "company": "mycareernow GmbH",
     "count": 12
   },
   {
@@ -68,7 +68,15 @@
     "count": 12
   },
   {
-    "company": "Dirk Rossmann GmbH",
+    "company": "FERCHAU GmbH",
+    "count": 11
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 11
+  },
+  {
+    "company": "Lam Research",
     "count": 11
   },
   {
@@ -80,7 +88,7 @@
     "count": 10
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "XXXLdigital - Part of XXXL Group",
     "count": 10
   },
   {
@@ -88,15 +96,7 @@
     "count": 10
   },
   {
-    "company": "Talent&Pro",
+    "company": "Feadship",
     "count": 10
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 9
-  },
-  {
-    "company": "Lam Research",
-    "count": 9
   }
 ]
