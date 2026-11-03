@@ -1,50 +1,34 @@
 [
   {
     "company": "Job-Room",
-    "count": 124
+    "count": 132
   },
   {
     "company": "Synsel Techniek",
     "count": 48
   },
   {
-    "company": "ASML",
-    "count": 24
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 21
   },
   {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 22
+    "company": "Unknown",
+    "count": 18
   },
   {
     "company": "Bjak",
     "count": 17
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 15
-  },
-  {
-    "company": "Unknown",
-    "count": 15
+    "company": "We ARE Recruitment Group",
+    "count": 16
   },
   {
     "company": "PricewaterhouseCoopers",
-    "count": 15
-  },
-  {
-    "company": "HENSOLDT",
     "count": 14
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 14
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 14
-  },
-  {
-    "company": "Akkodis",
+    "company": "Lam Research",
     "count": 13
   },
   {
@@ -52,20 +36,24 @@
     "count": 13
   },
   {
+    "company": "Bright Professionals",
+    "count": 12
+  },
+  {
     "company": "Talent&Pro",
-    "count": 13
-  },
-  {
-    "company": "CGI",
-    "count": 13
-  },
-  {
-    "company": "mycareernow GmbH",
     "count": 12
   },
   {
     "company": "EIFFEL",
     "count": 12
+  },
+  {
+    "company": "Hensoldt",
+    "count": 11
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
+    "count": 11
   },
   {
     "company": "FERCHAU GmbH",
@@ -76,19 +64,11 @@
     "count": 11
   },
   {
-    "company": "Lam Research",
+    "company": "CGI",
     "count": 11
   },
   {
-    "company": "RUAG AG",
-    "count": 11
-  },
-  {
-    "company": "Accenture",
-    "count": 10
-  },
-  {
-    "company": "XXXLdigital - Part of XXXL Group",
+    "company": "Lieferando",
     "count": 10
   },
   {
@@ -98,5 +78,25 @@
   {
     "company": "Feadship",
     "count": 10
+  },
+  {
+    "company": "cbs Corporate Business Solutions GmbH",
+    "count": 9
+  },
+  {
+    "company": "Accenture",
+    "count": 9
+  },
+  {
+    "company": "E.ON Energy Markets GmbH",
+    "count": 9
+  },
+  {
+    "company": "Eaton Corporation",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
   }
 ]
