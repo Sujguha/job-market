@@ -1,34 +1,30 @@
 [
   {
     "company": "Job-Room",
-    "count": 132
+    "count": 135
   },
   {
     "company": "Synsel Techniek",
-    "count": 48
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 21
-  },
-  {
-    "company": "Unknown",
-    "count": 18
+    "count": 54
   },
   {
     "company": "Bjak",
-    "count": 17
+    "count": 25
   },
   {
     "company": "We ARE Recruitment Group",
+    "count": 17
+  },
+  {
+    "company": "Unknown",
     "count": 16
   },
   {
-    "company": "PricewaterhouseCoopers",
-    "count": 14
+    "company": "E.ON Energy Markets GmbH",
+    "count": 15
   },
   {
-    "company": "Lam Research",
+    "company": "Orizon GmbH, Unit Aviation",
     "count": 13
   },
   {
@@ -36,7 +32,15 @@
     "count": 13
   },
   {
+    "company": "PricewaterhouseCoopers",
+    "count": 13
+  },
+  {
     "company": "Bright Professionals",
+    "count": 13
+  },
+  {
+    "company": "Lam Research",
     "count": 12
   },
   {
@@ -44,19 +48,7 @@
     "count": 12
   },
   {
-    "company": "EIFFEL",
-    "count": 12
-  },
-  {
-    "company": "Hensoldt",
-    "count": 11
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 11
-  },
-  {
-    "company": "FERCHAU GmbH",
+    "company": "HENSOLDT",
     "count": 11
   },
   {
@@ -64,11 +56,15 @@
     "count": 11
   },
   {
-    "company": "CGI",
-    "count": 11
+    "company": "Lieferando",
+    "count": 10
   },
   {
-    "company": "Lieferando",
+    "company": "Accenture",
+    "count": 10
+  },
+  {
+    "company": "KPMG Nederland",
     "count": 10
   },
   {
@@ -76,27 +72,31 @@
     "count": 10
   },
   {
-    "company": "Feadship",
+    "company": "CGI",
     "count": 10
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
+    "count": 9
   },
   {
     "company": "cbs Corporate Business Solutions GmbH",
     "count": 9
   },
   {
-    "company": "Accenture",
+    "company": "Passion for People GmbH",
     "count": 9
   },
   {
-    "company": "E.ON Energy Markets GmbH",
-    "count": 9
-  },
-  {
-    "company": "Eaton Corporation",
+    "company": "GE Vernova",
     "count": 9
   },
   {
     "company": "Blockstream",
     "count": 9
+  },
+  {
+    "company": "ROHDE & SCHWARZ Meßgerätebau GmbH",
+    "count": 8
   }
 ]
