@@ -1,31 +1,39 @@
 [
   {
     "company": "Job-Room",
-    "count": 135
+    "count": 138
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 51
   },
   {
     "company": "Bjak",
-    "count": 25
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 17
+    "count": 23
   },
   {
     "company": "Unknown",
+    "count": 17
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 16
   },
   {
-    "company": "E.ON Energy Markets GmbH",
-    "count": 15
+    "company": "Bright Professionals",
+    "count": 16
   },
   {
     "company": "Orizon GmbH, Unit Aviation",
-    "count": 13
+    "count": 15
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
+    "count": 15
+  },
+  {
+    "company": "mycareernow GmbH",
+    "count": 14
   },
   {
     "company": "Richemont",
@@ -36,19 +44,19 @@
     "count": 13
   },
   {
-    "company": "Bright Professionals",
-    "count": 13
-  },
-  {
     "company": "Lam Research",
     "count": 12
   },
   {
-    "company": "Talent&Pro",
-    "count": 12
+    "company": "FERCHAU GmbH",
+    "count": 11
   },
   {
     "company": "HENSOLDT",
+    "count": 11
+  },
+  {
+    "company": "cbs Corporate Business Solutions GmbH",
     "count": 11
   },
   {
@@ -56,15 +64,15 @@
     "count": 11
   },
   {
-    "company": "Lieferando",
-    "count": 10
-  },
-  {
-    "company": "Accenture",
-    "count": 10
+    "company": "Feadship",
+    "count": 11
   },
   {
     "company": "KPMG Nederland",
+    "count": 10
+  },
+  {
+    "company": "Talent&Pro",
     "count": 10
   },
   {
@@ -76,11 +84,11 @@
     "count": 10
   },
   {
-    "company": "KIND GmbH & Co. KG",
+    "company": "Accenture",
     "count": 9
   },
   {
-    "company": "cbs Corporate Business Solutions GmbH",
+    "company": "NTT",
     "count": 9
   },
   {
@@ -88,15 +96,7 @@
     "count": 9
   },
   {
-    "company": "GE Vernova",
-    "count": 9
-  },
-  {
     "company": "Blockstream",
     "count": 9
-  },
-  {
-    "company": "ROHDE & SCHWARZ Meßgerätebau GmbH",
-    "count": 8
   }
 ]
