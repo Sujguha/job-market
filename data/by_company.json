@@ -1,66 +1,74 @@
 [
   {
     "company": "Job-Room",
-    "count": 138
+    "count": 128
   },
   {
     "company": "Synsel Techniek",
-    "count": 51
+    "count": 48
   },
   {
-    "company": "Bjak",
+    "company": "mycareernow GmbH",
     "count": 23
   },
   {
-    "company": "Unknown",
-    "count": 17
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 21
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 16
+    "company": "Bjak",
+    "count": 21
+  },
+  {
+    "company": "Unknown",
+    "count": 20
   },
   {
     "company": "Bright Professionals",
-    "count": 16
+    "count": 19
   },
   {
-    "company": "Orizon GmbH, Unit Aviation",
+    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "count": 18
+  },
+  {
+    "company": "cbs Corporate Business Solutions GmbH",
+    "count": 15
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 15
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 15
+    "count": 14
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 14
+    "company": "Lam Research",
+    "count": 13
   },
   {
     "company": "Richemont",
     "count": 13
   },
   {
-    "company": "PricewaterhouseCoopers",
-    "count": 13
-  },
-  {
-    "company": "Lam Research",
+    "company": "FERCHAU GmbH",
     "count": 12
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "PricewaterhouseCoopers",
+    "count": 12
+  },
+  {
+    "company": "CGM",
     "count": 11
   },
   {
-    "company": "HENSOLDT",
+    "company": "NTT",
     "count": 11
   },
   {
-    "company": "cbs Corporate Business Solutions GmbH",
-    "count": 11
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Talent&Pro",
     "count": 11
   },
   {
@@ -68,11 +76,15 @@
     "count": 11
   },
   {
-    "company": "KPMG Nederland",
+    "company": "Accenture",
     "count": 10
   },
   {
-    "company": "Talent&Pro",
+    "company": "Bau- und Liegenschaftsbetrieb NRW",
+    "count": 10
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 10
   },
   {
@@ -84,19 +96,7 @@
     "count": 10
   },
   {
-    "company": "Accenture",
-    "count": 9
-  },
-  {
-    "company": "NTT",
-    "count": 9
-  },
-  {
     "company": "Passion for People GmbH",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
     "count": 9
   }
 ]
