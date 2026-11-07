@@ -1,18 +1,22 @@
 [
   {
     "company": "Job-Room",
-    "count": 128
+    "count": 119
   },
   {
     "company": "Synsel Techniek",
-    "count": 48
+    "count": 47
   },
   {
     "company": "mycareernow GmbH",
-    "count": 23
+    "count": 24
   },
   {
     "company": "Orizon GmbH, Unit Aviation",
+    "count": 21
+  },
+  {
+    "company": "Unknown",
     "count": 21
   },
   {
@@ -20,16 +24,8 @@
     "count": 21
   },
   {
-    "company": "Unknown",
-    "count": 20
-  },
-  {
     "company": "Bright Professionals",
     "count": 19
-  },
-  {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
-    "count": 18
   },
   {
     "company": "cbs Corporate Business Solutions GmbH",
@@ -41,10 +37,14 @@
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 14
+    "count": 13
   },
   {
-    "company": "Lam Research",
+    "company": "FERCHAU GmbH",
+    "count": 13
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 13
   },
   {
@@ -52,7 +52,7 @@
     "count": 13
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Lam Research",
     "count": 12
   },
   {
@@ -64,27 +64,11 @@
     "count": 11
   },
   {
-    "company": "NTT",
+    "company": "Riverty",
     "count": 11
   },
   {
-    "company": "Talent&Pro",
-    "count": 11
-  },
-  {
-    "company": "Feadship",
-    "count": 11
-  },
-  {
-    "company": "Accenture",
-    "count": 10
-  },
-  {
-    "company": "Bau- und Liegenschaftsbetrieb NRW",
-    "count": 10
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Jockel Brandschutztechnik-Service GmbH",
     "count": 10
   },
   {
@@ -96,7 +80,23 @@
     "count": 10
   },
   {
-    "company": "Passion for People GmbH",
+    "company": "KPMG Nederland",
+    "count": 10
+  },
+  {
+    "company": "Advantest Europe GmbH",
+    "count": 9
+  },
+  {
+    "company": "SThree Germany",
+    "count": 9
+  },
+  {
+    "company": "Accenture",
+    "count": 9
+  },
+  {
+    "company": "NTT",
     "count": 9
   }
 ]
