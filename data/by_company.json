@@ -1,7 +1,7 @@
 [
   {
     "company": "Job-Room",
-    "count": 120
+    "count": 114
   },
   {
     "company": "Synsel Techniek",
@@ -9,11 +9,7 @@
   },
   {
     "company": "mycareernow GmbH",
-    "count": 25
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 21
+    "count": 26
   },
   {
     "company": "Bjak",
@@ -25,22 +21,18 @@
   },
   {
     "company": "Unknown",
-    "count": 18
-  },
-  {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
-    "count": 16
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 14
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 14
+    "count": 17
   },
   {
     "company": "We ARE Recruitment Group",
+    "count": 17
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 15
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
     "count": 14
   },
   {
@@ -52,7 +44,7 @@
     "count": 13
   },
   {
-    "company": "Richemont",
+    "company": "Jockel Brandschutztechnik-Service GmbH",
     "count": 12
   },
   {
@@ -60,27 +52,35 @@
     "count": 12
   },
   {
-    "company": "Riverty",
+    "company": "CGI",
     "count": 11
+  },
+  {
+    "company": "Feadship",
+    "count": 11
+  },
+  {
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 10
+  },
+  {
+    "company": "SThree Germany",
+    "count": 10
   },
   {
     "company": "CGM",
     "count": 10
   },
   {
-    "company": "Talent&Pro",
+    "company": "Swarco AG",
+    "count": 10
+  },
+  {
+    "company": "Richemont",
     "count": 10
   },
   {
     "company": "CGI Nederland",
-    "count": 10
-  },
-  {
-    "company": "CGI",
-    "count": 10
-  },
-  {
-    "company": "Feadship",
     "count": 10
   },
   {
@@ -92,11 +92,11 @@
     "count": 9
   },
   {
-    "company": "SThree Germany",
+    "company": "Accenture",
     "count": 9
   },
   {
-    "company": "Accenture",
+    "company": "Passion for People GmbH",
     "count": 9
   }
 ]
