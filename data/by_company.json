@@ -1,11 +1,11 @@
 [
   {
     "company": "Job-Room",
-    "count": 114
+    "count": 112
   },
   {
     "company": "Synsel Techniek",
-    "count": 45
+    "count": 47
   },
   {
     "company": "mycareernow GmbH",
@@ -13,26 +13,26 @@
   },
   {
     "company": "Bjak",
-    "count": 21
-  },
-  {
-    "company": "Bright Professionals",
-    "count": 19
+    "count": 24
   },
   {
     "company": "Unknown",
-    "count": 17
+    "count": 21
   },
   {
     "company": "We ARE Recruitment Group",
     "count": 17
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 15
+    "company": "Bright Professionals",
+    "count": 16
   },
   {
     "company": "KIND GmbH & Co. KG",
+    "count": 14
+  },
+  {
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 14
   },
   {
@@ -44,12 +44,12 @@
     "count": 13
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "company": "PricewaterhouseCoopers",
     "count": 12
   },
   {
-    "company": "PricewaterhouseCoopers",
-    "count": 12
+    "company": "Richemont",
+    "count": 11
   },
   {
     "company": "CGI",
@@ -60,23 +60,19 @@
     "count": 11
   },
   {
-    "company": "Orizon GmbH, Unit Aviation",
+    "company": "KPMG Nederland",
+    "count": 11
+  },
+  {
+    "company": "Accenture",
     "count": 10
   },
   {
-    "company": "SThree Germany",
+    "company": "Roche",
     "count": 10
   },
   {
-    "company": "CGM",
-    "count": 10
-  },
-  {
-    "company": "Swarco AG",
-    "count": 10
-  },
-  {
-    "company": "Richemont",
+    "company": "Talent&Pro",
     "count": 10
   },
   {
@@ -84,19 +80,23 @@
     "count": 10
   },
   {
-    "company": "KPMG Nederland",
-    "count": 10
+    "company": "Passion for People GmbH",
+    "count": 9
+  },
+  {
+    "company": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
   },
   {
     "company": "Advantest Europe GmbH",
-    "count": 9
+    "count": 8
   },
   {
-    "company": "Accenture",
-    "count": 9
-  },
-  {
-    "company": "Passion for People GmbH",
-    "count": 9
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 8
   }
 ]
