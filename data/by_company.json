@@ -1,27 +1,27 @@
 [
   {
     "company": "Job-Room",
-    "count": 112
+    "count": 106
   },
   {
     "company": "Synsel Techniek",
-    "count": 47
+    "count": 49
   },
   {
     "company": "mycareernow GmbH",
-    "count": 26
+    "count": 22
   },
   {
     "company": "Bjak",
-    "count": 24
+    "count": 22
   },
   {
     "company": "Unknown",
-    "count": 21
+    "count": 19
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 17
+    "count": 19
   },
   {
     "company": "Bright Professionals",
@@ -32,35 +32,27 @@
     "count": 14
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 14
+    "company": "Lam Research",
+    "count": 13
   },
   {
     "company": "FERCHAU GmbH",
-    "count": 13
+    "count": 12
   },
   {
-    "company": "Lam Research",
-    "count": 13
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 12
   },
   {
     "company": "PricewaterhouseCoopers",
     "count": 12
   },
   {
-    "company": "Richemont",
-    "count": 11
-  },
-  {
     "company": "CGI",
-    "count": 11
+    "count": 12
   },
   {
     "company": "Feadship",
-    "count": 11
-  },
-  {
-    "company": "KPMG Nederland",
     "count": 11
   },
   {
@@ -68,11 +60,7 @@
     "count": 10
   },
   {
-    "company": "Roche",
-    "count": 10
-  },
-  {
-    "company": "Talent&Pro",
+    "company": "Richemont",
     "count": 10
   },
   {
@@ -84,7 +72,7 @@
     "count": 9
   },
   {
-    "company": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft",
+    "company": "CompuGroup Medical SE & Co. KGaA",
     "count": 9
   },
   {
@@ -92,11 +80,23 @@
     "count": 9
   },
   {
-    "company": "Advantest Europe GmbH",
-    "count": 8
+    "company": "Talent&Pro",
+    "count": 9
   },
   {
     "company": "Orizon GmbH, Unit Aviation",
+    "count": 8
+  },
+  {
+    "company": "Eaton Corporation",
+    "count": 8
+  },
+  {
+    "company": "XXXLdigital - Part of XXXL Group",
+    "count": 8
+  },
+  {
+    "company": "NTT",
     "count": 8
   }
 ]
