@@ -1,27 +1,31 @@
 [
   {
     "company": "Job-Room",
-    "count": 106
+    "count": 116
   },
   {
     "company": "Synsel Techniek",
-    "count": 49
+    "count": 53
   },
   {
     "company": "mycareernow GmbH",
-    "count": 22
+    "count": 25
   },
   {
     "company": "Bjak",
-    "count": 22
-  },
-  {
-    "company": "Unknown",
-    "count": 19
+    "count": 25
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 19
+    "count": 21
+  },
+  {
+    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "count": 16
+  },
+  {
+    "company": "Unknown",
+    "count": 16
   },
   {
     "company": "Bright Professionals",
@@ -29,14 +33,30 @@
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 14
-  },
-  {
-    "company": "Lam Research",
     "count": 13
   },
   {
     "company": "FERCHAU GmbH",
+    "count": 13
+  },
+  {
+    "company": "Richemont",
+    "count": 13
+  },
+  {
+    "company": "CGI",
+    "count": 13
+  },
+  {
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 12
+  },
+  {
+    "company": "Jobgether",
+    "count": 12
+  },
+  {
+    "company": "Lam Research",
     "count": 12
   },
   {
@@ -45,22 +65,22 @@
   },
   {
     "company": "PricewaterhouseCoopers",
-    "count": 12
-  },
-  {
-    "company": "CGI",
-    "count": 12
-  },
-  {
-    "company": "Feadship",
     "count": 11
+  },
+  {
+    "company": "Talent&Pro",
+    "count": 11
+  },
+  {
+    "company": "CGM",
+    "count": 10
   },
   {
     "company": "Accenture",
     "count": 10
   },
   {
-    "company": "Richemont",
+    "company": "Roche",
     "count": 10
   },
   {
@@ -68,35 +88,15 @@
     "count": 10
   },
   {
+    "company": "NTT DATA Business Solutions",
+    "count": 9
+  },
+  {
     "company": "Passion for People GmbH",
     "count": 9
   },
   {
-    "company": "CompuGroup Medical SE & Co. KGaA",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
-    "count": 9
-  },
-  {
-    "company": "Talent&Pro",
-    "count": 9
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 8
-  },
-  {
-    "company": "Eaton Corporation",
-    "count": 8
-  },
-  {
-    "company": "XXXLdigital - Part of XXXL Group",
-    "count": 8
-  },
-  {
-    "company": "NTT",
+    "company": "Advantest Europe GmbH",
     "count": 8
   }
 ]
