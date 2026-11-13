@@ -1,27 +1,27 @@
 [
   {
     "company": "Job-Room",
-    "count": 116
+    "count": 115
   },
   {
     "company": "Synsel Techniek",
-    "count": 53
-  },
-  {
-    "company": "mycareernow GmbH",
-    "count": 25
+    "count": 50
   },
   {
     "company": "Bjak",
     "count": 25
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 21
+    "company": "mycareernow GmbH",
+    "count": 22
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
-    "count": 16
+    "company": "We ARE Recruitment Group",
+    "count": 18
+  },
+  {
+    "company": "Jobgether",
+    "count": 17
   },
   {
     "company": "Unknown",
@@ -29,39 +29,23 @@
   },
   {
     "company": "Bright Professionals",
-    "count": 16
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 13
+    "count": 15
   },
   {
     "company": "FERCHAU GmbH",
     "count": 13
   },
   {
-    "company": "Richemont",
-    "count": 13
-  },
-  {
-    "company": "CGI",
-    "count": 13
-  },
-  {
     "company": "Orizon GmbH, Unit Aviation",
-    "count": 12
+    "count": 13
   },
   {
-    "company": "Jobgether",
-    "count": 12
-  },
-  {
-    "company": "Lam Research",
+    "company": "KIND GmbH & Co. KG",
     "count": 12
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 12
+    "count": 11
   },
   {
     "company": "PricewaterhouseCoopers",
@@ -69,6 +53,10 @@
   },
   {
     "company": "Talent&Pro",
+    "count": 11
+  },
+  {
+    "company": "Feadship",
     "count": 11
   },
   {
@@ -80,7 +68,15 @@
     "count": 10
   },
   {
-    "company": "Roche",
+    "company": "NTT",
+    "count": 10
+  },
+  {
+    "company": "Lam Research",
+    "count": 10
+  },
+  {
+    "company": "Google",
     "count": 10
   },
   {
@@ -88,15 +84,19 @@
     "count": 10
   },
   {
-    "company": "NTT DATA Business Solutions",
+    "company": "Akkodis",
     "count": 9
   },
   {
-    "company": "Passion for People GmbH",
+    "company": "ASML",
     "count": 9
   },
   {
-    "company": "Advantest Europe GmbH",
-    "count": 8
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "Brack.Alltron AG",
+    "count": 9
   }
 ]
