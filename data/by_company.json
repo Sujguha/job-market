@@ -5,23 +5,27 @@
   },
   {
     "company": "Synsel Techniek",
-    "count": 50
+    "count": 53
   },
   {
     "company": "Bjak",
-    "count": 25
+    "count": 26
   },
   {
     "company": "mycareernow GmbH",
-    "count": 22
+    "count": 24
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 18
+    "count": 20
+  },
+  {
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 19
   },
   {
     "company": "Jobgether",
-    "count": 17
+    "count": 18
   },
   {
     "company": "Unknown",
@@ -32,16 +36,20 @@
     "count": 15
   },
   {
+    "company": "KIND GmbH & Co. KG",
+    "count": 13
+  },
+  {
     "company": "FERCHAU GmbH",
     "count": 13
   },
   {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 13
+    "company": "CGI",
+    "count": 12
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 12
+    "company": "Lam Research",
+    "count": 11
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
@@ -53,10 +61,6 @@
   },
   {
     "company": "Talent&Pro",
-    "count": 11
-  },
-  {
-    "company": "Feadship",
     "count": 11
   },
   {
@@ -72,16 +76,16 @@
     "count": 10
   },
   {
-    "company": "Lam Research",
-    "count": 10
-  },
-  {
-    "company": "Google",
-    "count": 10
-  },
-  {
     "company": "CGI Nederland",
     "count": 10
+  },
+  {
+    "company": "Advantest Europe GmbH",
+    "count": 9
+  },
+  {
+    "company": "ALTEN Consulting Services",
+    "count": 9
   },
   {
     "company": "Akkodis",
@@ -89,10 +93,6 @@
   },
   {
     "company": "ASML",
-    "count": 9
-  },
-  {
-    "company": "Blockstream",
     "count": 9
   },
   {
