@@ -1,19 +1,19 @@
 [
   {
     "company": "Job-Room",
-    "count": 115
+    "count": 120
   },
   {
     "company": "Synsel Techniek",
-    "count": 53
+    "count": 54
   },
   {
     "company": "Bjak",
-    "count": 26
+    "count": 24
   },
   {
     "company": "mycareernow GmbH",
-    "count": 24
+    "count": 22
   },
   {
     "company": "We ARE Recruitment Group",
@@ -21,15 +21,19 @@
   },
   {
     "company": "Orizon GmbH, Unit Aviation",
-    "count": 19
-  },
-  {
-    "company": "Jobgether",
     "count": 18
   },
   {
     "company": "Unknown",
+    "count": 17
+  },
+  {
+    "company": "Jockel Brandschutztechnik-Service GmbH",
     "count": 16
+  },
+  {
+    "company": "Jobgether",
+    "count": 15
   },
   {
     "company": "Bright Professionals",
@@ -37,6 +41,10 @@
   },
   {
     "company": "KIND GmbH & Co. KG",
+    "count": 14
+  },
+  {
+    "company": "ALTEN Consulting Services",
     "count": 13
   },
   {
@@ -44,23 +52,19 @@
     "count": 13
   },
   {
+    "company": "PricewaterhouseCoopers",
+    "count": 13
+  },
+  {
+    "company": "Talent&Pro",
+    "count": 12
+  },
+  {
     "company": "CGI",
     "count": 12
   },
   {
-    "company": "Lam Research",
-    "count": 11
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 11
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 11
-  },
-  {
-    "company": "Talent&Pro",
+    "company": "ASML",
     "count": 11
   },
   {
@@ -68,11 +72,19 @@
     "count": 10
   },
   {
-    "company": "Accenture",
+    "company": "NTT",
     "count": 10
   },
   {
-    "company": "NTT",
+    "company": "Google",
+    "count": 10
+  },
+  {
+    "company": "Richemont",
+    "count": 10
+  },
+  {
+    "company": "Brack.Alltron AG",
     "count": 10
   },
   {
@@ -84,19 +96,7 @@
     "count": 9
   },
   {
-    "company": "ALTEN Consulting Services",
-    "count": 9
-  },
-  {
-    "company": "Akkodis",
-    "count": 9
-  },
-  {
-    "company": "ASML",
-    "count": 9
-  },
-  {
-    "company": "Brack.Alltron AG",
+    "company": "Accenture",
     "count": 9
   }
 ]

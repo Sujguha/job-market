@@ -1,107 +1,107 @@
 [
   {
-    "role": "Quality Engineer",
-    "count": 197,
-    "avg_days_open": 62.5,
+    "role": "Project Manager",
+    "count": 196,
+    "avg_days_open": 60.0,
     "by_country": {
       "Germany": 50,
-      "Austria": 48,
-      "Switzerland": 49,
+      "Austria": 46,
+      "Switzerland": 50,
       "Netherlands": 50
     }
   },
   {
-    "role": "Project Manager",
-    "count": 195,
-    "avg_days_open": 52.4,
+    "role": "Quality Engineer",
+    "count": 196,
+    "avg_days_open": 64.0,
     "by_country": {
       "Germany": 50,
-      "Austria": 45,
-      "Switzerland": 50,
+      "Austria": 47,
+      "Switzerland": 49,
       "Netherlands": 50
     }
   },
   {
     "role": "Product Manager",
     "count": 194,
-    "avg_days_open": 41.4,
+    "avg_days_open": 41.1,
     "by_country": {
-      "Germany": 47,
-      "Austria": 47,
+      "Germany": 48,
+      "Austria": 46,
       "Switzerland": 50,
       "Netherlands": 50
     }
   },
   {
     "role": "Quality Manager",
-    "count": 186,
-    "avg_days_open": 59.4,
+    "count": 187,
+    "avg_days_open": 59.2,
     "by_country": {
       "Germany": 50,
       "Austria": 42,
-      "Switzerland": 44,
-      "Netherlands": 50
-    }
-  },
-  {
-    "role": "Program Manager",
-    "count": 185,
-    "avg_days_open": 56.4,
-    "by_country": {
-      "Germany": 50,
-      "Austria": 35,
-      "Switzerland": 50,
+      "Switzerland": 45,
       "Netherlands": 50
     }
   },
   {
     "role": "Portfolio Manager",
-    "count": 185,
-    "avg_days_open": 58.7,
+    "count": 186,
+    "avg_days_open": 65.9,
     "by_country": {
       "Germany": 50,
       "Austria": 40,
-      "Switzerland": 48,
+      "Switzerland": 49,
       "Netherlands": 47
     }
   },
   {
-    "role": "Delivery Manager",
+    "role": "Program Manager",
     "count": 183,
-    "avg_days_open": 60.3,
+    "avg_days_open": 59.3,
     "by_country": {
       "Germany": 50,
-      "Austria": 35,
-      "Switzerland": 49,
-      "Netherlands": 49
+      "Austria": 33,
+      "Switzerland": 50,
+      "Netherlands": 50
     }
   },
   {
-    "role": "Product Owner",
-    "count": 180,
-    "avg_days_open": 40.5,
+    "role": "Delivery Manager",
+    "count": 181,
+    "avg_days_open": 60.8,
     "by_country": {
-      "Germany": 49,
-      "Austria": 43,
-      "Switzerland": 39,
+      "Germany": 50,
+      "Austria": 33,
+      "Switzerland": 49,
       "Netherlands": 49
     }
   },
   {
     "role": "PMO",
-    "count": 178,
-    "avg_days_open": 46.9,
+    "count": 180,
+    "avg_days_open": 49.9,
     "by_country": {
       "Germany": 50,
-      "Austria": 29,
-      "Switzerland": 49,
+      "Austria": 30,
+      "Switzerland": 50,
       "Netherlands": 50
+    }
+  },
+  {
+    "role": "Product Owner",
+    "count": 180,
+    "avg_days_open": 42.7,
+    "by_country": {
+      "Germany": 50,
+      "Austria": 43,
+      "Switzerland": 38,
+      "Netherlands": 49
     }
   },
   {
     "role": "Change Manager",
     "count": 162,
-    "avg_days_open": 53.5,
+    "avg_days_open": 54.6,
     "by_country": {
       "Germany": 50,
       "Austria": 19,
@@ -111,54 +111,54 @@
   },
   {
     "role": "Transformation Manager",
-    "count": 139,
-    "avg_days_open": 41.3,
+    "count": 143,
+    "avg_days_open": 41.5,
     "by_country": {
       "Germany": 48,
-      "Austria": 12,
+      "Austria": 11,
       "Switzerland": 46,
-      "Netherlands": 33
+      "Netherlands": 38
     }
   },
   {
     "role": "Scrum Master",
-    "count": 136,
-    "avg_days_open": 107.1,
+    "count": 140,
+    "avg_days_open": 103.5,
     "by_country": {
-      "Germany": 46,
-      "Austria": 8,
-      "Switzerland": 42,
+      "Germany": 45,
+      "Austria": 9,
+      "Switzerland": 46,
       "Netherlands": 40
     }
   },
   {
     "role": "Release Manager",
-    "count": 111,
-    "avg_days_open": 70.8,
+    "count": 110,
+    "avg_days_open": 68.3,
     "by_country": {
       "Germany": 50,
-      "Austria": 10,
-      "Switzerland": 42,
-      "Netherlands": 9
+      "Austria": 9,
+      "Switzerland": 41,
+      "Netherlands": 10
     }
   },
   {
     "role": "Agile Coach",
-    "count": 87,
-    "avg_days_open": 73.3,
+    "count": 85,
+    "avg_days_open": 72.6,
     "by_country": {
       "Germany": 50,
-      "Austria": 5,
-      "Switzerland": 4,
+      "Austria": 4,
+      "Switzerland": 3,
       "Netherlands": 28
     }
   },
   {
     "role": "Release Train Engineer",
-    "count": 28,
-    "avg_days_open": 101.6,
+    "count": 32,
+    "avg_days_open": 93.0,
     "by_country": {
-      "Germany": 23,
+      "Germany": 27,
       "Switzerland": 3,
       "Netherlands": 2
     }
