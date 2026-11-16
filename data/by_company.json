@@ -1,39 +1,31 @@
 [
   {
     "company": "Job-Room",
-    "count": 120
+    "count": 114
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 52
   },
   {
     "company": "Bjak",
-    "count": 24
+    "count": 21
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 22
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 20
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
+    "company": "Jobgether",
     "count": 18
   },
   {
     "company": "Unknown",
-    "count": 17
+    "count": 18
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "company": "mycareernow GmbH",
+    "count": 18
+  },
+  {
+    "company": "We ARE Recruitment Group",
     "count": 16
-  },
-  {
-    "company": "Jobgether",
-    "count": 15
   },
   {
     "company": "Bright Professionals",
@@ -44,8 +36,12 @@
     "count": 14
   },
   {
-    "company": "ALTEN Consulting Services",
-    "count": 13
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 14
+  },
+  {
+    "company": "Talent&Pro",
+    "count": 14
   },
   {
     "company": "FERCHAU GmbH",
@@ -56,7 +52,7 @@
     "count": 13
   },
   {
-    "company": "Talent&Pro",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 12
   },
   {
@@ -64,27 +60,23 @@
     "count": 12
   },
   {
-    "company": "ASML",
+    "company": "Bosch Gruppe",
     "count": 11
   },
   {
-    "company": "CGM",
-    "count": 10
+    "company": "Google",
+    "count": 11
+  },
+  {
+    "company": "Richemont",
+    "count": 11
   },
   {
     "company": "NTT",
     "count": 10
   },
   {
-    "company": "Google",
-    "count": 10
-  },
-  {
-    "company": "Richemont",
-    "count": 10
-  },
-  {
-    "company": "Brack.Alltron AG",
+    "company": "ASML",
     "count": 10
   },
   {
@@ -92,11 +84,19 @@
     "count": 10
   },
   {
-    "company": "Advantest Europe GmbH",
+    "company": "Accenture",
     "count": 9
   },
   {
-    "company": "Accenture",
+    "company": "Lam Research",
     "count": 9
+  },
+  {
+    "company": "Eaton Corporation",
+    "count": 9
+  },
+  {
+    "company": "Innio",
+    "count": 8
   }
 ]
