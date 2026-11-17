@@ -1,15 +1,19 @@
 [
   {
     "company": "Job-Room",
-    "count": 114
+    "count": 130
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
+    "count": 54
   },
   {
     "company": "Bjak",
-    "count": 21
+    "count": 25
+  },
+  {
+    "company": "We ARE Recruitment Group",
+    "count": 20
   },
   {
     "company": "Jobgether",
@@ -20,11 +24,7 @@
     "count": 18
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 18
-  },
-  {
-    "company": "We ARE Recruitment Group",
+    "company": "Orizon GmbH, Unit Aviation",
     "count": 16
   },
   {
@@ -33,18 +33,6 @@
   },
   {
     "company": "KIND GmbH & Co. KG",
-    "count": 14
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 14
-  },
-  {
-    "company": "Talent&Pro",
-    "count": 14
-  },
-  {
-    "company": "FERCHAU GmbH",
     "count": 13
   },
   {
@@ -52,7 +40,7 @@
     "count": 13
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "Bosch Gruppe",
     "count": 12
   },
   {
@@ -60,15 +48,11 @@
     "count": 12
   },
   {
-    "company": "Bosch Gruppe",
+    "company": "FERCHAU GmbH",
     "count": 11
   },
   {
-    "company": "Google",
-    "count": 11
-  },
-  {
-    "company": "Richemont",
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 11
   },
   {
@@ -84,11 +68,11 @@
     "count": 10
   },
   {
-    "company": "Accenture",
-    "count": 9
+    "company": "Talent&Pro",
+    "count": 10
   },
   {
-    "company": "Lam Research",
+    "company": "Accenture",
     "count": 9
   },
   {
@@ -96,7 +80,23 @@
     "count": 9
   },
   {
-    "company": "Innio",
+    "company": "XXXLdigital - Part of XXXL Group",
+    "count": 9
+  },
+  {
+    "company": "Google",
+    "count": 9
+  },
+  {
+    "company": "Richemont",
+    "count": 9
+  },
+  {
+    "company": "Blockstream",
+    "count": 9
+  },
+  {
+    "company": "Lam Research",
     "count": 8
   }
 ]
