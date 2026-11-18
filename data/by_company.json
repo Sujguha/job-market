@@ -1,58 +1,54 @@
 [
   {
     "company": "Job-Room",
-    "count": 130
+    "count": 87
   },
   {
     "company": "Synsel Techniek",
-    "count": 54
+    "count": 56
   },
   {
     "company": "Bjak",
     "count": 25
   },
   {
-    "company": "We ARE Recruitment Group",
-    "count": 20
+    "company": "mycareernow GmbH",
+    "count": 24
   },
   {
-    "company": "Jobgether",
-    "count": 18
+    "company": "We ARE Recruitment Group",
+    "count": 21
   },
   {
     "company": "Unknown",
     "count": 18
   },
   {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 16
-  },
-  {
     "company": "Bright Professionals",
-    "count": 15
+    "count": 18
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 13
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 17
   },
   {
-    "company": "PricewaterhouseCoopers",
-    "count": 13
-  },
-  {
-    "company": "Bosch Gruppe",
-    "count": 12
-  },
-  {
-    "company": "CGI",
-    "count": 12
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 11
+    "company": "Jobgether",
+    "count": 17
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 15
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 14
+  },
+  {
+    "company": "ASML",
+    "count": 11
+  },
+  {
+    "company": "CGI",
     "count": 11
   },
   {
@@ -60,7 +56,7 @@
     "count": 10
   },
   {
-    "company": "ASML",
+    "company": "Google",
     "count": 10
   },
   {
@@ -68,11 +64,11 @@
     "count": 10
   },
   {
-    "company": "Talent&Pro",
-    "count": 10
+    "company": "Lam Research",
+    "count": 9
   },
   {
-    "company": "Accenture",
+    "company": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft",
     "count": 9
   },
   {
@@ -84,19 +80,23 @@
     "count": 9
   },
   {
-    "company": "Google",
-    "count": 9
+    "company": "KIND GmbH & Co. KG",
+    "count": 8
   },
   {
-    "company": "Richemont",
-    "count": 9
+    "company": "Amadeus Fire AG",
+    "count": 8
   },
   {
-    "company": "Blockstream",
-    "count": 9
+    "company": "CompuGroup Medical SE & Co. KGaA",
+    "count": 8
   },
   {
-    "company": "Lam Research",
+    "company": "CGM",
+    "count": 8
+  },
+  {
+    "company": "Roche",
     "count": 8
   }
 ]

@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-11-17T15:26:27+00:00",
-  "total_postings": 2346,
+  "last_updated": "2026-11-18T15:02:42+00:00",
+  "total_postings": 2203,
   "by_country": {
-    "Germany": 710,
-    "Austria": 409,
-    "Switzerland": 615,
-    "Netherlands": 612
+    "Germany": 712,
+    "Austria": 403,
+    "Switzerland": 480,
+    "Netherlands": 608
   },
   "roles_tracked": [
     "Program Manager",
@@ -24,6 +24,6 @@
     "Quality Manager",
     "Quality Engineer"
   ],
-  "failed_queries": 0,
+  "failed_queries": 3,
   "total_queries": 60
 }
