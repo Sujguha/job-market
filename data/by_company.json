@@ -1,62 +1,82 @@
 [
   {
     "company": "Job-Room",
-    "count": 87
+    "count": 116
   },
   {
     "company": "Synsel Techniek",
-    "count": 56
+    "count": 52
   },
   {
-    "company": "Bjak",
-    "count": 25
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 20
   },
   {
-    "company": "mycareernow GmbH",
-    "count": 24
-  },
-  {
-    "company": "We ARE Recruitment Group",
-    "count": 21
+    "company": "FERCHAU GmbH",
+    "count": 18
   },
   {
     "company": "Unknown",
     "count": 18
   },
   {
-    "company": "Bright Professionals",
+    "company": "We ARE Recruitment Group",
     "count": 18
   },
   {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 17
+    "company": "Jobgether",
+    "count": 16
   },
   {
-    "company": "Jobgether",
-    "count": 17
+    "company": "Jockel Brandschutztechnik-Service GmbH",
+    "count": 15
   },
   {
     "company": "AT&S Austria Technologie & Systemtechnik AG",
     "count": 15
   },
   {
-    "company": "FERCHAU GmbH",
+    "company": "Bright Professionals",
+    "count": 15
+  },
+  {
+    "company": "Advantest Europe GmbH",
     "count": 14
+  },
+  {
+    "company": "PricewaterhouseCoopers",
+    "count": 14
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
+    "count": 13
+  },
+  {
+    "company": "CGI",
+    "count": 12
   },
   {
     "company": "ASML",
     "count": 11
   },
   {
-    "company": "CGI",
+    "company": "BJAK",
     "count": 11
+  },
+  {
+    "company": "CGM",
+    "count": 10
   },
   {
     "company": "NTT",
     "count": 10
   },
   {
-    "company": "Google",
+    "company": "Lam Research",
+    "count": 10
+  },
+  {
+    "company": "XXXLdigital - Part of XXXL Group",
     "count": 10
   },
   {
@@ -64,7 +84,7 @@
     "count": 10
   },
   {
-    "company": "Lam Research",
+    "company": "Accenture",
     "count": 9
   },
   {
@@ -76,27 +96,7 @@
     "count": 9
   },
   {
-    "company": "XXXLdigital - Part of XXXL Group",
+    "company": "Google",
     "count": 9
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 8
-  },
-  {
-    "company": "Amadeus Fire AG",
-    "count": 8
-  },
-  {
-    "company": "CompuGroup Medical SE & Co. KGaA",
-    "count": 8
-  },
-  {
-    "company": "CGM",
-    "count": 8
-  },
-  {
-    "company": "Roche",
-    "count": 8
   }
 ]
