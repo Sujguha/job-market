@@ -1,38 +1,34 @@
 [
   {
     "company": "Job-Room",
-    "count": 116
+    "count": 128
   },
   {
     "company": "Synsel Techniek",
-    "count": 52
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 20
-  },
-  {
-    "company": "FERCHAU GmbH",
-    "count": 18
+    "count": 55
   },
   {
     "company": "Unknown",
-    "count": 18
+    "count": 20
   },
   {
     "company": "We ARE Recruitment Group",
-    "count": 18
+    "count": 19
   },
   {
-    "company": "Jobgether",
+    "company": "FERCHAU GmbH",
+    "count": 17
+  },
+  {
+    "company": "Orizon GmbH, Unit Aviation",
     "count": 16
   },
   {
-    "company": "Jockel Brandschutztechnik-Service GmbH",
-    "count": 15
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 16
   },
   {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "company": "PricewaterhouseCoopers",
     "count": 15
   },
   {
@@ -40,23 +36,15 @@
     "count": 15
   },
   {
-    "company": "Advantest Europe GmbH",
-    "count": 14
-  },
-  {
-    "company": "PricewaterhouseCoopers",
-    "count": 14
-  },
-  {
-    "company": "KIND GmbH & Co. KG",
-    "count": 13
+    "company": "Jobgether",
+    "count": 12
   },
   {
     "company": "CGI",
     "count": 12
   },
   {
-    "company": "ASML",
+    "company": "KIND GmbH & Co. KG",
     "count": 11
   },
   {
@@ -64,7 +52,7 @@
     "count": 11
   },
   {
-    "company": "CGM",
+    "company": "Accenture",
     "count": 10
   },
   {
@@ -72,19 +60,19 @@
     "count": 10
   },
   {
-    "company": "Lam Research",
-    "count": 10
-  },
-  {
     "company": "XXXLdigital - Part of XXXL Group",
     "count": 10
   },
   {
-    "company": "CGI Nederland",
+    "company": "ASML",
     "count": 10
   },
   {
-    "company": "Accenture",
+    "company": "CGM",
+    "count": 9
+  },
+  {
+    "company": "Passion for People GmbH",
     "count": 9
   },
   {
@@ -96,7 +84,19 @@
     "count": 9
   },
   {
-    "company": "Google",
+    "company": "Blockstream",
     "count": 9
+  },
+  {
+    "company": "Advantest Europe GmbH",
+    "count": 8
+  },
+  {
+    "company": "Instaffo GmbH",
+    "count": 8
+  },
+  {
+    "company": "Lam Research",
+    "count": 8
   }
 ]
