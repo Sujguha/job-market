@@ -1,42 +1,42 @@
 [
   {
     "company": "Job-Room",
-    "count": 128
+    "count": 129
   },
   {
     "company": "Synsel Techniek",
-    "count": 55
+    "count": 59
   },
   {
     "company": "Unknown",
-    "count": 20
+    "count": 19
   },
   {
     "company": "We ARE Recruitment Group",
     "count": 19
   },
   {
-    "company": "FERCHAU GmbH",
-    "count": 17
-  },
-  {
-    "company": "Orizon GmbH, Unit Aviation",
-    "count": 16
-  },
-  {
-    "company": "AT&S Austria Technologie & Systemtechnik AG",
-    "count": 16
+    "company": "Jobgether",
+    "count": 15
   },
   {
     "company": "PricewaterhouseCoopers",
     "count": 15
   },
   {
-    "company": "Bright Professionals",
-    "count": 15
+    "company": "AT&S Austria Technologie & Systemtechnik AG",
+    "count": 14
   },
   {
-    "company": "Jobgether",
+    "company": "Bright Professionals",
+    "count": 14
+  },
+  {
+    "company": "FERCHAU GmbH",
+    "count": 13
+  },
+  {
+    "company": "KIND GmbH & Co. KG",
     "count": 12
   },
   {
@@ -44,19 +44,11 @@
     "count": 12
   },
   {
-    "company": "KIND GmbH & Co. KG",
-    "count": 11
-  },
-  {
     "company": "BJAK",
     "count": 11
   },
   {
-    "company": "Accenture",
-    "count": 10
-  },
-  {
-    "company": "NTT",
+    "company": "mycareernow GmbH",
     "count": 10
   },
   {
@@ -64,19 +56,15 @@
     "count": 10
   },
   {
-    "company": "ASML",
-    "count": 10
+    "company": "Orizon GmbH, Unit Aviation",
+    "count": 9
   },
   {
-    "company": "CGM",
+    "company": "Accenture",
     "count": 9
   },
   {
     "company": "Passion for People GmbH",
-    "count": 9
-  },
-  {
-    "company": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft",
     "count": 9
   },
   {
@@ -92,11 +80,23 @@
     "count": 8
   },
   {
-    "company": "Instaffo GmbH",
+    "company": "NTT",
     "count": 8
   },
   {
     "company": "Lam Research",
+    "count": 8
+  },
+  {
+    "company": "Google",
+    "count": 8
+  },
+  {
+    "company": "Richemont",
+    "count": 8
+  },
+  {
+    "company": "ASML",
     "count": 8
   }
 ]
